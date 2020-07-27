@@ -2290,3 +2290,1634 @@
 {"query":1162,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
 {"query":1162,"company":"postnl","name":"Jumbo","address":"Kastelenstraat 70, 1083CD Amsterdam"}
 {"query":1162,"company":"postnl","name":"Attent Gunes","address":"Arent Janszoon Ernststr 183 -185, 1083GV Amsterdam"}
+{"query":1163,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1163,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1163,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1163,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1163,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1163,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1163,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1163,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1163,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1164,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1164,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1164,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1164,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1164,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1164,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1164,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1165,"company":"postnl","name":"Primera Zwanenburg","address":"Dennenlaan 50, 1161CS Zwanenburg"}
+{"query":1165,"company":"postnl","name":"Albert Heijn","address":"Lageweg 1 B, 2064KZ Spaarndam"}
+{"query":1166,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1166,"company":"postnl","name":"Jumbo","address":"Buitenveldertselaan 184, 1081AC Amsterdam"}
+{"query":1166,"company":"postnl","name":"Used Products Amstelveen","address":"Amsterdamseweg 207, 1182GW Amstelveen"}
+{"query":1166,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
+{"query":1166,"company":"postnl","name":"Jumbo","address":"Kastelenstraat 70, 1083CD Amsterdam"}
+{"query":1166,"company":"postnl","name":"Attent Gunes","address":"Arent Janszoon Ernststr 183 -185, 1083GV Amsterdam"}
+{"query":1167,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1167,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1167,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1167,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1167,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1167,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1167,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1167,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1167,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1167,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1167,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1167,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1167,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1168,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1168,"company":"postnl","name":"Jumbo","address":"Buitenveldertselaan 184, 1081AC Amsterdam"}
+{"query":1168,"company":"postnl","name":"Used Products Amstelveen","address":"Amsterdamseweg 207, 1182GW Amstelveen"}
+{"query":1168,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
+{"query":1168,"company":"postnl","name":"Jumbo","address":"Kastelenstraat 70, 1083CD Amsterdam"}
+{"query":1168,"company":"postnl","name":"Attent Gunes","address":"Arent Janszoon Ernststr 183 -185, 1083GV Amsterdam"}
+{"query":1169,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1169,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1169,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1169,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1169,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1169,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1169,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1169,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1169,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1169,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1169,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1169,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1169,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1169,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1169,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1169,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1169,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam"}
+{"query":1169,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam"}
+{"query":1169,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam"}
+{"query":1169,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam"}
+{"query":1169,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam"}
+{"query":1169,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam"}
+{"query":1170,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1170,"company":"postnl","name":"Jumbo","address":"Buitenveldertselaan 184, 1081AC Amsterdam"}
+{"query":1170,"company":"postnl","name":"Used Products Amstelveen","address":"Amsterdamseweg 207, 1182GW Amstelveen"}
+{"query":1170,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
+{"query":1170,"company":"postnl","name":"Jumbo","address":"Kastelenstraat 70, 1083CD Amsterdam"}
+{"query":1170,"company":"postnl","name":"Attent Gunes","address":"Arent Janszoon Ernststr 183 -185, 1083GV Amsterdam"}
+{"query":1171,"company":"postnl","name":"Cigo","address":"Pa Verkuijllaan 23, 1171EA Badhoevedorp"}
+{"query":1171,"company":"postnl","name":"Ottenhoff Motoren Garage Ottenhoff","address":"Sloterweg 218 -220, 1171CX Badhoevedorp"}
+{"query":1171,"company":"postnl","name":"Tankstation Gulf Badhoevedorp","address":"Swammerdamstraat 2, 1171XJ Badhoevedorp"}
+{"query":1171,"company":"postnl","name":"Amrâth Apart-Hotel Schiphol","address":"Meidoornweg 2, 1171JW Badhoevedorp"}
+{"query":1172,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1172,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1172,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1172,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1172,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1172,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1172,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1173,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1173,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1173,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1173,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1173,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1173,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1173,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1173,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1173,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1173,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1173,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1173,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1173,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1173,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1173,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1173,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1173,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam"}
+{"query":1173,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam"}
+{"query":1173,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam"}
+{"query":1173,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam"}
+{"query":1173,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam"}
+{"query":1173,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam"}
+{"query":1174,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1174,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1174,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1174,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1174,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1174,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1174,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1175,"company":"postnl","name":"Ottenhoff Motoren Garage Ottenhoff","address":"Sloterweg 218 -220, 1171CX Badhoevedorp"}
+{"query":1175,"company":"postnl","name":"Tankstation Gulf Badhoevedorp","address":"Swammerdamstraat 2, 1171XJ Badhoevedorp"}
+{"query":1175,"company":"postnl","name":"Cigo","address":"Pa Verkuijllaan 23, 1171EA Badhoevedorp"}
+{"query":1175,"company":"postnl","name":"Easy Shop De Aker/ La Sourire","address":"Pieter Calandlaan 812, 1060TZ Amsterdam"}
+{"query":1175,"company":"postnl","name":"Primera Dijkgraafplein","address":"Dijkgraafplein 32, 1069EW Amsterdam"}
+{"query":1175,"company":"postnl","name":"Vivant","address":"Tussen Meer 375, 1069DR Amsterdam"}
+{"query":1175,"company":"postnl","name":"Amrâth Apart-Hotel Schiphol","address":"Meidoornweg 2, 1171JW Badhoevedorp"}
+{"query":1176,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1176,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1176,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1176,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1176,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1176,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1176,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1177,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1177,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1177,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1177,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1177,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1177,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1177,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1177,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1177,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1177,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1177,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1177,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1177,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1177,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1177,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1177,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1177,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam"}
+{"query":1177,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam"}
+{"query":1177,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam"}
+{"query":1177,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam"}
+{"query":1177,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam"}
+{"query":1177,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam"}
+{"query":1178,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1178,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1178,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1178,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1178,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1178,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1178,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1179,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1179,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1179,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1179,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1179,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1179,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1179,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1179,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1179,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1179,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1179,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1179,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1179,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1179,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1179,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1179,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1179,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1180,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1180,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1180,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1180,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1180,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1180,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1180,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1181,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1181,"company":"postnl","name":"The Readshop","address":"Rembrandthof 53, 1181ZL Amstelveen"}
+{"query":1181,"company":"postnl","name":"Gebroeders Winter Amstelveen","address":"Karel Doormanweg 18, 1181WE Amstelveen"}
+{"query":1181,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
+{"query":1181,"company":"postnl","name":"Used Products Amstelveen","address":"Amsterdamseweg 207, 1182GW Amstelveen"}
+{"query":1181,"company":"postnl","name":"Albert Heijn van der Linden","address":"Amsterdamseweg 73, 1182GP Amstelveen"}
+{"query":1182,"company":"dpd","name":"Het Beestenkasteel","address":"Galerij 9, 1181ZN Amstelveen"}
+{"query":1182,"company":"dpd","name":"Dis","address":"Lindenlaan 382, 1185NM Amstelveen"}
+{"query":1182,"company":"dpd","name":"Hendrik's Ambachtelijke Vakschoenma","address":"Kastelenstraat 67A, 1083CC Amsterdam"}
+{"query":1182,"company":"dpd","name":"Schoenmakerij Platje","address":"Marathonweg 11, 1076SX Amsterdam"}
+{"query":1182,"company":"dpd","name":"Dierplezier","address":"Parlevinker 55, 1186ZB Amstelveen"}
+{"query":1182,"company":"dpd","name":"Rd Telecom","address":"Sierplein 39, 1065LM Amsterdam"}
+{"query":1182,"company":"dpd","name":"For Your Taste Only","address":"Maasstraat 118, 1078HN Amsterdam"}
+{"query":1182,"company":"dpd","name":"Homerrpoint Ask Tabaksshop","address":"Rhijnvis Feithstraat 45, 1054TW Amsterdam"}
+{"query":1182,"company":"dpd","name":"Zijwind","address":"Scheldestraat 11, 1078GD Amsterdam"}
+{"query":1182,"company":"dpd","name":"Hartelust","address":"Oosteinderweg 279, 1432AV Aalsmeer"}
+{"query":1182,"company":"postnl","name":"Used Products Amstelveen","address":"Amsterdamseweg 207, 1182GW Amstelveen"}
+{"query":1182,"company":"postnl","name":"Albert Heijn van der Linden","address":"Amsterdamseweg 73, 1182GP Amstelveen"}
+{"query":1182,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1183,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
+{"query":1183,"company":"postnl","name":"Gebroeders Winter Amstelveen","address":"Karel Doormanweg 18, 1181WE Amstelveen"}
+{"query":1183,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1183,"company":"postnl","name":"The Readshop","address":"Rembrandthof 53, 1181ZL Amstelveen"}
+{"query":1184,"company":"postnl","name":"Gemakswinkel aan de Amstel","address":"Kerkstraat 29, 1191JC Ouderkerk aan de Amstel"}
+{"query":1184,"company":"postnl","name":"Gebroeders Winter Amstelveen","address":"Karel Doormanweg 18, 1181WE Amstelveen"}
+{"query":1185,"company":"postnl","name":"Coop","address":"Van der Hooplaan 180, 1185GK Amstelveen"}
+{"query":1185,"company":"postnl","name":"Primera","address":"Brink 34, 1188NC Amstelveen"}
+{"query":1185,"company":"postnl","name":"The Readshop","address":"Rembrandthof 53, 1181ZL Amstelveen"}
+{"query":1185,"company":"postnl","name":"RAJA SPICES ASIAN SUPERMARKET","address":"Parlevinker 35, 1186ZB Amstelveen"}
+{"query":1185,"company":"postnl","name":"GAMMA Amstelveen","address":"Grutterij 1 -IND, 1185ZT Amstelveen"}
+{"query":1185,"company":"postnl","name":"De Twister","address":"Westwijkplein 76, 1187LV Amstelveen"}
+{"query":1186,"company":"postnl","name":"RAJA SPICES ASIAN SUPERMARKET","address":"Parlevinker 35, 1186ZB Amstelveen"}
+{"query":1186,"company":"postnl","name":"Primera","address":"Brink 34, 1188NC Amstelveen"}
+{"query":1186,"company":"postnl","name":"Coop","address":"Van der Hooplaan 180, 1185GK Amstelveen"}
+{"query":1187,"company":"postnl","name":"De Twister","address":"Westwijkplein 76, 1187LV Amstelveen"}
+{"query":1187,"company":"postnl","name":"GAMMA Amstelveen","address":"Grutterij 1 -IND, 1185ZT Amstelveen"}
+{"query":1187,"company":"postnl","name":"Primera","address":"Brink 34, 1188NC Amstelveen"}
+{"query":1187,"company":"postnl","name":"Primera","address":"Brink 34, 1188NC Amstelveen"}
+{"query":1188,"company":"postnl","name":"Primera","address":"Brink 34, 1188NC Amstelveen"}
+{"query":1188,"company":"postnl","name":"RAJA SPICES ASIAN SUPERMARKET","address":"Parlevinker 35, 1186ZB Amstelveen"}
+{"query":1188,"company":"postnl","name":"Adas V.O.F.","address":"Ondernemingsweg 56 N, 1422DZ Uithoorn"}
+{"query":1188,"company":"postnl","name":"GAMMA Amstelveen","address":"Grutterij 1 -IND, 1185ZT Amstelveen"}
+{"query":1188,"company":"postnl","name":"The Read Shop","address":"Zijdelwaardplein 54, 1422AN Uithoorn"}
+{"query":1188,"company":"postnl","name":"Jumbo (3725) Uithoorn","address":"Zijdelwaardplein 60, 1422DN Uithoorn"}
+{"query":1188,"company":"postnl","name":"Primera de Jong","address":"Zijdelwaardplein 91, 1422DL Uithoorn"}
+{"query":1188,"company":"postnl","name":"De Twister","address":"Westwijkplein 76, 1187LV Amstelveen"}
+{"query":1188,"company":"postnl","name":"Primera","address":"Poldermeesterplein 5, 1432JZ Aalsmeer"}
+{"query":1189,"company":"postnl","name":"RAJA SPICES ASIAN SUPERMARKET","address":"Parlevinker 35, 1186ZB Amstelveen"}
+{"query":1189,"company":"postnl","name":"Primera","address":"Brink 34, 1188NC Amstelveen"}
+{"query":1189,"company":"postnl","name":"Adas V.O.F.","address":"Ondernemingsweg 56 N, 1422DZ Uithoorn"}
+{"query":1189,"company":"postnl","name":"The Read Shop","address":"Zijdelwaardplein 54, 1422AN Uithoorn"}
+{"query":1189,"company":"postnl","name":"Jumbo (3725) Uithoorn","address":"Zijdelwaardplein 60, 1422DN Uithoorn"}
+{"query":1189,"company":"postnl","name":"Primera de Jong","address":"Zijdelwaardplein 91, 1422DL Uithoorn"}
+{"query":1189,"company":"postnl","name":"GAMMA Amstelveen","address":"Grutterij 1 -IND, 1185ZT Amstelveen"}
+{"query":1189,"company":"postnl","name":"De Twister","address":"Westwijkplein 76, 1187LV Amstelveen"}
+{"query":1190,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1190,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1190,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1190,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1190,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1190,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1190,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1191,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1191,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1191,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1191,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1191,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1191,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1191,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1191,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1191,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1191,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1191,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1191,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1191,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1191,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1192,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1192,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1192,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1192,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1192,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1192,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1192,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1193,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1193,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1193,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1193,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1193,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1193,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1193,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1193,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1193,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1193,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1193,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1193,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1193,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1193,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1193,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1193,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1193,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam"}
+{"query":1193,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam"}
+{"query":1193,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam"}
+{"query":1193,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam"}
+{"query":1193,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam"}
+{"query":1193,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam"}
+{"query":1194,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1194,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1194,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1194,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1194,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1194,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1194,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1195,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1195,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1195,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1195,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1195,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1195,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1195,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1195,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1195,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1195,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1195,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1195,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1195,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1195,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1195,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1196,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1196,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1196,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1197,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1197,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1197,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1197,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1197,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1197,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1197,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1197,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1197,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1197,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1197,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1197,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1197,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1197,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1197,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1197,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1197,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam"}
+{"query":1197,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam"}
+{"query":1197,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam"}
+{"query":1197,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam"}
+{"query":1197,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam"}
+{"query":1197,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam"}
+{"query":1198,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1198,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1198,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1198,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1198,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1198,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1198,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1199,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam"}
+{"query":1199,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam"}
+{"query":1199,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam"}
+{"query":1199,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam"}
+{"query":1199,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam"}
+{"query":1199,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam"}
+{"query":1199,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam"}
+{"query":1199,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam"}
+{"query":1199,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam"}
+{"query":1199,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam"}
+{"query":1199,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam"}
+{"query":1199,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam"}
+{"query":1199,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam"}
+{"query":1199,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam"}
+{"query":1199,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam"}
+{"query":1199,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam"}
+{"query":1199,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam"}
+{"query":1199,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam"}
+{"query":1199,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam"}
+{"query":1199,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam"}
+{"query":1199,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam"}
+{"query":1199,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam"}
+{"query":1200,"company":"postnl","name":"Fotolerant","address":"Rembrandtweg 657, 1181GV Amstelveen"}
+{"query":1200,"company":"postnl","name":"Jumbo","address":"Buitenveldertselaan 184, 1081AC Amsterdam"}
+{"query":1200,"company":"postnl","name":"Used Products Amstelveen","address":"Amsterdamseweg 207, 1182GW Amstelveen"}
+{"query":1200,"company":"postnl","name":"Bruna","address":"Kostverlorenhof 20, 1183HE Amstelveen"}
+{"query":1200,"company":"postnl","name":"Jumbo","address":"Kastelenstraat 70, 1083CD Amsterdam"}
+{"query":1200,"company":"postnl","name":"Attent Gunes","address":"Arent Janszoon Ernststr 183 -185, 1083GV Amsterdam"}
+{"query":1201,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1201,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1201,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1201,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1201,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1202,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1202,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1202,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1202,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1202,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1203,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1203,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1203,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1203,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1203,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1204,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1204,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1204,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1204,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1204,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1205,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1205,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1205,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1205,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1205,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1206,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1206,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1206,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1206,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1206,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1207,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1207,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1207,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1207,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1207,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1208,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1208,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1208,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1208,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1208,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1209,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1209,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1209,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1209,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1209,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1210,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1210,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1210,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1210,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1210,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1211,"company":"postnl","name":"Primera","address":"Hilvertshof 51, 1211ER Hilversum"}
+{"query":1211,"company":"postnl","name":"Post & Office","address":"Schoutenstraat 4, 1211BM Hilversum"}
+{"query":1211,"company":"postnl","name":"Hoogvliet Groest","address":"Groest 7, 1211CX Hilversum"}
+{"query":1211,"company":"postnl","name":"Bruna","address":"Gijsbrecht van Amstelstr 123, 1214AW Hilversum"}
+{"query":1211,"company":"postnl","name":"Sigarenmagazijn 't Haasje","address":"Neuweg 196, 1214HB Hilversum"}
+{"query":1211,"company":"postnl","name":"Attent","address":"Minckelersstraat 43, 1223LC Hilversum"}
+{"query":1211,"company":"postnl","name":"Jumbo","address":"Larenseweg 155, 1221CL Hilversum"}
+{"query":1211,"company":"postnl","name":"Tabaksspeciaalzaak Toko-Roko","address":"Jan van der Heijdenstr 25 -27, 1222HP Hilversum"}
+{"query":1211,"company":"postnl","name":"Primera Seinhorst","address":"Jan van der Heijdenstr 41 A, 1223BG Hilversum"}
+{"query":1211,"company":"postnl","name":"Vivant","address":"Oosterengweg 68, 1212CP Hilversum"}
+{"query":1211,"company":"postnl","name":"Hoogvliet","address":"Seinstraat 3, 1223DE Hilversum"}
+{"query":1211,"company":"postnl","name":"Gamma","address":"Verlengde Zuiderloswal 30, 1216BX Hilversum"}
+{"query":1211,"company":"postnl","name":"Office Centre","address":"Vreelandseweg 5, 1216CG Hilversum"}
+{"query":1212,"company":"postnl","name":"Vivant","address":"Oosterengweg 68, 1212CP Hilversum"}
+{"query":1212,"company":"postnl","name":"Attent","address":"Minckelersstraat 43, 1223LC Hilversum"}
+{"query":1212,"company":"postnl","name":"Hoogvliet Groest","address":"Groest 7, 1211CX Hilversum"}
+{"query":1212,"company":"postnl","name":"Primera","address":"Hilvertshof 51, 1211ER Hilversum"}
+{"query":1212,"company":"postnl","name":"Bruna","address":"Gijsbrecht van Amstelstr 123, 1214AW Hilversum"}
+{"query":1212,"company":"postnl","name":"Post & Office","address":"Schoutenstraat 4, 1211BM Hilversum"}
+{"query":1212,"company":"postnl","name":"Sigarenmagazijn 't Haasje","address":"Neuweg 196, 1214HB Hilversum"}
+{"query":1213,"company":"dpd","name":"Vaww Hilversum B.V.","address":"Gijsbrecht Van Amstelstraat 161, 1214AX Hilversum"}
+{"query":1213,"company":"dpd","name":"Rf Tweewielers / Fietsenstalling Ze","address":"Zeedijk 33A, 1211CV Hilversum"}
+{"query":1213,"company":"dpd","name":"Kinderwinkel Mevrouw Groen","address":"s-Gravelandseweg 46, 1211BT Hilversum"}
+{"query":1213,"company":"dpd","name":"Kringloop Emptor","address":"Larenseweg 9, 1221CH Hilversum"}
+{"query":1213,"company":"dpd","name":"Designandmore","address":"Berlagelaan 79, 1222JP Hilversum"}
+{"query":1213,"company":"dpd","name":"Wim Hogeveen Herenmode","address":"Laanstraat 65 D, 3743BB Baarn"}
+{"query":1213,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1213,"company":"dpd","name":"Repairpoint","address":"Van Weedestraat 18, 3761CE Soest"}
+{"query":1213,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1213,"company":"dpd","name":"Onderdelenshop De Bilt","address":"Hessenweg 104, 3731JM De Bilt"}
+{"query":1213,"company":"postnl","name":"Bruna Landgraaf","address":"Paganinipassage 92, 6371LJ Landgraaf"}
+{"query":1213,"company":"postnl","name":"Jumbo","address":"Vivaldipassage 5, 6371LL Landgraaf"}
+{"query":1213,"company":"postnl","name":"KARWEI Landgraaf","address":"Havikweg 6, 6374AZ Landgraaf"}
+{"query":1213,"company":"postnl","name":"Kringloopwinkel","address":"Vogelzankweg 179 A, 6374AC Landgraaf"}
+{"query":1213,"company":"postnl","name":"Plus Wetzels","address":"Hovenstraat 128, 6374HG Landgraaf"}
+{"query":1213,"company":"postnl","name":"Expert Landgraaf","address":"Korte Hovenstraat 5, 6374GG Landgraaf"}
+{"query":1214,"company":"postnl","name":"Sigarenmagazijn 't Haasje","address":"Neuweg 196, 1214HB Hilversum"}
+{"query":1214,"company":"postnl","name":"Bruna","address":"Gijsbrecht van Amstelstr 123, 1214AW Hilversum"}
+{"query":1214,"company":"postnl","name":"Post & Office","address":"Schoutenstraat 4, 1211BM Hilversum"}
+{"query":1214,"company":"postnl","name":"Hoogvliet","address":"Admiraal de Ruyterlaan 16 A, 1215NA Hilversum"}
+{"query":1214,"company":"postnl","name":"Primera","address":"Hilvertshof 51, 1211ER Hilversum"}
+{"query":1214,"company":"postnl","name":"Gamma","address":"Verlengde Zuiderloswal 30, 1216BX Hilversum"}
+{"query":1214,"company":"postnl","name":"Office Centre","address":"Vreelandseweg 5, 1216CG Hilversum"}
+{"query":1214,"company":"postnl","name":"Vivant","address":"Oosterengweg 68, 1212CP Hilversum"}
+{"query":1214,"company":"postnl","name":"Karwei","address":"2e Loswal 4, 1216BC Hilversum"}
+{"query":1214,"company":"postnl","name":"Attent","address":"Minckelersstraat 43, 1223LC Hilversum"}
+{"query":1215,"company":"postnl","name":"Hoogvliet","address":"Admiraal de Ruyterlaan 16 A, 1215NA Hilversum"}
+{"query":1215,"company":"postnl","name":"Sigarenmagazijn 't Haasje","address":"Neuweg 196, 1214HB Hilversum"}
+{"query":1215,"company":"postnl","name":"Gamma","address":"Verlengde Zuiderloswal 30, 1216BX Hilversum"}
+{"query":1215,"company":"postnl","name":"Office Centre","address":"Vreelandseweg 5, 1216CG Hilversum"}
+{"query":1215,"company":"postnl","name":"Bruna","address":"Gijsbrecht van Amstelstr 123, 1214AW Hilversum"}
+{"query":1215,"company":"postnl","name":"Karwei","address":"2e Loswal 4, 1216BC Hilversum"}
+{"query":1215,"company":"postnl","name":"Post & Office","address":"Schoutenstraat 4, 1211BM Hilversum"}
+{"query":1215,"company":"postnl","name":"Primera","address":"Hilvertshof 51, 1211ER Hilversum"}
+{"query":1215,"company":"postnl","name":"Hoogvliet Groest","address":"Groest 7, 1211CX Hilversum"}
+{"query":1216,"company":"postnl","name":"Karwei","address":"2e Loswal 4, 1216BC Hilversum"}
+{"query":1216,"company":"postnl","name":"Office Centre","address":"Vreelandseweg 5, 1216CG Hilversum"}
+{"query":1216,"company":"postnl","name":"Gamma","address":"Verlengde Zuiderloswal 30, 1216BX Hilversum"}
+{"query":1216,"company":"postnl","name":"Hoogvliet","address":"Admiraal de Ruyterlaan 16 A, 1215NA Hilversum"}
+{"query":1216,"company":"postnl","name":"Sigarenmagazijn 't Haasje","address":"Neuweg 196, 1214HB Hilversum"}
+{"query":1217,"company":"postnl","name":"Jumbo (3766) Hilversum","address":"Stephensonlaan 45 -49, 1222NV Hilversum"}
+{"query":1218,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1218,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1218,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1218,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1218,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1219,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1219,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1219,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1219,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1219,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1220,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1220,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1220,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1220,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1220,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1221,"company":"postnl","name":"Jumbo","address":"Larenseweg 155, 1221CL Hilversum"}
+{"query":1221,"company":"postnl","name":"Tabaksspeciaalzaak Toko-Roko","address":"Jan van der Heijdenstr 25 -27, 1222HP Hilversum"}
+{"query":1221,"company":"postnl","name":"Primera Seinhorst","address":"Jan van der Heijdenstr 41 A, 1223BG Hilversum"}
+{"query":1221,"company":"postnl","name":"Hoogvliet","address":"Seinstraat 3, 1223DE Hilversum"}
+{"query":1221,"company":"postnl","name":"Hoogvliet Groest","address":"Groest 7, 1211CX Hilversum"}
+{"query":1221,"company":"postnl","name":"Attent","address":"Minckelersstraat 43, 1223LC Hilversum"}
+{"query":1221,"company":"postnl","name":"Primera","address":"Hilvertshof 51, 1211ER Hilversum"}
+{"query":1221,"company":"postnl","name":"Vivant","address":"Oosterengweg 68, 1212CP Hilversum"}
+{"query":1221,"company":"postnl","name":"Post & Office","address":"Schoutenstraat 4, 1211BM Hilversum"}
+{"query":1221,"company":"postnl","name":"Jumbo (3766) Hilversum","address":"Stephensonlaan 45 -49, 1222NV Hilversum"}
+{"query":1221,"company":"postnl","name":"Bruna","address":"Gijsbrecht van Amstelstr 123, 1214AW Hilversum"}
+{"query":1222,"company":"postnl","name":"Albert Heijn","address":"Koekoeklaan 88, 1403EH Bussum"}
+{"query":1222,"company":"postnl","name":"Jumbo (3766) Hilversum","address":"Stephensonlaan 45 -49, 1222NV Hilversum"}
+{"query":1222,"company":"postnl","name":"Jumbo","address":"Larenseweg 155, 1221CL Hilversum"}
+{"query":1222,"company":"postnl","name":"Tabaksspeciaalzaak Toko-Roko","address":"Jan van der Heijdenstr 25 -27, 1222HP Hilversum"}
+{"query":1222,"company":"postnl","name":"De Buurt Super","address":"H. Kamerlingh Onnesweg 49, 1402ED Bussum"}
+{"query":1222,"company":"postnl","name":"Primera Seinhorst","address":"Jan van der Heijdenstr 41 A, 1223BG Hilversum"}
+{"query":1222,"company":"postnl","name":"Hoogvliet","address":"Seinstraat 3, 1223DE Hilversum"}
+{"query":1222,"company":"postnl","name":"Hoogvliet Groest","address":"Groest 7, 1211CX Hilversum"}
+{"query":1222,"company":"postnl","name":"Topkantoor Repro Creatief B.V.","address":"Huizerweg 26 A, 1402AB Bussum"}
+{"query":1222,"company":"postnl","name":"Jumbo","address":"Plein 1945 3, 1251MA Laren (NH)"}
+{"query":1222,"company":"postnl","name":"Gamma","address":"Franse Kampweg 12, 1406NW Bussum"}
+{"query":1222,"company":"postnl","name":"Albert Heijn","address":"De Meent 19, 1218CB Hilversum"}
+{"query":1223,"company":"postnl","name":"Attent","address":"Minckelersstraat 43, 1223LC Hilversum"}
+{"query":1223,"company":"postnl","name":"Hoogvliet","address":"Seinstraat 3, 1223DE Hilversum"}
+{"query":1223,"company":"postnl","name":"Vivant","address":"Oosterengweg 68, 1212CP Hilversum"}
+{"query":1223,"company":"postnl","name":"Primera Seinhorst","address":"Jan van der Heijdenstr 41 A, 1223BG Hilversum"}
+{"query":1223,"company":"postnl","name":"Tabaksspeciaalzaak Toko-Roko","address":"Jan van der Heijdenstr 25 -27, 1222HP Hilversum"}
+{"query":1223,"company":"postnl","name":"Jumbo","address":"Larenseweg 155, 1221CL Hilversum"}
+{"query":1223,"company":"postnl","name":"Hoogvliet Groest","address":"Groest 7, 1211CX Hilversum"}
+{"query":1223,"company":"postnl","name":"Primera","address":"Hilvertshof 51, 1211ER Hilversum"}
+{"query":1223,"company":"postnl","name":"Post & Office","address":"Schoutenstraat 4, 1211BM Hilversum"}
+{"query":1223,"company":"postnl","name":"Jumbo (3766) Hilversum","address":"Stephensonlaan 45 -49, 1222NV Hilversum"}
+{"query":1224,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1224,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1224,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1224,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1224,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1225,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1225,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1225,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1225,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1225,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1226,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1226,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1226,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1226,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1226,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1227,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1227,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1227,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1227,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1227,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1228,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1228,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1228,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1228,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1228,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1229,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1229,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1229,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1229,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1229,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1230,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1230,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1230,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1230,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1230,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1231,"company":"postnl","name":"Jumbo","address":"Nootweg 45, 1231CR Loosdrecht"}
+{"query":1231,"company":"postnl","name":"Boni Loosdrecht","address":"Rading 146, 1231KE Loosdrecht"}
+{"query":1232,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1232,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1232,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1232,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1232,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1233,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1233,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1233,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1233,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1233,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1234,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1234,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1234,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1234,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1234,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1235,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1235,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1235,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1235,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1235,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1236,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1236,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1236,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1236,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1236,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1237,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1237,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1237,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1237,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1237,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1238,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1238,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1238,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1238,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1238,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1239,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1239,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1239,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1239,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1239,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1240,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1240,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1240,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1240,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1240,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1241,"company":"postnl","name":"Jumbo Kortenhoef","address":"Curtevenneweg 2, 1241XZ Kortenhoef"}
+{"query":1242,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1242,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1242,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1242,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1242,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1243,"company":"postnl","name":"Jumbo Kortenhoef","address":"Curtevenneweg 2, 1241XZ Kortenhoef"}
+{"query":1244,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1244,"company":"dpd","name":"Bijvoet Sport","address":"Achtergracht 2, 1381BN Weesp"}
+{"query":1244,"company":"dpd","name":"Kinderwinkel Mevrouw Groen","address":"s-Gravelandseweg 46, 1211BT Hilversum"}
+{"query":1244,"company":"dpd","name":"Designandmore","address":"Berlagelaan 79, 1222JP Hilversum"}
+{"query":1244,"company":"dpd","name":"Rf Tweewielers / Fietsenstalling Ze","address":"Zeedijk 33A, 1211CV Hilversum"}
+{"query":1244,"company":"dpd","name":"Kringloop Emptor","address":"Larenseweg 9, 1221CH Hilversum"}
+{"query":1244,"company":"dpd","name":"Vaww Hilversum B.V.","address":"Gijsbrecht Van Amstelstraat 161, 1214AX Hilversum"}
+{"query":1244,"company":"dpd","name":"Fa Liefhebber","address":"Hoogstraat 2, 1391BS Abcoude"}
+{"query":1244,"company":"dpd","name":"Cheers Reigersbos","address":"Reigersbos 98B, 1107ES Amsterdam"}
+{"query":1244,"company":"dpd","name":"Detectorforyou","address":"Reigersbos 90B, 1106AS Amsterdam"}
+{"query":1244,"company":"postnl","name":"Albert Heijn","address":"De Meent 19, 1218CB Hilversum"}
+{"query":1244,"company":"postnl","name":"Gamma","address":"Franse Kampweg 12, 1406NW Bussum"}
+{"query":1244,"company":"postnl","name":"Albert Heijn","address":"Voorstraat 10, 1394CS Nederhorst den Berg"}
+{"query":1244,"company":"postnl","name":"Plus","address":"Mackaylaan 48 -54, 1412CR Naarden"}
+{"query":1245,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1245,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1245,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1245,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1246,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1246,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1246,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1246,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1246,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1247,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1247,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1247,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1247,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1248,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1248,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1248,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1248,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1248,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1249,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1249,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1249,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1249,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1250,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1250,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1250,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1250,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1250,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1251,"company":"postnl","name":"Jumbo","address":"Plein 1945 3, 1251MA Laren (NH)"}
+{"query":1252,"company":"postnl","name":"Jumbo","address":"Plein 1945 3, 1251MA Laren (NH)"}
+{"query":1253,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1253,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1253,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1253,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1254,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1254,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1254,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1254,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1254,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1255,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1255,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1255,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1255,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1256,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1256,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1256,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1256,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1256,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1257,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1257,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1257,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1257,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1258,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1258,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1258,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1258,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1258,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1259,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1259,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1259,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1259,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1260,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1260,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1260,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1260,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1260,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1261,"company":"postnl","name":"Albert Heijn","address":"Huizerweg 8, 1261AW Blaricum"}
+{"query":1261,"company":"postnl","name":"Coop Supermarkt","address":"Hooibrug 1, 1261MV Blaricum"}
+{"query":1262,"company":"postnl","name":"Business Point Van der Wal","address":"Binnendelta 1 T, 1261WZ Blaricum"}
+{"query":1262,"company":"postnl","name":"RF Tweewielers Huizen","address":"De Regentesse 96, 1273JZ Huizen"}
+{"query":1262,"company":"postnl","name":"Coop Supermarkt","address":"Hooibrug 1, 1261MV Blaricum"}
+{"query":1262,"company":"postnl","name":"Boni supermarkt","address":"Holleblok 22, 1273EG Huizen"}
+{"query":1263,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1263,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1263,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1263,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1263,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1263,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1263,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1264,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1264,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1264,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1264,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1264,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1265,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1265,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1265,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1265,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1265,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1265,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1265,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1266,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1266,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1266,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1266,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1266,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1267,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1267,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1267,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1267,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1267,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1267,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1267,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1268,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1268,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1268,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1268,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1268,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1269,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1269,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1269,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1269,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1269,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1269,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1269,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1270,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1270,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1270,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1270,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1270,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1271,"company":"postnl","name":"KARWEI Huizen","address":"Warandebergstraat 45, 1271ZC Huizen"}
+{"query":1271,"company":"postnl","name":"Bruna","address":"Kerkstraat 36, 1271RM Huizen"}
+{"query":1271,"company":"postnl","name":"Boni supermarkt","address":"Holleblok 22, 1273EG Huizen"}
+{"query":1271,"company":"postnl","name":"RF Tweewielers Huizen","address":"De Regentesse 96, 1273JZ Huizen"}
+{"query":1272,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1272,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1272,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1272,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1272,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1273,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1273,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1273,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1273,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1273,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1273,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1273,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1274,"company":"postnl","name":"RF Tweewielers Huizen","address":"De Regentesse 96, 1273JZ Huizen"}
+{"query":1274,"company":"postnl","name":"Boni supermarkt","address":"Holleblok 22, 1273EG Huizen"}
+{"query":1274,"company":"postnl","name":"Business Point Van der Wal","address":"Binnendelta 1 T, 1261WZ Blaricum"}
+{"query":1274,"company":"postnl","name":"Coop (2158)","address":"Phohistraat 10, 1276EH Huizen"}
+{"query":1275,"company":"postnl","name":"RF Tweewielers Huizen","address":"De Regentesse 96, 1273JZ Huizen"}
+{"query":1275,"company":"postnl","name":"Coop Supermarkt","address":"Hooibrug 1, 1261MV Blaricum"}
+{"query":1275,"company":"postnl","name":"Coop (2158)","address":"Phohistraat 10, 1276EH Huizen"}
+{"query":1275,"company":"postnl","name":"Business Point Van der Wal","address":"Binnendelta 1 T, 1261WZ Blaricum"}
+{"query":1275,"company":"postnl","name":"Boni supermarkt","address":"Holleblok 22, 1273EG Huizen"}
+{"query":1275,"company":"postnl","name":"Bruna","address":"Kerkstraat 36, 1271RM Huizen"}
+{"query":1276,"company":"postnl","name":"Coop (2158)","address":"Phohistraat 10, 1276EH Huizen"}
+{"query":1276,"company":"postnl","name":"RF Tweewielers Huizen","address":"De Regentesse 96, 1273JZ Huizen"}
+{"query":1276,"company":"postnl","name":"Boni supermarkt","address":"Holleblok 22, 1273EG Huizen"}
+{"query":1276,"company":"postnl","name":"Coop Supermarkt","address":"Hooibrug 1, 1261MV Blaricum"}
+{"query":1276,"company":"postnl","name":"Bruna","address":"Kerkstraat 36, 1271RM Huizen"}
+{"query":1277,"company":"postnl","name":"Business Point Van der Wal","address":"Binnendelta 1 T, 1261WZ Blaricum"}
+{"query":1277,"company":"postnl","name":"RF Tweewielers Huizen","address":"De Regentesse 96, 1273JZ Huizen"}
+{"query":1277,"company":"postnl","name":"Coop Supermarkt","address":"Hooibrug 1, 1261MV Blaricum"}
+{"query":1277,"company":"postnl","name":"Boni supermarkt","address":"Holleblok 22, 1273EG Huizen"}
+{"query":1278,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1278,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1278,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1278,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1278,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1278,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1278,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1279,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1279,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1279,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1279,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1279,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1279,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1279,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1280,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1280,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1280,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1280,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1280,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1280,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1280,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1281,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1281,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1281,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1281,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1281,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1281,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1281,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1282,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1282,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1282,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1282,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1282,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1282,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1282,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1283,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1283,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1283,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1283,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1283,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1283,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1283,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1284,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1284,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1284,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1284,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1284,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1284,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1284,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1284,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1284,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1284,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1284,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1284,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1285,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1285,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1285,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1285,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1285,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1285,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1285,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1286,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1286,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1286,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1286,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1286,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1286,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1286,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1286,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1286,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1286,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1286,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1286,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1287,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1287,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1287,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1287,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1287,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1287,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1287,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1288,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1288,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1288,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1288,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1288,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1288,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1288,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1288,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1288,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1288,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1288,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1288,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1288,"company":"postnl","name":"Jumbo (3125) Leiden","address":"Diamantplein 55 -56, 2332HT Leiden"}
+{"query":1288,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1289,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1289,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1289,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1289,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1289,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1289,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1289,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1290,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1290,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1290,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1290,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1290,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1290,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1290,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1290,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1290,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1290,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1290,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1290,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1290,"company":"postnl","name":"Jumbo (3125) Leiden","address":"Diamantplein 55 -56, 2332HT Leiden"}
+{"query":1290,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1291,"company":"postnl","name":"Hoogvliet","address":"Van Stolberglaan 23, 2713ES Zoetermeer"}
+{"query":1291,"company":"postnl","name":"AKO Zoetermeer","address":"Westwaarts 3, 2711AD Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Jumbo","address":"Middelwaard 52, 2716CW Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Tabac & Gifts","address":"Middelwaard 70 A, 2716CW Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Hobbywinkel het Kralendorp","address":"Quirinegang 47, 2719CG Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Primera Zoetermeer Stadshart","address":"Noordwaarts 220, 2711HP Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Hoogvliet Supermarkt","address":"Dorpsstraat 88, 2712AM Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Hoogvliet Cadenza","address":"Oostwaarts 109, 2711BA Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Atelier La Vivere","address":"Dorpsstraat 179, 2712AJ Zoetermeer"}
+{"query":1291,"company":"postnl","name":"Intratuin Zoetermeer","address":"Voorweg 192, 2716NK Zoetermeer"}
+{"query":1292,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1292,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1292,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1292,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1292,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1292,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1292,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1292,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1292,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1292,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1292,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1292,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1292,"company":"postnl","name":"Jumbo (3125) Leiden","address":"Diamantplein 55 -56, 2332HT Leiden"}
+{"query":1292,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1293,"company":"postnl","name":"Hoogvliet","address":"Van Stolberglaan 23, 2713ES Zoetermeer"}
+{"query":1293,"company":"postnl","name":"AKO Zoetermeer","address":"Westwaarts 3, 2711AD Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Jumbo","address":"Middelwaard 52, 2716CW Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Tabac & Gifts","address":"Middelwaard 70 A, 2716CW Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Hobbywinkel het Kralendorp","address":"Quirinegang 47, 2719CG Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Primera Zoetermeer Stadshart","address":"Noordwaarts 220, 2711HP Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Hoogvliet Supermarkt","address":"Dorpsstraat 88, 2712AM Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Hoogvliet Cadenza","address":"Oostwaarts 109, 2711BA Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Atelier La Vivere","address":"Dorpsstraat 179, 2712AJ Zoetermeer"}
+{"query":1293,"company":"postnl","name":"Intratuin Zoetermeer","address":"Voorweg 192, 2716NK Zoetermeer"}
+{"query":1294,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1294,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1294,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1294,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1294,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1294,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1294,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1294,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1294,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1294,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1294,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1294,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1294,"company":"postnl","name":"Jumbo (3125) Leiden","address":"Diamantplein 55 -56, 2332HT Leiden"}
+{"query":1294,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1295,"company":"postnl","name":"Hoogvliet","address":"Van Stolberglaan 23, 2713ES Zoetermeer"}
+{"query":1295,"company":"postnl","name":"AKO Zoetermeer","address":"Westwaarts 3, 2711AD Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Jumbo","address":"Middelwaard 52, 2716CW Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Tabac & Gifts","address":"Middelwaard 70 A, 2716CW Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Hobbywinkel het Kralendorp","address":"Quirinegang 47, 2719CG Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Primera Zoetermeer Stadshart","address":"Noordwaarts 220, 2711HP Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Hoogvliet Supermarkt","address":"Dorpsstraat 88, 2712AM Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Hoogvliet Cadenza","address":"Oostwaarts 109, 2711BA Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Atelier La Vivere","address":"Dorpsstraat 179, 2712AJ Zoetermeer"}
+{"query":1295,"company":"postnl","name":"Intratuin Zoetermeer","address":"Voorweg 192, 2716NK Zoetermeer"}
+{"query":1296,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1296,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1296,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1296,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1296,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1296,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1296,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1296,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1296,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1296,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1296,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1296,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1296,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1297,"company":"postnl","name":"Hoogvliet","address":"Van Stolberglaan 23, 2713ES Zoetermeer"}
+{"query":1297,"company":"postnl","name":"AKO Zoetermeer","address":"Westwaarts 3, 2711AD Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Jumbo","address":"Middelwaard 52, 2716CW Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Tabac & Gifts","address":"Middelwaard 70 A, 2716CW Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Hobbywinkel het Kralendorp","address":"Quirinegang 47, 2719CG Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Primera Zoetermeer Stadshart","address":"Noordwaarts 220, 2711HP Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Hoogvliet Supermarkt","address":"Dorpsstraat 88, 2712AM Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Hoogvliet Cadenza","address":"Oostwaarts 109, 2711BA Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Atelier La Vivere","address":"Dorpsstraat 179, 2712AJ Zoetermeer"}
+{"query":1297,"company":"postnl","name":"Intratuin Zoetermeer","address":"Voorweg 192, 2716NK Zoetermeer"}
+{"query":1298,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1298,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1298,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1298,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1298,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1298,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1298,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1298,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1298,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1298,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1298,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1298,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1298,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1299,"company":"postnl","name":"Hoogvliet","address":"Van Stolberglaan 23, 2713ES Zoetermeer"}
+{"query":1299,"company":"postnl","name":"AKO Zoetermeer","address":"Westwaarts 3, 2711AD Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Jumbo","address":"Middelwaard 52, 2716CW Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Tabac & Gifts","address":"Middelwaard 70 A, 2716CW Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Hobbywinkel het Kralendorp","address":"Quirinegang 47, 2719CG Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Primera Zoetermeer Stadshart","address":"Noordwaarts 220, 2711HP Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Hoogvliet Supermarkt","address":"Dorpsstraat 88, 2712AM Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Hoogvliet Cadenza","address":"Oostwaarts 109, 2711BA Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Atelier La Vivere","address":"Dorpsstraat 179, 2712AJ Zoetermeer"}
+{"query":1299,"company":"postnl","name":"Intratuin Zoetermeer","address":"Voorweg 192, 2716NK Zoetermeer"}
+{"query":1300,"company":"postnl","name":"Plus Lammenschans","address":"Bètaplein 22, 2321KS Leiden"}
+{"query":1300,"company":"postnl","name":"Gamma","address":"Lammenschansweg 130, 2321JX Leiden"}
+{"query":1300,"company":"postnl","name":"Hoogvliet Levendaal","address":"Levendaal 20, 2311JL Leiden"}
+{"query":1300,"company":"postnl","name":"Spar","address":"Herenstraat 47, 2313AE Leiden"}
+{"query":1300,"company":"postnl","name":"Office Centre","address":"Nieuwenhuizenweg 21, 2314XP Leiden"}
+{"query":1300,"company":"postnl","name":"Quick Mobile Services","address":"Rooseveltstraat 41, 2321BL Leiden"}
+{"query":1300,"company":"postnl","name":"Phonecorner","address":"Vijf Meiplein 33, 2321BN Leiden"}
+{"query":1300,"company":"postnl","name":"Bruna","address":"Vijf Meiplein 176 -178, 2321BT Leiden"}
+{"query":1300,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Hoge Rijndijk 5 PBA, 2313KE Leiden"}
+{"query":1300,"company":"postnl","name":"Hoogvliet","address":"Kennedylaan 118, 2324EZ Leiden"}
+{"query":1300,"company":"postnl","name":"Spar Zeldenrust","address":"IJsselkade 45, 2314VM Leiden"}
+{"query":1300,"company":"postnl","name":"Intratuin Voorschoten","address":"Leidseweg 518, 2253JP Voorschoten"}
+{"query":1300,"company":"postnl","name":"Primera Diamantplein","address":"Diamantplein 54, 2332HT Leiden"}
+{"query":1301,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1301,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1301,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1301,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1301,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1302,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1302,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1302,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1302,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1302,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1303,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1303,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1303,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1303,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1303,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1304,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1304,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1304,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1304,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1304,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1305,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1305,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1305,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1305,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1305,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1306,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1306,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1306,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1306,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1306,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1307,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1307,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1307,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1307,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1307,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1308,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1308,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1308,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1308,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1308,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1309,"company":"postnl","name":"Intratuin Almere","address":"Euphoniumweg 5, 1312XK Almere"}
+{"query":1310,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1310,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1310,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1310,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1311,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1311,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1311,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1311,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1311,"company":"postnl","name":"Inktland","address":"Lepelaarstraat 2 A, 6601DJ Wijchen"}
+{"query":1312,"company":"postnl","name":"Bruna Verdouw (8913)","address":"Rimsky-Korssakovweg 33, 1323LP Almere"}
+{"query":1312,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Lavendelplantsoen 68 PBA, 1313GA Almere"}
+{"query":1312,"company":"postnl","name":"Intratuin Almere","address":"Euphoniumweg 5, 1312XK Almere"}
+{"query":1312,"company":"postnl","name":"J&J African Market","address":"Enschedepad 67, 1324GC Almere"}
+{"query":1312,"company":"postnl","name":"Vulpunt Almere","address":"Markerkant 12 3 -12, 1314AJ Almere"}
+{"query":1312,"company":"postnl","name":"Bruna (990)","address":"Forum 7, 1315TD Almere"}
+{"query":1313,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Lavendelplantsoen 68 PBA, 1313GA Almere"}
+{"query":1313,"company":"postnl","name":"Vulpunt Almere","address":"Markerkant 12 3 -12, 1314AJ Almere"}
+{"query":1313,"company":"postnl","name":"Gamma Markerkant","address":"Markerkant 10 142, 1316AL Almere"}
+{"query":1313,"company":"postnl","name":"Jumbo haven","address":"Geinplein 34 -37, 1316HC Almere"}
+{"query":1313,"company":"postnl","name":"Intratuin Almere","address":"Euphoniumweg 5, 1312XK Almere"}
+{"query":1313,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boelijn 195 PBA, 1319DP Almere"}
+{"query":1314,"company":"postnl","name":"Vulpunt Almere","address":"Markerkant 12 3 -12, 1314AJ Almere"}
+{"query":1314,"company":"postnl","name":"Gamma Markerkant","address":"Markerkant 10 142, 1316AL Almere"}
+{"query":1314,"company":"postnl","name":"Jumbo haven","address":"Geinplein 34 -37, 1316HC Almere"}
+{"query":1314,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Lavendelplantsoen 68 PBA, 1313GA Almere"}
+{"query":1314,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Botplein 2 PBA, 1317SL Almere"}
+{"query":1315,"company":"postnl","name":"Bruna (990)","address":"Forum 7, 1315TD Almere"}
+{"query":1315,"company":"postnl","name":"J&J African Market","address":"Enschedepad 67, 1324GC Almere"}
+{"query":1315,"company":"postnl","name":"Pakket- en Briefautomaat","address":"'s-Hertogenboschplein 8 PBA, 1324WB Almere"}
+{"query":1315,"company":"postnl","name":"Kringloop Stedendreef","address":"Vlaardingenstraat 10, 1324LC Almere"}
+{"query":1315,"company":"postnl","name":"Primera Parkwijk","address":"Haagbeukweg 50, 1326CP Almere"}
+{"query":1315,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Lavendelplantsoen 68 PBA, 1313GA Almere"}
+{"query":1315,"company":"postnl","name":"Bruna Verdouw (8913)","address":"Rimsky-Korssakovweg 33, 1323LP Almere"}
+{"query":1315,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Walt Disneyplantsoen 76 PBA, 1325SX Almere"}
+{"query":1316,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Botplein 2 PBA, 1317SL Almere"}
+{"query":1317,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1317,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1317,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1317,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1317,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1317,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1317,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1317,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1317,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1317,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1317,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Botplein 2 PBA, 1317SL Almere"}
+{"query":1317,"company":"postnl","name":"Jumbo haven","address":"Geinplein 34 -37, 1316HC Almere"}
+{"query":1317,"company":"postnl","name":"Gamma Markerkant","address":"Markerkant 10 142, 1316AL Almere"}
+{"query":1317,"company":"postnl","name":"Vulpunt Almere","address":"Markerkant 12 3 -12, 1314AJ Almere"}
+{"query":1317,"company":"postnl","name":"Drogisterij de Wit","address":"Rembrandtweg 110, 1318KT Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt ViaTim en Michelle 1","address":"Esdoornplantsoen 52, 1326BZ Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Rick 1317","address":"Wijtingstraat 1, 1317RH Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Nathalie 1326","address":"Ebenezer Howardpark 18, 1326EA Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt ViaTim en Staatsliedenwijk","address":"Clemenceaustraat 17, 1314RM Almere"}
+{"query":1318,"company":"dhl","name":"Verkeersschool Ally","address":"Allendestraat 115, 1314SG Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Shannon 39","address":"Habanerastraat 39, 1326MA Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Luciano 30","address":"Zuidwoldepad 30, 1324AS Almere"}
+{"query":1318,"company":"dhl","name":"DHL pakketautomaat Food Passage","address":"Schippergarage 13, 1315SC Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Sylvia 16","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt ViaTim en Johnnij","address":"Zeistpad 47, 1324NB Almere"}
+{"query":1318,"company":"dhl","name":"DHL Winkelpunt ViaTim Verfdiscount","address":"De Steiger 93, 1351AH Almere"}
+{"query":1318,"company":"dhl","name":"Bloembinderij De Vaas van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Raymond","address":"Hofmark 16, 1355HA Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Dennis 1321","address":"J.J. Slauerhoffstraat 140, 1321RK Almere"}
+{"query":1318,"company":"dhl","name":"Meester schoenmaker de driepoot","address":"Markt 28, 1354AV Almere-haven"}
+{"query":1318,"company":"dhl","name":"Pakketautomaat Lidl Huizen","address":"Warandebergstraat 47, 1271ZC Huizen"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt ViaTim en Michelle 1","address":"Esdoornplantsoen 52, 1326BZ Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Rick 1317","address":"Wijtingstraat 1, 1317RH Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Nathalie 1326","address":"Ebenezer Howardpark 18, 1326EA Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt ViaTim en Staatsliedenwijk","address":"Clemenceaustraat 17, 1314RM Almere"}
+{"query":1318,"company":"dhl","name":"Verkeersschool Ally","address":"Allendestraat 115, 1314SG Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Shannon 39","address":"Habanerastraat 39, 1326MA Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Luciano 30","address":"Zuidwoldepad 30, 1324AS Almere"}
+{"query":1318,"company":"dhl","name":"DHL pakketautomaat Food Passage","address":"Schippergarage 13, 1315SC Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Sylvia 16","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt ViaTim en Johnnij","address":"Zeistpad 47, 1324NB Almere"}
+{"query":1318,"company":"dhl","name":"DHL Winkelpunt ViaTim Verfdiscount","address":"De Steiger 93, 1351AH Almere"}
+{"query":1318,"company":"dhl","name":"Bloembinderij De Vaas van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Raymond","address":"Hofmark 16, 1355HA Almere"}
+{"query":1318,"company":"dhl","name":"DHL Buurtpunt Homerr Dennis 1321","address":"J.J. Slauerhoffstraat 140, 1321RK Almere"}
+{"query":1318,"company":"dhl","name":"Meester schoenmaker de driepoot","address":"Markt 28, 1354AV Almere-haven"}
+{"query":1318,"company":"dhl","name":"Pakketautomaat Lidl Huizen","address":"Warandebergstraat 47, 1271ZC Huizen"}
+{"query":1318,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1318,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1318,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1318,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1318,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1318,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1318,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1318,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1318,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1318,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1318,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Botplein 2 PBA, 1317SL Almere"}
+{"query":1318,"company":"postnl","name":"Drogisterij de Wit","address":"Rembrandtweg 110, 1318KT Almere"}
+{"query":1318,"company":"postnl","name":"Jumbo haven","address":"Geinplein 34 -37, 1316HC Almere"}
+{"query":1318,"company":"postnl","name":"Gamma Markerkant","address":"Markerkant 10 142, 1316AL Almere"}
+{"query":1318,"company":"postnl","name":"Vulpunt Almere","address":"Markerkant 12 3 -12, 1314AJ Almere"}
+{"query":1318,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Wezelstraat 2 PBA, 1338BG Almere"}
+{"query":1319,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boelijn 195 PBA, 1319DP Almere"}
+{"query":1319,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Lavendelplantsoen 68 PBA, 1313GA Almere"}
+{"query":1320,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1320,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1320,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1320,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Dennis 1321","address":"J.J. Slauerhoffstraat 140, 1321RK Almere"}
+{"query":1321,"company":"dhl","name":"Bloembinderij De Vaas van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt ViaTim en Johnnij","address":"Zeistpad 47, 1324NB Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Sylvia 16","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1321,"company":"dhl","name":"Poorts Kledingreparatie en Stomerij","address":"Poseidonsingel 42, 1363TR Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Luciano 30","address":"Zuidwoldepad 30, 1324AS Almere"}
+{"query":1321,"company":"dhl","name":"DHL pakketautomaat Food Passage","address":"Schippergarage 13, 1315SC Almere"}
+{"query":1321,"company":"dhl","name":"DHL Winkelpunt ViaTim Verfdiscount","address":"De Steiger 93, 1351AH Almere"}
+{"query":1321,"company":"dhl","name":"Verkeersschool Ally","address":"Allendestraat 115, 1314SG Almere"}
+{"query":1321,"company":"dhl","name":"Meester schoenmaker de driepoot","address":"Markt 28, 1354AV Almere-haven"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Raymond","address":"Hofmark 16, 1355HA Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt ViaTim en Staatsliedenwijk","address":"Clemenceaustraat 17, 1314RM Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Nathalie 1326","address":"Ebenezer Howardpark 18, 1326EA Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Shannon 39","address":"Habanerastraat 39, 1326MA Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Rick 1317","address":"Wijtingstraat 1, 1317RH Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt ViaTim en Michelle 1","address":"Esdoornplantsoen 52, 1326BZ Almere"}
+{"query":1321,"company":"dhl","name":"Bakkerij Tetteroo en van Manen","address":"Dorpsstraat 8A, 1399GV Muiderberg"}
+{"query":1321,"company":"dhl","name":"Pakketautomaat Lidl Huizen","address":"Warandebergstraat 47, 1271ZC Huizen"}
+{"query":1321,"company":"dhl","name":"Shoeby Huizen","address":"Oude Raadhuisplein 6, 1271RH Huizen"}
+{"query":1321,"company":"dhl","name":"DHL Homerrpoint By Anouschka","address":"Lindenlaan 62, 1271BB Huizen"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Dennis 1321","address":"J.J. Slauerhoffstraat 140, 1321RK Almere"}
+{"query":1321,"company":"dhl","name":"Bloembinderij De Vaas van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt ViaTim en Johnnij","address":"Zeistpad 47, 1324NB Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Sylvia 16","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1321,"company":"dhl","name":"Poorts Kledingreparatie en Stomerij","address":"Poseidonsingel 42, 1363TR Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Luciano 30","address":"Zuidwoldepad 30, 1324AS Almere"}
+{"query":1321,"company":"dhl","name":"DHL pakketautomaat Food Passage","address":"Schippergarage 13, 1315SC Almere"}
+{"query":1321,"company":"dhl","name":"DHL Winkelpunt ViaTim Verfdiscount","address":"De Steiger 93, 1351AH Almere"}
+{"query":1321,"company":"dhl","name":"Verkeersschool Ally","address":"Allendestraat 115, 1314SG Almere"}
+{"query":1321,"company":"dhl","name":"Meester schoenmaker de driepoot","address":"Markt 28, 1354AV Almere-haven"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Raymond","address":"Hofmark 16, 1355HA Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt ViaTim en Staatsliedenwijk","address":"Clemenceaustraat 17, 1314RM Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Nathalie 1326","address":"Ebenezer Howardpark 18, 1326EA Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Shannon 39","address":"Habanerastraat 39, 1326MA Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt Homerr Rick 1317","address":"Wijtingstraat 1, 1317RH Almere"}
+{"query":1321,"company":"dhl","name":"DHL Buurtpunt ViaTim en Michelle 1","address":"Esdoornplantsoen 52, 1326BZ Almere"}
+{"query":1321,"company":"dhl","name":"Bakkerij Tetteroo en van Manen","address":"Dorpsstraat 8A, 1399GV Muiderberg"}
+{"query":1321,"company":"dhl","name":"Pakketautomaat Lidl Huizen","address":"Warandebergstraat 47, 1271ZC Huizen"}
+{"query":1321,"company":"dhl","name":"Shoeby Huizen","address":"Oude Raadhuisplein 6, 1271RH Huizen"}
+{"query":1321,"company":"dhl","name":"DHL Homerrpoint By Anouschka","address":"Lindenlaan 62, 1271BB Huizen"}
+{"query":1321,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1321,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1321,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1321,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1321,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1321,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1321,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1321,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1321,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1321,"company":"dpd","name":"Bijvoet Sport","address":"Achtergracht 2, 1381BN Weesp"}
+{"query":1321,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Prozastraat 121 PBA, 1321GZ Almere"}
+{"query":1321,"company":"postnl","name":"APD Almeerse Pakket Dienst","address":"Camerastraat 8, 1322BC Almere"}
+{"query":1321,"company":"postnl","name":"GAMMA Almere-Poort","address":"Editiestraat 20, 1321NG Almere"}
+{"query":1321,"company":"postnl","name":"Bruna Verdouw (8913)","address":"Rimsky-Korssakovweg 33, 1323LP Almere"}
+{"query":1321,"company":"postnl","name":"Kringloop Stedendreef","address":"Vlaardingenstraat 10, 1324LC Almere"}
+{"query":1321,"company":"postnl","name":"Pakket- en Briefautomaat","address":"'s-Hertogenboschplein 8 PBA, 1324WB Almere"}
+{"query":1321,"company":"postnl","name":"Vivant Jenny's Tabaks-Gemakswinkel","address":"Alseïdenstraat 20 -15, 1363SR Almere"}
+{"query":1321,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Alseïdenstraat 22 PBA, 1363SR Almere"}
+{"query":1321,"company":"postnl","name":"J&J African Market","address":"Enschedepad 67, 1324GC Almere"}
+{"query":1322,"company":"postnl","name":"APD Almeerse Pakket Dienst","address":"Camerastraat 8, 1322BC Almere"}
+{"query":1322,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Prozastraat 121 PBA, 1321GZ Almere"}
+{"query":1322,"company":"postnl","name":"GAMMA Almere-Poort","address":"Editiestraat 20, 1321NG Almere"}
+{"query":1322,"company":"postnl","name":"Pakket- en Briefautomaat","address":"'s-Hertogenboschplein 8 PBA, 1324WB Almere"}
+{"query":1322,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Alseïdenstraat 22 PBA, 1363SR Almere"}
+{"query":1322,"company":"postnl","name":"Vivant Jenny's Tabaks-Gemakswinkel","address":"Alseïdenstraat 20 -15, 1363SR Almere"}
+{"query":1323,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen"}
+{"query":1323,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen"}
+{"query":1323,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen"}
+{"query":1323,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen"}
+{"query":1324,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1324,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1324,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1324,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1324,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1324,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1324,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1324,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1324,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1324,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1324,"company":"postnl","name":"Pakket- en Briefautomaat","address":"'s-Hertogenboschplein 8 PBA, 1324WB Almere"}
+{"query":1324,"company":"postnl","name":"J&J African Market","address":"Enschedepad 67, 1324GC Almere"}
+{"query":1324,"company":"postnl","name":"Kringloop Stedendreef","address":"Vlaardingenstraat 10, 1324LC Almere"}
+{"query":1324,"company":"postnl","name":"Bruna (990)","address":"Forum 7, 1315TD Almere"}
+{"query":1324,"company":"postnl","name":"Bruna Verdouw (8913)","address":"Rimsky-Korssakovweg 33, 1323LP Almere"}
+{"query":1324,"company":"postnl","name":"Pakket- en Briefautomaat","address":"De Steiger 4 PBA, 1351AA Almere"}
+{"query":1324,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Prozastraat 121 PBA, 1321GZ Almere"}
+{"query":1325,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Walt Disneyplantsoen 76 PBA, 1325SX Almere"}
+{"query":1325,"company":"postnl","name":"Bruna (990)","address":"Forum 7, 1315TD Almere"}
+{"query":1325,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Salsastraat 81 PBA, 1326PC Almere"}
+{"query":1325,"company":"postnl","name":"J&J African Market","address":"Enschedepad 67, 1324GC Almere"}
+{"query":1325,"company":"postnl","name":"Autoradam","address":"De Strubbenweg 4, 1327GE ALMERE"}
+{"query":1325,"company":"postnl","name":"Pakket- en Briefautomaat","address":"'s-Hertogenboschplein 8 PBA, 1324WB Almere"}
+{"query":1325,"company":"postnl","name":"Office Centre","address":"De Strubbenweg 27, 1327GB Almere"}
+{"query":1326,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Salsastraat 81 PBA, 1326PC Almere"}
+{"query":1326,"company":"postnl","name":"Primera Parkwijk","address":"Haagbeukweg 50, 1326CP Almere"}
+{"query":1326,"company":"postnl","name":"Drogisterij de Wit","address":"Rembrandtweg 110, 1318KT Almere"}
+{"query":1326,"company":"postnl","name":"Autoradam","address":"De Strubbenweg 4, 1327GE ALMERE"}
+{"query":1326,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Walt Disneyplantsoen 76 PBA, 1325SX Almere"}
+{"query":1326,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Juan Grisstraat 44 PBA, 1328KA Almere"}
+{"query":1326,"company":"postnl","name":"Office Centre","address":"De Strubbenweg 27, 1327GB Almere"}
+{"query":1326,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Koningsbeltweg 1 PBA, 1329AA Almere"}
+{"query":1327,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1327,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1327,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1327,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1327,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1327,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1327,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1327,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1327,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1327,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1327,"company":"postnl","name":"Autoradam","address":"De Strubbenweg 4, 1327GE ALMERE"}
+{"query":1327,"company":"postnl","name":"Office Centre","address":"De Strubbenweg 27, 1327GB Almere"}
+{"query":1327,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Salsastraat 81 PBA, 1326PC Almere"}
+{"query":1327,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Walt Disneyplantsoen 76 PBA, 1325SX Almere"}
+{"query":1327,"company":"postnl","name":"La Coppelia's Shop","address":"Marie Curielaan 1, 1341BA Almere"}
+{"query":1328,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1328,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1328,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1328,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1328,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1328,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1328,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1328,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1328,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1328,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1328,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Juan Grisstraat 44 PBA, 1328KA Almere"}
+{"query":1328,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Koningsbeltweg 1 PBA, 1329AA Almere"}
+{"query":1328,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Salsastraat 81 PBA, 1326PC Almere"}
+{"query":1328,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Wezelstraat 2 PBA, 1338BG Almere"}
+{"query":1328,"company":"postnl","name":"Drogisterij de Wit","address":"Rembrandtweg 110, 1318KT Almere"}
+{"query":1328,"company":"postnl","name":"Primera Parkwijk","address":"Haagbeukweg 50, 1326CP Almere"}
+{"query":1329,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Koningsbeltweg 1 PBA, 1329AA Almere"}
+{"query":1329,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Juan Grisstraat 44 PBA, 1328KA Almere"}
+{"query":1329,"company":"postnl","name":"La Coppelia's Shop","address":"Marie Curielaan 1, 1341BA Almere"}
+{"query":1329,"company":"postnl","name":"Office Centre","address":"De Strubbenweg 27, 1327GB Almere"}
+{"query":1329,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Salsastraat 81 PBA, 1326PC Almere"}
+{"query":1329,"company":"postnl","name":"Autoradam","address":"De Strubbenweg 4, 1327GE ALMERE"}
+{"query":1330,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1330,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1330,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1330,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1331,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Brugplein 11 PBA, 1332BS Almere"}
+{"query":1331,"company":"postnl","name":"Plus","address":"Meistraat 102, 1335BM Almere"}
+{"query":1331,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Rode Katerplaats 1 PBA, 1336LC Almere"}
+{"query":1332,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1332,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1332,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1332,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1332,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1332,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1332,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1332,"company":"dpd","name":"Colmado","address":"Ringdijk 50, 8244BB Lelystad"}
+{"query":1332,"company":"dpd","name":"Okebox","address":"Morseweg 67, 1131PH Volendam"}
+{"query":1332,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1332,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Brugplein 11 PBA, 1332BS Almere"}
+{"query":1333,"company":"postnl","name":"GAMMA Almere-Doemere","address":"New Yorkweg 211, 1334NG Almere"}
+{"query":1333,"company":"postnl","name":"Bruna","address":"Noordeinde 26, 1334AV Almere"}
+{"query":1333,"company":"postnl","name":"Primera","address":"Noordeinde 161, 1334AP Almere"}
+{"query":1333,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Wezelstraat 2 PBA, 1338BG Almere"}
+{"query":1333,"company":"postnl","name":"Mobi-land","address":"Globeplein 64, 1334BW Almere"}
+{"query":1333,"company":"postnl","name":"Point Fumee","address":"Zuideinde 9, 1334BX Almere"}
+{"query":1333,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Brugplein 11 PBA, 1332BS Almere"}
+{"query":1333,"company":"postnl","name":"Plus","address":"Meistraat 102, 1335BM Almere"}
+{"query":1334,"company":"postnl","name":"Primera","address":"Noordeinde 161, 1334AP Almere"}
+{"query":1334,"company":"postnl","name":"Bruna","address":"Noordeinde 26, 1334AV Almere"}
+{"query":1334,"company":"postnl","name":"Mobi-land","address":"Globeplein 64, 1334BW Almere"}
+{"query":1334,"company":"postnl","name":"Point Fumee","address":"Zuideinde 9, 1334BX Almere"}
+{"query":1334,"company":"postnl","name":"GAMMA Almere-Doemere","address":"New Yorkweg 211, 1334NG Almere"}
+{"query":1334,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Wezelstraat 2 PBA, 1338BG Almere"}
+{"query":1334,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Regenboogweg 43 PBA, 1339ET Almere"}
+{"query":1334,"company":"postnl","name":"Plus","address":"Meistraat 102, 1335BM Almere"}
+{"query":1335,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1335,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1335,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1335,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Michelle 1","address":"Esdoornplantsoen 52, 1326BZ Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Rick 1317","address":"Wijtingstraat 1, 1317RH Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Shannon 39","address":"Habanerastraat 39, 1326MA Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Nathalie 1326","address":"Ebenezer Howardpark 18, 1326EA Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Staatsliedenwijk","address":"Clemenceaustraat 17, 1314RM Almere"}
+{"query":1336,"company":"dhl","name":"Verkeersschool Ally","address":"Allendestraat 115, 1314SG Almere"}
+{"query":1336,"company":"dhl","name":"DHL pakketautomaat Food Passage","address":"Schippergarage 13, 1315SC Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Luciano 30","address":"Zuidwoldepad 30, 1324AS Almere"}
+{"query":1336,"company":"dhl","name":"DHL Winkelpunt ViaTim Verfdiscount","address":"De Steiger 93, 1351AH Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Sylvia 16","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Johnnij","address":"Zeistpad 47, 1324NB Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Raymond","address":"Hofmark 16, 1355HA Almere"}
+{"query":1336,"company":"dhl","name":"Bloembinderij De Vaas van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1336,"company":"dhl","name":"Meester schoenmaker de driepoot","address":"Markt 28, 1354AV Almere-haven"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Brianne 164","address":"Middelgronden 164, 1274BV Huizen"}
+{"query":1336,"company":"dhl","name":"Pakketautomaat Lidl Huizen","address":"Warandebergstraat 47, 1271ZC Huizen"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Michelle 1","address":"Esdoornplantsoen 52, 1326BZ Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Rick 1317","address":"Wijtingstraat 1, 1317RH Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Shannon 39","address":"Habanerastraat 39, 1326MA Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Nathalie 1326","address":"Ebenezer Howardpark 18, 1326EA Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Staatsliedenwijk","address":"Clemenceaustraat 17, 1314RM Almere"}
+{"query":1336,"company":"dhl","name":"Verkeersschool Ally","address":"Allendestraat 115, 1314SG Almere"}
+{"query":1336,"company":"dhl","name":"DHL pakketautomaat Food Passage","address":"Schippergarage 13, 1315SC Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Luciano 30","address":"Zuidwoldepad 30, 1324AS Almere"}
+{"query":1336,"company":"dhl","name":"DHL Winkelpunt ViaTim Verfdiscount","address":"De Steiger 93, 1351AH Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Sylvia 16","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Johnnij","address":"Zeistpad 47, 1324NB Almere"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt Homerr Raymond","address":"Hofmark 16, 1355HA Almere"}
+{"query":1336,"company":"dhl","name":"Bloembinderij De Vaas van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1336,"company":"dhl","name":"Meester schoenmaker de driepoot","address":"Markt 28, 1354AV Almere-haven"}
+{"query":1336,"company":"dhl","name":"DHL Buurtpunt ViaTim en Brianne 164","address":"Middelgronden 164, 1274BV Huizen"}
+{"query":1336,"company":"dhl","name":"Pakketautomaat Lidl Huizen","address":"Warandebergstraat 47, 1271ZC Huizen"}
+{"query":1336,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1336,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1336,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1336,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1336,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1336,"company":"dpd","name":"Colmado","address":"Ringdijk 50, 8244BB Lelystad"}
+{"query":1336,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1336,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1336,"company":"dpd","name":"Snel Tank \"Romeo Delta\"","address":"Jol 11-01, 8243ED Lelystad"}
+{"query":1336,"company":"dpd","name":"Gym Inn Lelystad","address":"Ketelmeerstraat 138, 8226JX Lelystad"}
+{"query":1336,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Rode Katerplaats 1 PBA, 1336LC Almere"}
+{"query":1336,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Regenboogweg 43 PBA, 1339ET Almere"}
+{"query":1337,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1337,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1337,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1337,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1337,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1337,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1337,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1337,"company":"dpd","name":"Colmado","address":"Ringdijk 50, 8244BB Lelystad"}
+{"query":1337,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1337,"company":"dpd","name":"Snel Tank \"Romeo Delta\"","address":"Jol 11-01, 8243ED Lelystad"}
+{"query":1337,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1337,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1337,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1337,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1338,"company":"postnl","name":"Point Fumee","address":"Zuideinde 9, 1334BX Almere"}
+{"query":1338,"company":"postnl","name":"Mobi-land","address":"Globeplein 64, 1334BW Almere"}
+{"query":1338,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Wezelstraat 2 PBA, 1338BG Almere"}
+{"query":1338,"company":"postnl","name":"Primera","address":"Noordeinde 161, 1334AP Almere"}
+{"query":1338,"company":"postnl","name":"Bruna","address":"Noordeinde 26, 1334AV Almere"}
+{"query":1338,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Koningsbeltweg 1 PBA, 1329AA Almere"}
+{"query":1338,"company":"postnl","name":"GAMMA Almere-Doemere","address":"New Yorkweg 211, 1334NG Almere"}
+{"query":1338,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Regenboogweg 43 PBA, 1339ET Almere"}
+{"query":1338,"company":"postnl","name":"Drogisterij de Wit","address":"Rembrandtweg 110, 1318KT Almere"}
+{"query":1339,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Regenboogweg 43 PBA, 1339ET Almere"}
+{"query":1339,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Rode Katerplaats 1 PBA, 1336LC Almere"}
+{"query":1339,"company":"postnl","name":"Point Fumee","address":"Zuideinde 9, 1334BX Almere"}
+{"query":1339,"company":"postnl","name":"Mobi-land","address":"Globeplein 64, 1334BW Almere"}
+{"query":1340,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1340,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1340,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1340,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1341,"company":"postnl","name":"La Coppelia's Shop","address":"Marie Curielaan 1, 1341BA Almere"}
+{"query":1341,"company":"postnl","name":"Office Centre","address":"De Strubbenweg 27, 1327GB Almere"}
+{"query":1342,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1342,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1342,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1342,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1343,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Meerkoetlaan 1 PBA, 1343AW Almere"}
+{"query":1344,"company":"postnl","name":"Primera Bosman","address":"Marktplein 13 -14, 6971AB Brummen"}
+{"query":1344,"company":"postnl","name":"Jumbo Brummen","address":"Ambachtstraat 38, 6971BR Brummen"}
+{"query":1345,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1345,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1345,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1345,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1345,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1345,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1345,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1346,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1346,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1346,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1346,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1347,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1347,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1347,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1347,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1347,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1347,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1347,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1348,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1348,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1348,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1348,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1349,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1349,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1349,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1349,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1349,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1349,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1349,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1350,"company":"postnl","name":"TAJ PLAZA","address":"Meijhorst 7031, 6537EP Nijmegen"}
+{"query":1350,"company":"postnl","name":"Jumbo","address":"Malvert 7023, 6538DP Nijmegen"}
+{"query":1350,"company":"postnl","name":"Jumbo (5112) Hatertseweg Nijmegen","address":"Hatertseweg 835, 6535ZT Nijmegen"}
+{"query":1350,"company":"postnl","name":"Bruna Teunissen","address":"Hatertseweg 829, 6535ZT Nijmegen"}
+{"query":1351,"company":"postnl","name":"Pakket- en Briefautomaat","address":"De Steiger 4 PBA, 1351AA Almere"}
+{"query":1351,"company":"postnl","name":"Pets 4 fun","address":"De Paal 108, 1351JJ Almere"}
+{"query":1351,"company":"postnl","name":"Pakket- en Briefautomaat","address":"'s-Hertogenboschplein 8 PBA, 1324WB Almere"}
+{"query":1351,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Walt Disneyplantsoen 76 PBA, 1325SX Almere"}
+{"query":1352,"company":"postnl","name":"Van der Sluys-Pauw VOF","address":"De Clomp 3310, 3704KB Zeist"}
+{"query":1352,"company":"postnl","name":"Jumbo Zeist Laan van Vollenhove","address":"Laan van Vollenhove 3001, 3706AL Zeist"}
+{"query":1352,"company":"postnl","name":"Top 1 Toys Zeist","address":"Voorheuvel 35, 3701JB Zeist"}
+{"query":1352,"company":"postnl","name":"Bruna Zeist","address":"Slotlaan 197, 3701GD Zeist"}
+{"query":1352,"company":"postnl","name":"Primera","address":"Vrijheidsplein 58 -64, 3705PS Zeist"}
+{"query":1353,"company":"postnl","name":"Snoephaven Almere","address":"Marktgracht 7, 1353AH Almere"}
+{"query":1353,"company":"postnl","name":"The Read Shop","address":"Marktstraat 3, 1354LE Almere"}
+{"query":1353,"company":"postnl","name":"Tabaksshop Lydia","address":"Kruisstraat 19, 1357NA Almere"}
+{"query":1353,"company":"postnl","name":"Pets 4 fun","address":"De Paal 108, 1351JJ Almere"}
+{"query":1353,"company":"postnl","name":"Jumbo Almere Haven","address":"Jaagmeent 250, 1356AZ Almere"}
+{"query":1354,"company":"postnl","name":"The Read Shop","address":"Marktstraat 3, 1354LE Almere"}
+{"query":1354,"company":"postnl","name":"Snoephaven Almere","address":"Marktgracht 7, 1353AH Almere"}
+{"query":1354,"company":"postnl","name":"Tabaksshop Lydia","address":"Kruisstraat 19, 1357NA Almere"}
+{"query":1354,"company":"postnl","name":"Pets 4 fun","address":"De Paal 108, 1351JJ Almere"}
+{"query":1354,"company":"postnl","name":"Pakket- en Briefautomaat","address":"De Steiger 4 PBA, 1351AA Almere"}
+{"query":1354,"company":"postnl","name":"Jumbo Almere Haven","address":"Jaagmeent 250, 1356AZ Almere"}
+{"query":1355,"company":"postnl","name":"Jumbo Almere Haven","address":"Jaagmeent 250, 1356AZ Almere"}
+{"query":1355,"company":"postnl","name":"Pets 4 fun","address":"De Paal 108, 1351JJ Almere"}
+{"query":1355,"company":"postnl","name":"Pakket- en Briefautomaat","address":"De Steiger 4 PBA, 1351AA Almere"}
+{"query":1355,"company":"postnl","name":"The Read Shop","address":"Marktstraat 3, 1354LE Almere"}
+{"query":1355,"company":"postnl","name":"Snoephaven Almere","address":"Marktgracht 7, 1353AH Almere"}
+{"query":1355,"company":"postnl","name":"Tabaksshop Lydia","address":"Kruisstraat 19, 1357NA Almere"}
+{"query":1356,"company":"postnl","name":"Jumbo Almere Haven","address":"Jaagmeent 250, 1356AZ Almere"}
+{"query":1356,"company":"postnl","name":"The Read Shop","address":"Marktstraat 3, 1354LE Almere"}
+{"query":1356,"company":"postnl","name":"Snoephaven Almere","address":"Marktgracht 7, 1353AH Almere"}
+{"query":1356,"company":"postnl","name":"Tabaksshop Lydia","address":"Kruisstraat 19, 1357NA Almere"}
+{"query":1356,"company":"postnl","name":"Pets 4 fun","address":"De Paal 108, 1351JJ Almere"}
+{"query":1356,"company":"postnl","name":"Pakket- en Briefautomaat","address":"De Steiger 4 PBA, 1351AA Almere"}
+{"query":1357,"company":"postnl","name":"Jumbo Almere Haven","address":"Jaagmeent 250, 1356AZ Almere"}
+{"query":1357,"company":"postnl","name":"Tabaksshop Lydia","address":"Kruisstraat 19, 1357NA Almere"}
+{"query":1357,"company":"postnl","name":"The Read Shop","address":"Marktstraat 3, 1354LE Almere"}
+{"query":1357,"company":"postnl","name":"Snoephaven Almere","address":"Marktgracht 7, 1353AH Almere"}
+{"query":1358,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1358,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1358,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1358,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1358,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1358,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1358,"company":"dpd","name":"Blaricumsche Ijzerhandel","address":"Dorpsstraat 9, 1261ES Blaricum"}
+{"query":1358,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1358,"company":"dpd","name":"Trefpunt Bv","address":"Laarderweg 24D, 3755AN Eemnes"}
+{"query":1358,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1358,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Meerkoetlaan 1 PBA, 1343AW Almere"}
+{"query":1359,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1359,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1359,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1359,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1359,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1359,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1359,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1360,"company":"postnl","name":"Van der Sluys-Pauw VOF","address":"De Clomp 3310, 3704KB Zeist"}
+{"query":1360,"company":"postnl","name":"Jumbo Zeist Laan van Vollenhove","address":"Laan van Vollenhove 3001, 3706AL Zeist"}
+{"query":1360,"company":"postnl","name":"Top 1 Toys Zeist","address":"Voorheuvel 35, 3701JB Zeist"}
+{"query":1360,"company":"postnl","name":"Bruna Zeist","address":"Slotlaan 197, 3701GD Zeist"}
+{"query":1360,"company":"postnl","name":"Primera","address":"Vrijheidsplein 58 -64, 3705PS Zeist"}
+{"query":1361,"company":"postnl","name":"U-stal","address":"Mariaplaats 2, 3511LH Utrecht"}
+{"query":1361,"company":"postnl","name":"Utrecht CS Service Point-Spoor 1-4","address":"Stationshal 18 A, 3511CE Utrecht"}
+{"query":1361,"company":"postnl","name":"Boons Markt","address":"Ganzenmarkt 2 -6, 3512GD Utrecht"}
+{"query":1361,"company":"postnl","name":"Coop Utrecht","address":"Croeselaan 297 -299, 3521BT Utrecht"}
+{"query":1361,"company":"postnl","name":"Printerette","address":"Voorstraat 39, 3512AJ Utrecht"}
+{"query":1361,"company":"postnl","name":"Plusmarkt","address":"Voorstraat 61 A, 3512AK Utrecht"}
+{"query":1361,"company":"postnl","name":"Samtelecom","address":"Amsterdamsestraatweg 74, 3513AJ Utrecht"}
+{"query":1361,"company":"postnl","name":"Coop Vandaag Utrecht","address":"Westerkade 38, 3511HC Utrecht"}
+{"query":1361,"company":"postnl","name":"Het Stalen Paard","address":"Biltstraat 52, 3572BD Utrecht"}
+{"query":1361,"company":"postnl","name":"Primera","address":"Ina Boudier-Bakkerhof 4, 3582VX Utrecht"}
+{"query":1361,"company":"postnl","name":"Glory tabakspeciaalzaak","address":"Amsterdamsestraatweg 254, 3551CR Utrecht"}
+{"query":1361,"company":"postnl","name":"Plus","address":"Adriaen van Ostadelaan 40, 3583AJ Utrecht"}
+{"query":1362,"company":"postnl","name":"Techador Tabak Europa","address":"Europalaan 907, 1363BM Almere"}
+{"query":1362,"company":"postnl","name":"GAMMA Almere-Poort","address":"Editiestraat 20, 1321NG Almere"}
+{"query":1362,"company":"postnl","name":"APD Almeerse Pakket Dienst","address":"Camerastraat 8, 1322BC Almere"}
+{"query":1363,"company":"dpd","name":"Toko Suri Poort","address":"Europalaan 907, 1363BM Almere Poort"}
+{"query":1363,"company":"dpd","name":"De Vaas Van Han","address":"Rimsky Korssakovweg 35, 1323LP Almere"}
+{"query":1363,"company":"dpd","name":"Buurtpunt Sylvia","address":"Naardenstraat 16, 1324SP Almere"}
+{"query":1363,"company":"dpd","name":"Ruan Creatief","address":"Brouwerstraat 16, 1315BP Almere"}
+{"query":1363,"company":"dpd","name":"Sport & Fitness Center","address":"Markerkant 10-132d, 1316AL Almere"}
+{"query":1363,"company":"dpd","name":"Vos' Ijzerhandel C.V.","address":"Middenweg 21, 1271AS Huizen"}
+{"query":1363,"company":"dpd","name":"Foto Strik Bussum","address":"Brinklaan 72, 1404GL Bussum"}
+{"query":1363,"company":"dpd","name":"Bijvoet Sport","address":"Achtergracht 2, 1381BN Weesp"}
+{"query":1363,"company":"dpd","name":"Discus Zodiak","address":"Philadelphiapad 20, 1334KC Almere Buiten"}
+{"query":1363,"company":"dpd","name":"Dierenparadijs Ijburg","address":"Ijburglaan 1307, 1087JJ Amsterdam"}
+{"query":1363,"company":"postnl","name":"Techador Tabak Europa","address":"Europalaan 907, 1363BM Almere"}
+{"query":1363,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Alseïdenstraat 22 PBA, 1363SR Almere"}
+{"query":1363,"company":"postnl","name":"Vivant Jenny's Tabaks-Gemakswinkel","address":"Alseïdenstraat 20 -15, 1363SR Almere"}
+{"query":1363,"company":"postnl","name":"GAMMA Almere-Poort","address":"Editiestraat 20, 1321NG Almere"}
+{"query":1363,"company":"postnl","name":"APD Almeerse Pakket Dienst","address":"Camerastraat 8, 1322BC Almere"}
+{"query":1364,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1364,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1364,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1364,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1364,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1364,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1364,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}
+{"query":1365,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1365,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1365,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1365,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1365,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1365,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1365,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1366,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1366,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1366,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1366,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1366,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1366,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1366,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}
+{"query":1367,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1367,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1367,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1367,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1367,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1367,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1367,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1368,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1368,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1368,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1368,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1368,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1368,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1368,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}
+{"query":1369,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1369,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1369,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1369,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1369,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1369,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1369,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1370,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1370,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1370,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1370,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1370,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1370,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1370,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}
+{"query":1371,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1371,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1371,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1371,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1371,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1371,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1371,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1372,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1372,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1372,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1372,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1372,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1372,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1372,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}
+{"query":1373,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1373,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1373,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1373,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1373,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1373,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1373,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1374,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1374,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1374,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1374,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1374,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1374,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1374,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}
+{"query":1375,"company":"postnl","name":"Vivant","address":"Harriet Freezerstraat 106, 1103JP Amsterdam"}
+{"query":1375,"company":"postnl","name":"Primera","address":"Karspeldreef 1313 -1315, 1104SE Amsterdam"}
+{"query":1375,"company":"postnl","name":"GAMMA Diemen","address":"Sniep 28, 1112AH Diemen"}
+{"query":1375,"company":"postnl","name":"Voie Autorijschool","address":"Efua Sutherlandstraat 4, 1103MP Amsterdam"}
+{"query":1375,"company":"postnl","name":"ABC Drogisterij Kruidenhof","address":"Kruidenhof 16, 1112PS Diemen"}
+{"query":1375,"company":"postnl","name":"FD Printing Center Amsterdam","address":"Bijlmerplein 100, 1102DA Amsterdam"}
+{"query":1375,"company":"postnl","name":"Primera Amsterdamse Poort","address":"Bijlmerplein 993, 1102MK Amsterdam"}
+{"query":1376,"company":"postnl","name":"Rijwielhandel Ferdi","address":"Italiëlaan 151 A, 2034BZ Haarlem"}
+{"query":1376,"company":"postnl","name":"Doctor Mobile Schalkwijk","address":"Rivièradreef 53 -55, 2037AE Haarlem"}
+{"query":1376,"company":"postnl","name":"AKO","address":"Rivièradreef 14, 2037AG Haarlem"}
+{"query":1376,"company":"postnl","name":"Jumbo","address":"Engelenburg 70, 2036RS Haarlem"}
+{"query":1376,"company":"postnl","name":"B & B Print en Office","address":"Binnenweg 68, 2101JL Heemstede"}
+{"query":1376,"company":"postnl","name":"Dekamarkt (44418)","address":"Binnenweg 16, 2101JK Heemstede"}
+{"query":1376,"company":"postnl","name":"Primera de Pijp","address":"Raadhuisstraat 30, 2101HH Heemstede"}

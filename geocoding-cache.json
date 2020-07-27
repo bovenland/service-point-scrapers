@@ -1,0 +1,3726 @@
+{
+  "Kerkstraat 41, 3295BD 's-Gravendeel": {
+    "type": "Point",
+    "coordinates": [
+      4.61545823,
+      51.77948062
+    ]
+  },
+  "Kerkstraat 37, 3295BD 's-Gravendeel": {
+    "type": "Point",
+    "coordinates": [
+      4.61555102,
+      51.77846101
+    ]
+  },
+  "Calandstraat 7, 3316EA Dordrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.64646369,
+      51.77975382
+    ]
+  },
+  "Markt 26, 6602AN Wijchen": {
+    "type": "Point",
+    "coordinates": [
+      5.72662878,
+      51.80719917
+    ]
+  },
+  "Herenstraat 17, 6602BA Wijchen": {
+    "type": "Point",
+    "coordinates": [
+      5.72490297,
+      51.80951332
+    ]
+  },
+  "Zuiderpoort 7, 6605HM Wijchen": {
+    "type": "Point",
+    "coordinates": [
+      5.72461657,
+      51.79983719
+    ]
+  },
+  "Homberg 2527, 6601XW Wijchen": {
+    "type": "Point",
+    "coordinates": [
+      5.71205806,
+      51.81187762
+    ]
+  },
+  "Wijdesteeg 3-B, 1012RN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8898737,
+      52.37155748
+    ]
+  },
+  "Hagedoornweg 18- C, 1031BR Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91281132,
+      52.38941364
+    ]
+  },
+  "Kuipersstraat 17-H, 1074EE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90556809,
+      52.35435034
+    ]
+  },
+  "Mosplein 30, 1032JX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91362907,
+      52.3924954
+    ]
+  },
+  "Nieuwezijds Voorburgwal 29, 1012RD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89488368,
+      52.37671277
+    ]
+  },
+  "Prins Hendrikkade 86, 1012AE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90169757,
+      52.37674091
+    ]
+  },
+  "Nieuwezijds Voorburgwal 91, 1012RE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89211368,
+      52.3748947
+    ]
+  },
+  "Vijzelstraat 105, 1017HH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8922894,
+      52.36309456
+    ]
+  },
+  "Nieuwezijds Voorburgwal 344, 1012RX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88913868,
+      52.3691211
+    ]
+  },
+  "Marnixstraat 94-hs, 1015VZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8793044,
+      52.37907366
+    ]
+  },
+  "Sarphatipark 20, 1072PA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89388844,
+      52.35396071
+    ]
+  },
+  "Elandsgracht 126H, 1016VB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87899118,
+      52.36923975
+    ]
+  },
+  "Haarlemmerdijk 141, 1013KG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8851856,
+      52.38368246
+    ]
+  },
+  "Eerste Oosterparkstraat 126B, 1091HG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91321814,
+      52.35685285
+    ]
+  },
+  "Prins Hendrikkade 176, 1011TC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91022823,
+      52.37158319
+    ]
+  },
+  "Nieuwe Hoogstraat 4, 1011HE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89926626,
+      52.37080802
+    ]
+  },
+  "Wijdesteeg 3B, 1012RN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8898737,
+      52.37155748
+    ]
+  },
+  "Johan Van Hasseltweg 102, 1022WZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92555663,
+      52.38712721
+    ]
+  },
+  "Utrechtsestraat 30H, 1017VN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89791168,
+      52.36448406
+    ]
+  },
+  "Nieuwe Nieuwstraat 28, 1012NH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89370899,
+      52.37537771
+    ]
+  },
+  "Czaar Peterstraat 94A, 1018PS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92902741,
+      52.36966864
+    ]
+  },
+  "1E Van Swindenstraat 62, 1093GG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92709099,
+      52.36241705
+    ]
+  },
+  "Haarlemmerstraat 18, 1013ER Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8936469,
+      52.37963762
+    ]
+  },
+  "Tweede Hugo De Grootstraat 35, 1052LB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87173207,
+      52.37477177
+    ]
+  },
+  "Czaar Peterstraat 33, 1018NX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9268201,
+      52.36871637
+    ]
+  },
+  "Haarlemmerstraat 41, 1013EJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89333879,
+      52.37960937
+    ]
+  },
+  "Eerste Van Swindenstraat 86 A, 1093GJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9284533,
+      52.36270994
+    ]
+  },
+  "Rozengracht 14, 1016NB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88224136,
+      52.37394525
+    ]
+  },
+  "Javastraat 77, 1094HB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93460868,
+      52.3638751
+    ]
+  },
+  "Javastraat 31 A, 1094GZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93281779,
+      52.3637334
+    ]
+  },
+  "Lijnbaansgracht 204, 1016XA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87915108,
+      52.368099
+    ]
+  },
+  "Rozengracht 62, 1016NE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88060135,
+      52.3735338
+    ]
+  },
+  "Singel 250 SOUS, 1016AB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88827164,
+      52.37292852
+    ]
+  },
+  "Vijzelgracht 57, 1017HP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89146353,
+      52.36079923
+    ]
+  },
+  "Nieuwezijds Voorburgwal 101, 1012RG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8918234,
+      52.3745879
+    ]
+  },
+  "Westermarkt 7 H, 1016DH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88443032,
+      52.37386469
+    ]
+  },
+  "Gedempt Hamerkanaal 223, 1021KP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91976766,
+      52.38326358
+    ]
+  },
+  "Haarlemmerdijk 56, 1013JE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88781443,
+      52.38240834
+    ]
+  },
+  "Raadhuisstraat 12 H, 1016DE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8882091,
+      52.37344027
+    ]
+  },
+  "Oostelijke Handelskade 34, 1019BN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93488317,
+      52.37427488
+    ]
+  },
+  "Javastraat 85 -87, 1094HB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93504211,
+      52.36385875
+    ]
+  },
+  "Eerste Van Swindenstraat 467, 1093GB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92910928,
+      52.36316187
+    ]
+  },
+  "Eerste Van Swindenstraat 385, 1093GB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92808377,
+      52.36295118
+    ]
+  },
+  "Overtoom 8 A, 1054HH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8780409,
+      52.36376214
+    ]
+  },
+  "Haarlemmerdijk 168, 1013JK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88496152,
+      52.38401406
+    ]
+  },
+  "Waterlooplein 169, 1011PG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90243438,
+      52.36844828
+    ]
+  },
+  "Warmoesstraat 98 H, 1012JH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89677484,
+      52.37447926
+    ]
+  },
+  "Reguliersdwarsstraat 50 H, 1017BM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8917851,
+      52.36618423
+    ]
+  },
+  "De Ruijterkade 26 B, 1012AA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9011988,
+      52.37933526
+    ]
+  },
+  "Reguliersbreestraat 49, 1017CM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89562909,
+      52.36643393
+    ]
+  },
+  "Raadhuisstraat 23, 1016DB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88663923,
+      52.37331681
+    ]
+  },
+  "Stadhouderskade 24 B, 1054ES AMSTERDAM": {
+    "type": "Point",
+    "coordinates": [
+      4.88104273,
+      52.3618786
+    ]
+  },
+  "Rapenburg 91, 1011TW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91017943,
+      52.37051994
+    ]
+  },
+  "Nieuwe Nieuwstraat 12, 1012NH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89420837,
+      52.3753708
+    ]
+  },
+  "Dapperstraat 9, 1093BK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92632925,
+      52.36508343
+    ]
+  },
+  "Sarphatistraat 65, 1018EX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90699179,
+      52.36114186
+    ]
+  },
+  "Prinsenstraat 23 C, 1015DB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88657342,
+      52.37784633
+    ]
+  },
+  "Elandsgracht 41 H, 1016TN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88104305,
+      52.3695721
+    ]
+  },
+  "Westerstraat 114, 1015MN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88343694,
+      52.37857901
+    ]
+  },
+  "Bilderdijkstraat 149, 1053KN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87173385,
+      52.36830062
+    ]
+  },
+  "Bilderdijkstraat 40, 1052NB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87036143,
+      52.37141338
+    ]
+  },
+  "Van Hallstraat 236, 1051HL Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87113363,
+      52.37950569
+    ]
+  },
+  "Ten Katestraat 24 A, 1053CG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86681832,
+      52.36676918
+    ]
+  },
+  "Kinkerstraat 180, 1053EK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86777989,
+      52.36615325
+    ]
+  },
+  "E Constantijn Huygensstr 65, 1054BT Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87527235,
+      52.36321993
+    ]
+  },
+  "Van Limburg Stirumplein 1, 1051BD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8754254,
+      52.38431476
+    ]
+  },
+  "Sperwerlaan 12 B, 1021EN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91450376,
+      52.38498949
+    ]
+  },
+  "Kinkerstraat 152, 1053EH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86859943,
+      52.36638153
+    ]
+  },
+  "Frederik Hendrikstraat 128 PART, 1052JC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87275591,
+      52.37512675
+    ]
+  },
+  "Nieuwe Hemweg 1, 1013BG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86576201,
+      52.39417705
+    ]
+  },
+  "Zekeringstraat 49, 1014BP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84779742,
+      52.39632555
+    ]
+  },
+  "Boomgaardlaan 100 PBA, 1036KJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90316408,
+      52.40711769
+    ]
+  },
+  "Boomgaardlaan 100, 1036KJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90316408,
+      52.40711769
+    ]
+  },
+  "Nova Zemblastraat 565, 1013RJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87877455,
+      52.39070146
+    ]
+  },
+  "Van Hallstraat 254, 1051HM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87138424,
+      52.37942589
+    ]
+  },
+  "Kinkerstraat 150, 1053EH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86871431,
+      52.36641129
+    ]
+  },
+  "Spaarndammerstraat 490, 1013SZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87999967,
+      52.38890918
+    ]
+  },
+  "Burgemeester De Vlugtlaan 29-31, 1063BG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.83415606,
+      52.37921294
+    ]
+  },
+  "Jan Evertsenstraat 83, 1057BR Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85421933,
+      52.37055089
+    ]
+  },
+  "Admiraal De Ruijterweg 389H, 1055MC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85140427,
+      52.38235705
+    ]
+  },
+  "Spaarndammerstraat 636, 1013TH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8792243,
+      52.38991247
+    ]
+  },
+  "Willem de Zwijgerlaan 336 A, 1055RD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86080743,
+      52.38085841
+    ]
+  },
+  "Admiraal De Ruijterweg 462, 1055NG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84804839,
+      52.38414835
+    ]
+  },
+  "Teleportboulevard 100 PBA, 1043EJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.83929663,
+      52.38751453
+    ]
+  },
+  "Asterweg 14, 1031HN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90475795,
+      52.38971365
+    ]
+  },
+  "Admiraal De Ruijterweg 87, 1056ET Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85928692,
+      52.37164314
+    ]
+  },
+  "Hagedoornweg 44, 1031BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9123783,
+      52.39006801
+    ]
+  },
+  "Jan van Galenstraat 127 HUIS, 1056BL Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85793164,
+      52.37446822
+    ]
+  },
+  "Admiraal De Ruijterweg 218, 1056HC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85806261,
+      52.37703031
+    ]
+  },
+  "Jan Pieter Heijestraat 150, 1054MK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86445556,
+      52.36168968
+    ]
+  },
+  "Jan Pieter Heijestraat 182 -184, 1054MN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86512222,
+      52.36068453
+    ]
+  },
+  "Postjesweg 78, 1057EE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85498297,
+      52.36442469
+    ]
+  },
+  "Hoofdweg 240 H, 1057DG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85265582,
+      52.36747903
+    ]
+  },
+  "Jan Evertsenstraat 104 H, 1056EH AMSTERDAM": {
+    "type": "Point",
+    "coordinates": [
+      4.85298455,
+      52.37066217
+    ]
+  },
+  "Jan Evertsenstraat 95 H, 1057BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85336945,
+      52.37040326
+    ]
+  },
+  "Kinkerstraat 252 H, 1053GA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86502717,
+      52.365512
+    ]
+  },
+  "Vespuccistraat 32 H, 1057CM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85401582,
+      52.37037921
+    ]
+  },
+  "Columbusplein 235, 1057TX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85486586,
+      52.36561953
+    ]
+  },
+  "Van Woustraat 90, 1073LP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90092304,
+      52.35496049
+    ]
+  },
+  "Eerste Jan Steenstraat 53, 1072NB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88969015,
+      52.35398808
+    ]
+  },
+  "Ceintuurbaan 131, 1072GA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89298684,
+      52.35320198
+    ]
+  },
+  "Eerste Oosterparkstraat 172, 1091HJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91485784,
+      52.35726385
+    ]
+  },
+  "Eerste Oosterparkstraat 152, 1091HH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9139207,
+      52.3570444
+    ]
+  },
+  "Alexander Boersstraat 25 C, 1071KV Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87748853,
+      52.35816939
+    ]
+  },
+  "Van Woustraat 44 H, 1073LM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89985133,
+      52.35631323
+    ]
+  },
+  "Beukenplein 6, 1091KG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91752812,
+      52.35739131
+    ]
+  },
+  "Ferdinand Bolstraat 25, 1072LB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89068068,
+      52.35597853
+    ]
+  },
+  "Ceintuurbaan 224, 1072GE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88846185,
+      52.35226625
+    ]
+  },
+  "Javastraat 6, 1094HG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93198485,
+      52.36335271
+    ]
+  },
+  "Javastraat 37, 1094GZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93305222,
+      52.36377923
+    ]
+  },
+  "Oostelijke Handelskade 1061 -1063, 1019BW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93802854,
+      52.37399925
+    ]
+  },
+  "Linnaeusstraat 58, 1092CM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92683707,
+      52.35717622
+    ]
+  },
+  "Linnaeusstraat 77, 1093EK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92575142,
+      52.35994021
+    ]
+  },
+  "Insulindeweg 478, 1094MH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93941867,
+      52.36139478
+    ]
+  },
+  "Ijburglaan 444, 1086ZJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.98061707,
+      52.36250512
+    ]
+  },
+  "Cruquiusweg 86, 1019AJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94827964,
+      52.36795303
+    ]
+  },
+  "Van der Pekstraat 137, 1031CX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91076816,
+      52.39089739
+    ]
+  },
+  "Berberisstraat 36, 1032EM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9139213,
+      52.39277048
+    ]
+  },
+  "Mosveld 103, 1031AD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91396214,
+      52.39091945
+    ]
+  },
+  "Purmerplein 19, 1023BC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94446207,
+      52.39149549
+    ]
+  },
+  "Buikslotermeerplein 123 C, 1025ET Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93658326,
+      52.39917718
+    ]
+  },
+  "Klimopweg 65, 1032HZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90854818,
+      52.39922
+    ]
+  },
+  "Klaprozenweg 31, 1032KK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90859523,
+      52.39758444
+    ]
+  },
+  "Waterlandplein 260, 1024NB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.95479854,
+      52.39235547
+    ]
+  },
+  "Buikslotermeerplein 100, 1025EX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93659313,
+      52.39820655
+    ]
+  },
+  "Buikslotermeerplein 290, 1025GB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93966536,
+      52.3980654
+    ]
+  },
+  "Buikslotermeerplein 200 B, 1025GA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93847092,
+      52.39849229
+    ]
+  },
+  "Bezaanjachtplein 271, 1034CR Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91698878,
+      52.40780183
+    ]
+  },
+  "Rijksstraatweg 134A, 1115AV Duivendrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.93737007,
+      52.32643281
+    ]
+  },
+  "Grubbehoeve 53, 1103GJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97795273,
+      52.32188044
+    ]
+  },
+  "Ijburglaan 1307, 1087JJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.99810308,
+      52.35402558
+    ]
+  },
+  "IJburglaan 561, 1087BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.98931268,
+      52.35873287
+    ]
+  },
+  "Molenwijk 38, 1035EG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89301838,
+      52.41727881
+    ]
+  },
+  "Nieuwe Maanstraat 7 -9, 1033JK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88630463,
+      52.41204329
+    ]
+  },
+  "Zuideinde 45b, 1121CK Landsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.91052373,
+      52.42449953
+    ]
+  },
+  "Nieuwe Gouw 38, 1121GX Landsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.91459124,
+      52.42842031
+    ]
+  },
+  "Hogendijk 123, 1506AG Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.81860753,
+      52.43611048
+    ]
+  },
+  "Peperstraat 130, 1502AL Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.82846715,
+      52.44138996
+    ]
+  },
+  "Butaanweg 3, 1041AH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85241471,
+      52.40939659
+    ]
+  },
+  "Tussen Meer 100, 1069DS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.79349147,
+      52.35705888
+    ]
+  },
+  "Rhijnvis Feithstraat 45, 1054TW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85994484,
+      52.35953059
+    ]
+  },
+  "Sierplein 39, 1065LM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.82594005,
+      52.35532975
+    ]
+  },
+  "Tussen Meer 12, 1068GA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.80199758,
+      52.35877297
+    ]
+  },
+  "Burg De Vlugtlaan 178, 1063BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.82264226,
+      52.38147744
+    ]
+  },
+  "Ruys de Beerenbrouckstr 139, 1067BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.80071835,
+      52.38225168
+    ]
+  },
+  "Kleine Tocht 28, 1507CB Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.80956948,
+      52.43115233
+    ]
+  },
+  "Stormhoek 21, 1506SW Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.82067994,
+      52.42815016
+    ]
+  },
+  "Goeman Borgesiusstraat 1, 1544RM Zaandijk": {
+    "type": "Point",
+    "coordinates": [
+      4.81069616,
+      52.47335465
+    ]
+  },
+  "Raadhuisstraat 19, 1541JA Koog Aan De Zaan": {
+    "type": "Point",
+    "coordinates": [
+      4.81067111,
+      52.46161961
+    ]
+  },
+  "Dorpsstraat 348, 1566BR Assendelft": {
+    "type": "Point",
+    "coordinates": [
+      4.73950565,
+      52.4652848
+    ]
+  },
+  "Dennenlaan 64, 1161CS Zwanenburg": {
+    "type": "Point",
+    "coordinates": [
+      4.75019803,
+      52.37847208
+    ]
+  },
+  "Ebbehout 29, 1507EA Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.8122151,
+      52.4387232
+    ]
+  },
+  "Kepplerstraat 54, 1501XM Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.83560385,
+      52.43873609
+    ]
+  },
+  "De Weer 30, 1504AH Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.84427207,
+      52.43830589
+    ]
+  },
+  "Hof van Zaenden 230, 1508XJ Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.81833894,
+      52.45616647
+    ]
+  },
+  "P. Calandlaan 228G, 1069LA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.79794918,
+      52.35189519
+    ]
+  },
+  "Zuiddijk 107, 1501CD Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.83026131,
+      52.43789323
+    ]
+  },
+  "MenschikoffstraatÂ  58, 1506RP Zaanstad": {
+    "type": "Point",
+    "coordinates": [
+      4.82112166,
+      52.43730169
+    ]
+  },
+  "Geertruida van Lierstraat 51, 1069PE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.78233762,
+      52.35149288
+    ]
+  },
+  "J. Kruijverstraat 74, 1507WK Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.79957434,
+      52.45065029
+    ]
+  },
+  "Kaapstadweg 25, 1047HG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.735294,
+      52.40875319
+    ]
+  },
+  "Zuidermolenweg 50, 1069CG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.78241053,
+      52.35986146
+    ]
+  },
+  "Burgemeester de Vluchtlaan 168, 1063BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.82321756,
+      52.38138105
+    ]
+  },
+  "Zwanenburgerdijk 446-448, 1161NV Zwanenburg": {
+    "type": "Point",
+    "coordinates": [
+      4.7501616,
+      52.38135458
+    ]
+  },
+  "Oudeweg 147, 2031CC Haarlem": {
+    "type": "Point",
+    "coordinates": [
+      4.6662182,
+      52.38688126
+    ]
+  },
+  "Zuiderhoofdstraat 3, 1561AH Krommenie": {
+    "type": "Point",
+    "coordinates": [
+      4.76678122,
+      52.49663043
+    ]
+  },
+  "Provincialeweg 47, 1506MB Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.81195888,
+      52.44231277
+    ]
+  },
+  "Gedempte Gracht 2, 1506CE Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.8232266,
+      52.43984635
+    ]
+  },
+  "Zuiderhoofdstraat 38, 1561AM Krommenie": {
+    "type": "Point",
+    "coordinates": [
+      4.76776225,
+      52.49777458
+    ]
+  },
+  "Sloterweg 85-D, 1171CH Badhoevedorp": {
+    "type": "Point",
+    "coordinates": [
+      4.78058383,
+      52.33918248
+    ]
+  },
+  "Zuideinde 105, 1541CB Koog aan de zaan": {
+    "type": "Point",
+    "coordinates": [
+      4.81117334,
+      52.45931836
+    ]
+  },
+  "Badhoevelaan 119, 1171DC Badhoevedorp": {
+    "type": "Point",
+    "coordinates": [
+      4.78578391,
+      52.34235519
+    ]
+  },
+  "Kleine Tocht 43, 1507CA Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.80868695,
+      52.43117498
+    ]
+  },
+  "Prinses Beatrixplein 29, 2033WC Haarlem": {
+    "type": "Point",
+    "coordinates": [
+      4.66195186,
+      52.3784272
+    ]
+  },
+  "Gedempte Gracht 41, 1741GB Schagen": {
+    "type": "Point",
+    "coordinates": [
+      4.79899743,
+      52.78710505
+    ]
+  },
+  "de Langeloop 10 H, 1742PB Schagen": {
+    "type": "Point",
+    "coordinates": [
+      4.77927873,
+      52.79613564
+    ]
+  },
+  "Molenstraat 36, 1741GK Schagen": {
+    "type": "Point",
+    "coordinates": [
+      4.80321682,
+      52.78779502
+    ]
+  },
+  "Makado Centrum 16, 1741JA Schagen": {
+    "type": "Point",
+    "coordinates": [
+      4.79827856,
+      52.78764323
+    ]
+  },
+  "Hoofdweg 386, 1056DD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84930549,
+      52.37254193
+    ]
+  },
+  "Bos en Lommerweg 277, 1055DW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84992333,
+      52.37851258
+    ]
+  },
+  "Hoofdweg 311, 1056CM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84992223,
+      52.37011804
+    ]
+  },
+  "Ceintuurbaan 11, 1072GE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88846185,
+      52.35226625
+    ]
+  },
+  "Marathonweg 11, 1076SX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86123585,
+      52.34845443
+    ]
+  },
+  "Roelof Hartstraat 38, 1071VK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88420583,
+      52.35222128
+    ]
+  },
+  "Ferdinand Bolstraat 111, 1072LE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89124224,
+      52.35301493
+    ]
+  },
+  "Albert Neuhuysstraat 32, 1058SE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85008252,
+      52.35566646
+    ]
+  },
+  "Curaçaostraat 5, 1058BJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85184727,
+      52.35904486
+    ]
+  },
+  "Hendrikje Stoffelsstraat 1, 1058GC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84453874,
+      52.35767241
+    ]
+  },
+  "Amstelveenseweg 77, 1075VW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85611381,
+      52.35335685
+    ]
+  },
+  "Beethovenstraat 3, 1077HK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87868162,
+      52.35013049
+    ]
+  },
+  "Hendrik Jacobszstraat 9, 1075PA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86046324,
+      52.35172254
+    ]
+  },
+  "Hoofddorpplein 25 H, 1059CW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8492436,
+      52.35100698
+    ]
+  },
+  "Koningin Wilhelminaplein 17, 1062HJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84143284,
+      52.35305882
+    ]
+  },
+  "Derkinderenstraat 64, 1062BJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84074167,
+      52.36204097
+    ]
+  },
+  "Johan Huizingalaan 73, 1065HW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.82746636,
+      52.36349788
+    ]
+  },
+  "Hoofddorpweg 12, 1058PB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85154607,
+      52.35116123
+    ]
+  },
+  "Maassluisstraat 2, 1062GD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.83620742,
+      52.35122563
+    ]
+  },
+  "Hoofdweg 138, 1057DA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85345507,
+      52.36450769
+    ]
+  },
+  "Van Baerlestraat 114, 1071BC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88018596,
+      52.35545687
+    ]
+  },
+  "Jachthavenweg 109A, 1081KM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85467312,
+      52.3364174
+    ]
+  },
+  "Isaac Gogelweg 2-PS, 1051DB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86745991,
+      52.38218594
+    ]
+  },
+  "Burg.de.Vlugtlaan 29-31, 1063BG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.83415606,
+      52.37921294
+    ]
+  },
+  "Derkinderenstraat 72-74, 1062BJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.84072145,
+      52.36249026
+    ]
+  },
+  "Olympiaplein 124, 1076AK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86552581,
+      52.34682865
+    ]
+  },
+  "Jan Evertsenstr. 14, 1056EC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85859851,
+      52.37149626
+    ]
+  },
+  "Admiraal de Ruijterweg 389H, 1055MC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85140427,
+      52.38235705
+    ]
+  },
+  "Clercqstraat 89, 1053AG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86755666,
+      52.37016978
+    ]
+  },
+  "Sierplein 3, 1065LM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8264324,
+      52.35586236
+    ]
+  },
+  "Beethovenstraat 42, 1077JJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87691984,
+      52.34890057
+    ]
+  },
+  "Olympiaplein 127, 1077CX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86766054,
+      52.34625384
+    ]
+  },
+  "Marathonweg 21 -23, 1076SZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86166347,
+      52.34828556
+    ]
+  },
+  "Aletta Jacobslaan 5, 1066BP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.83188005,
+      52.34596619
+    ]
+  },
+  "Delflandplein 174, 1062HW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.83988305,
+      52.34952602
+    ]
+  },
+  "Stadionweg 139, 1076NM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8653002,
+      52.34604572
+    ]
+  },
+  "De Boelelaan 1117, 1081HV Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.85982988,
+      52.33461597
+    ]
+  },
+  "Pieter Calandlaan 812, 1060TZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.78645573,
+      52.34978819
+    ]
+  },
+  "Dijkgraafplein 32, 1069EW Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.78644407,
+      52.35607061
+    ]
+  },
+  "Swammerdamstraat 2, 1171XJ Badhoevedorp": {
+    "type": "Point",
+    "coordinates": [
+      4.78295136,
+      52.3410427
+    ]
+  },
+  "Tussen Meer 375, 1069DR Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.79188626,
+      52.35634977
+    ]
+  },
+  "Burg Van Leeuwenlaan 32 H, 1064KT Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.81242645,
+      52.37529865
+    ]
+  },
+  "Slotermeerlaan 93, 1064HA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.81957369,
+      52.37794856
+    ]
+  },
+  "Belgiëplein 109 -111, 1066RC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.81091445,
+      52.3458653
+    ]
+  },
+  "Pieter Calandlaan 98, 1068NP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.81164917,
+      52.35484769
+    ]
+  },
+  "Meidoornweg 2, 1171JW Badhoevedorp": {
+    "type": "Point",
+    "coordinates": [
+      4.79768282,
+      52.33429949
+    ]
+  },
+  "Stoepemaheerd 20 F, 9737TL Groningen": {
+    "type": "Point",
+    "coordinates": [
+      6.58867348,
+      53.24648853
+    ]
+  },
+  "Claremaheerd 51 -53, 9736LC Groningen": {
+    "type": "Point",
+    "coordinates": [
+      6.60103531,
+      53.2484037
+    ]
+  },
+  "Scheldestraat 11, 1078GD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89146322,
+      52.34768612
+    ]
+  },
+  "Rooseveltlaan 62, 1078NL Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90078423,
+      52.3448577
+    ]
+  },
+  "Scheldestraat 90, 1078GN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89062441,
+      52.34526489
+    ]
+  },
+  "Rijnstraat 76 H, 1079HK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90525354,
+      52.34546917
+    ]
+  },
+  "Rijnstraat 59, 1078PZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90535737,
+      52.34671889
+    ]
+  },
+  "Niersstraat 16, 1078VK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89505329,
+      52.34351013
+    ]
+  },
+  "Rijnstraat 142 -158, 1079HP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90602802,
+      52.3434789
+    ]
+  },
+  "James Wattstraat 84 PBA, 1097DM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.91962026,
+      52.34969711
+    ]
+  },
+  "Middenweg 49, 1098AC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92993445,
+      52.35432115
+    ]
+  },
+  "Maasstraat 118, 1078HN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.89549747,
+      52.34386517
+    ]
+  },
+  "Kastelenstraat 67A, 1083CC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88310986,
+      52.32594535
+    ]
+  },
+  "Arent Janszoon Ernststr 183 -185, 1083GV Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88442092,
+      52.3319368
+    ]
+  },
+  "Spaklerweg 44 A, 1096BA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92042569,
+      52.33730619
+    ]
+  },
+  "Daniël Goedkoopstraat 31 E, 1096BD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92199736,
+      52.33631299
+    ]
+  },
+  "Galerij 9, 1181ZN Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.86058603,
+      52.30414341
+    ]
+  },
+  "Buitenveldertselaan 184, 1081AC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86810511,
+      52.32455027
+    ]
+  },
+  "Groot Blankenberg 30, 1082AD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87832008,
+      52.32405538
+    ]
+  },
+  "K.v.Oosterwijklaan 47-49, 1181DS Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.85993234,
+      52.31777141
+    ]
+  },
+  "Buitenveldertselaan 162, 1081AC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.86791985,
+      52.32534039
+    ]
+  },
+  "Keizer Karelweg 223-PS, 1181RC Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.85675591,
+      52.30307717
+    ]
+  },
+  "Claude debussylaan 7, 1082MC Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.87203328,
+      52.33745594
+    ]
+  },
+  "Uilenstede 356-PS, 1183DB Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.87462456,
+      52.32109402
+    ]
+  },
+  "Ceintuurbaan 11, 1072ER Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.88740288,
+      52.35245951
+    ]
+  },
+  "Bankrashof 31, 1183NR Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.87487017,
+      52.30191985
+    ]
+  },
+  "Rijnstraat 123, 1079HB Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.90649091,
+      52.34368564
+    ]
+  },
+  "Kastelenstraat 70, 1083CD Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.8831505,
+      52.32624212
+    ]
+  },
+  "Kostverlorenhof 20, 1183HE Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.87548331,
+      52.31239898
+    ]
+  },
+  "Rembrandtweg 657, 1181GV Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.8628401,
+      52.31480631
+    ]
+  },
+  "Amsterdamseweg 207, 1182GW Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.84667518,
+      52.31180635
+    ]
+  },
+  "Holendrechtplein 14B, 1106LN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.96330203,
+      52.29990308
+    ]
+  },
+  "Sinderenstraat 13, 1107TK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.969674,
+      52.28976512
+    ]
+  },
+  "Schovenstraat 27, 1097ZX Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94194799,
+      52.33902489
+    ]
+  },
+  "Dapperstraat 295, 1093BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92873426,
+      52.36109324
+    ]
+  },
+  "Ouddiemerlaan 16, 1111HJ Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.96229633,
+      52.33893263
+    ]
+  },
+  "Kromwijkdreef 6-PS, 1104KM Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.98190675,
+      52.31452409
+    ]
+  },
+  "Laarderhoogtweg 5-PS, 1101DZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94763332,
+      52.30276252
+    ]
+  },
+  "Sniep 22-PS, 1112AH Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.97897158,
+      52.33268643
+    ]
+  },
+  "ijburglaan 723, 1087BS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.99077292,
+      52.35795584
+    ]
+  },
+  "Linnaeusstraat 66, 1092CN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92695655,
+      52.35697896
+    ]
+  },
+  "Javastraat 10, 1094HG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93216074,
+      52.36338035
+    ]
+  },
+  "Kruitberg 2010A, 1104CA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97765574,
+      52.31750237
+    ]
+  },
+  "Eerste van Swindenstraat 62, 1093GG Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.92709099,
+      52.36241705
+    ]
+  },
+  "Kruidenhof 6, 1112PS Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.95782017,
+      52.33438544
+    ]
+  },
+  "Insulindeweg 4, 1094PJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.93327194,
+      52.36095794
+    ]
+  },
+  "Hogeweyselaan 177C, 1382JL Weesp": {
+    "type": "Point",
+    "coordinates": [
+      5.02627204,
+      52.31502616
+    ]
+  },
+  "Reigersbos 86B, 1106AS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97559447,
+      52.29616334
+    ]
+  },
+  "Pampuslaan 45, 1087HP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      5.00852692,
+      52.35258275
+    ]
+  },
+  "IJburglaan 1283, 1087GJ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.99667269,
+      52.35477583
+    ]
+  },
+  "Leeteinde 16, 1151AK Broek in waterland": {
+    "type": "Point",
+    "coordinates": [
+      4.99292771,
+      52.43717126
+    ]
+  },
+  "Achtergracht 2, 1381BN Weesp": {
+    "type": "Point",
+    "coordinates": [
+      5.03870505,
+      52.30814003
+    ]
+  },
+  "Carolina MacGillavrylaan 3192 -3196, 1098XK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94989516,
+      52.3547301
+    ]
+  },
+  "De Flinesstraat 1, 1114AL Amsterdam-Duivendrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.92888245,
+      52.32600355
+    ]
+  },
+  "Dorpsplein 55, 1115CW Duivendrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.93894795,
+      52.33246226
+    ]
+  },
+  "Kruidenhof 16, 1112PS Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.95745229,
+      52.33403686
+    ]
+  },
+  "Brinkstraat 25, 1097VH Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94648888,
+      52.34224755
+    ]
+  },
+  "Diemerplein 34 -36, 1111JD Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.96248304,
+      52.34228988
+    ]
+  },
+  "Diemerplein 14, 1111JD Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.9619661,
+      52.34170103
+    ]
+  },
+  "Diemerplein 52, 1111JD Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.96366503,
+      52.34257278
+    ]
+  },
+  "Reigersbos 98B, 1107ES Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97588384,
+      52.29559462
+    ]
+  },
+  "Reigersbos 90B, 1106AS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97563949,
+      52.29617057
+    ]
+  },
+  "Hoogstraat 2, 1391BS Abcoude": {
+    "type": "Point",
+    "coordinates": [
+      4.97427279,
+      52.27175223
+    ]
+  },
+  "Sluisplein 7, 1191GR Ouderkerk Aan De Amstel": {
+    "type": "Point",
+    "coordinates": [
+      4.91435273,
+      52.2971308
+    ]
+  },
+  "Holendrechtplein 4, 1106LN Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.96341742,
+      52.30021667
+    ]
+  },
+  "Sijsjesbergweg 12, 1105AL Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9433238,
+      52.29533148
+    ]
+  },
+  "Bijlmerplein 100, 1102DA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.95105121,
+      52.3145312
+    ]
+  },
+  "Sijsjesbergweg 10, 1105AL Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.94330887,
+      52.29535838
+    ]
+  },
+  "Meibergdreef 9, 1105AZ Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.95820415,
+      52.2951617
+    ]
+  },
+  "Keienbergweg 38 A, 1101GC AMSTERDAM": {
+    "type": "Point",
+    "coordinates": [
+      4.93273602,
+      52.30863816
+    ]
+  },
+  "Bijlmerplein 993, 1102MK Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.95082796,
+      52.31337095
+    ]
+  },
+  "Lepelaarstraat 2 A, 6601DJ Wijchen": {
+    "type": "Point",
+    "coordinates": [
+      5.72752181,
+      51.81451232
+    ]
+  },
+  "Kerkstraat 34, 1191JD Oudekerk ad amstel": {
+    "type": "Point",
+    "coordinates": [
+      4.9028822,
+      52.2963074
+    ]
+  },
+  "Reigersbos 60, 1106AS Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97550458,
+      52.29640957
+    ]
+  },
+  "Reigersbos 95, 1106AR Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97619786,
+      52.29594462
+    ]
+  },
+  "Reigersbos 57, 1106AP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9760607,
+      52.29651037
+    ]
+  },
+  "Wisseloord 97, 1106MA Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.98711436,
+      52.29644043
+    ]
+  },
+  "Stammerlandweg 10, 1109BR Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      5.01467667,
+      52.30881441
+    ]
+  },
+  "Karspeldreef 1313 -1315, 1104SE Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.97802722,
+      52.31606867
+    ]
+  },
+  "Herengracht 25, 1382AG Weesp": {
+    "type": "Point",
+    "coordinates": [
+      5.03963029,
+      52.3088293
+    ]
+  },
+  "Amstellandlaan 12, 1382CE Weesp": {
+    "type": "Point",
+    "coordinates": [
+      5.03407333,
+      52.31053906
+    ]
+  },
+  "Sniep 28, 1112AH Diemen": {
+    "type": "Point",
+    "coordinates": [
+      4.97909288,
+      52.33159006
+    ]
+  },
+  "Harriet Freezerstraat 106, 1103JP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.9725021,
+      52.32284113
+    ]
+  },
+  "Efua Sutherlandstraat 4, 1103MP Amsterdam": {
+    "type": "Point",
+    "coordinates": [
+      4.96799972,
+      52.32121645
+    ]
+  },
+  "Hatertseweg 829, 6535ZT Nijmegen": {
+    "type": "Point",
+    "coordinates": [
+      5.8247372,
+      51.80752679
+    ]
+  },
+  "Hatertseweg 835, 6535ZT Nijmegen": {
+    "type": "Point",
+    "coordinates": [
+      5.8239708,
+      51.80798769
+    ]
+  },
+  "Malvert 7023, 6538DP Nijmegen": {
+    "type": "Point",
+    "coordinates": [
+      5.8079951,
+      51.808912
+    ]
+  },
+  "Meijhorst 7031, 6537EP Nijmegen": {
+    "type": "Point",
+    "coordinates": [
+      5.80176927,
+      51.81142133
+    ]
+  },
+  "Amsterdamseweg 73, 1182GP Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.84634559,
+      52.30705664
+    ]
+  },
+  "Legmeerdijk 313, 1431GB Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.78541066,
+      52.25917795
+    ]
+  },
+  "Van der Hooplaan 180, 1185GK Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.8550284,
+      52.29207359
+    ]
+  },
+  "Westwijkplein 76, 1187LV Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.82652816,
+      52.28189255
+    ]
+  },
+  "Grutterij 1 -IND, 1185ZT Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.83436871,
+      52.2827189
+    ]
+  },
+  "Brink 34, 1188NC Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.85152844,
+      52.2814089
+    ]
+  },
+  "Aankomstpassage 4, 1118AX Schiphol": {
+    "type": "Point",
+    "coordinates": [
+      4.76210481,
+      52.30950729
+    ]
+  },
+  "Rembrandthof 53, 1181ZL Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.85995485,
+      52.30322772
+    ]
+  },
+  "Aalsmeerderweg 207, 1432CL Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.78774033,
+      52.27829193
+    ]
+  },
+  "Klaverweide 10, 1511XW Oostzaan": {
+    "type": "Point",
+    "coordinates": [
+      4.87839504,
+      52.43721654
+    ]
+  },
+  "Dorpsstraat 8, 1452PD Ilpendam": {
+    "type": "Point",
+    "coordinates": [
+      4.95028852,
+      52.46356876
+    ]
+  },
+  "Gibraltar 4, 1503BM Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.84738662,
+      52.44605074
+    ]
+  },
+  "Gibraltar 29, 1503BM Zaandam": {
+    "type": "Point",
+    "coordinates": [
+      4.84577578,
+      52.44611467
+    ]
+  },
+  "De Stient 4, 1132BE Volendam": {
+    "type": "Point",
+    "coordinates": [
+      5.05304702,
+      52.4977602
+    ]
+  },
+  "Langemeerstraat 2 B, 1135JE Edam": {
+    "type": "Point",
+    "coordinates": [
+      5.05297526,
+      52.50725068
+    ]
+  },
+  "Burg van Baarstraat 42, 1131WV Volendam": {
+    "type": "Point",
+    "coordinates": [
+      5.06982353,
+      52.49928918
+    ]
+  },
+  "Burg van Baarstraat 30, 1131WV Volendam": {
+    "type": "Point",
+    "coordinates": [
+      5.07130746,
+      52.49976947
+    ]
+  },
+  "Zuideinde 3 A, 1131AC Volendam": {
+    "type": "Point",
+    "coordinates": [
+      5.07331775,
+      52.49249502
+    ]
+  },
+  "Lingerzijde 10, 1135AP Edam": {
+    "type": "Point",
+    "coordinates": [
+      5.04672124,
+      52.51222988
+    ]
+  },
+  "Graaf Willemlaan 24, 1141XL Monnickendam": {
+    "type": "Point",
+    "coordinates": [
+      5.04036651,
+      52.45489475
+    ]
+  },
+  "'t Spil 44, 1141SH Monnickendam": {
+    "type": "Point",
+    "coordinates": [
+      5.03733633,
+      52.44989242
+    ]
+  },
+  "Zuideinde 15, 1151CN Broek in Waterland": {
+    "type": "Point",
+    "coordinates": [
+      4.99850174,
+      52.43239938
+    ]
+  },
+  "Ganzenmarkt 2 -6, 3512GD Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.11889528,
+      52.09194467
+    ]
+  },
+  "Croeselaan 297 -299, 3521BT Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.11228481,
+      52.0807624
+    ]
+  },
+  "Westerkade 38, 3511HC Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.12218927,
+      52.07894902
+    ]
+  },
+  "Amsterdamsestraatweg 254, 3551CR Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.10000634,
+      52.10053339
+    ]
+  },
+  "Biltstraat 52, 3572BD Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.12881446,
+      52.09529183
+    ]
+  },
+  "Adriaen van Ostadelaan 40, 3583AJ Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.14071753,
+      52.08266736
+    ]
+  },
+  "Voorstraat 61 A, 3512AK Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.12136905,
+      52.09504751
+    ]
+  },
+  "Ina Boudier-Bakkerhof 4, 3582VX Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.13446614,
+      52.08231546
+    ]
+  },
+  "Voorstraat 39, 3512AJ Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.12021597,
+      52.09470316
+    ]
+  },
+  "Amsterdamsestraatweg 74, 3513AJ Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.10696888,
+      52.09649835
+    ]
+  },
+  "Mariaplaats 2, 3511LH Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.11838225,
+      52.08989619
+    ]
+  },
+  "Stationshal 18 A, 3511CE Utrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.11127454,
+      52.08948452
+    ]
+  },
+  "Dennenlaan 50, 1161CS Zwanenburg": {
+    "type": "Point",
+    "coordinates": [
+      4.75070836,
+      52.37879218
+    ]
+  },
+  "Lageweg 1 B, 2064KZ Spaarndam": {
+    "type": "Point",
+    "coordinates": [
+      4.68397273,
+      52.41128636
+    ]
+  },
+  "Pa Verkuijllaan 23, 1171EA Badhoevedorp": {
+    "type": "Point",
+    "coordinates": [
+      4.78001456,
+      52.3361258
+    ]
+  },
+  "Sloterweg 218 -220, 1171CX Badhoevedorp": {
+    "type": "Point",
+    "coordinates": [
+      4.77593024,
+      52.33520086
+    ]
+  },
+  "Karel Doormanweg 18, 1181WE Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.87013729,
+      52.30510511
+    ]
+  },
+  "Parlevinker 55, 1186ZB Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.86217022,
+      52.27973044
+    ]
+  },
+  "Lindenlaan 382, 1185NM Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.86144238,
+      52.29593551
+    ]
+  },
+  "Oosteinderweg 279, 1432AV Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.78974708,
+      52.28157314
+    ]
+  },
+  "Kerkstraat 29, 1191JC Ouderkerk aan de Amstel": {
+    "type": "Point",
+    "coordinates": [
+      4.90280657,
+      52.29623623
+    ]
+  },
+  "Parlevinker 35, 1186ZB Amstelveen": {
+    "type": "Point",
+    "coordinates": [
+      4.8619484,
+      52.2794904
+    ]
+  },
+  "Ondernemingsweg 56 N, 1422DZ Uithoorn": {
+    "type": "Point",
+    "coordinates": [
+      4.84429246,
+      52.24155333
+    ]
+  },
+  "Zijdelwaardplein 60, 1422DN Uithoorn": {
+    "type": "Point",
+    "coordinates": [
+      4.82760111,
+      52.24662264
+    ]
+  },
+  "Zijdelwaardplein 91, 1422DL Uithoorn": {
+    "type": "Point",
+    "coordinates": [
+      4.82724837,
+      52.24568499
+    ]
+  },
+  "Poldermeesterplein 5, 1432JZ Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.79476514,
+      52.27464603
+    ]
+  },
+  "Zijdelwaardplein 54, 1422AN Uithoorn": {
+    "type": "Point",
+    "coordinates": [
+      4.82814944,
+      52.24669997
+    ]
+  },
+  "Minckelersstraat 43, 1223LC Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.1960306,
+      52.224945
+    ]
+  },
+  "Gijsbrecht van Amstelstr 123, 1214AW Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17051046,
+      52.21583595
+    ]
+  },
+  "Verlengde Zuiderloswal 30, 1216BX Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.15090455,
+      52.22313293
+    ]
+  },
+  "Groest 7, 1211CX Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17849027,
+      52.22646685
+    ]
+  },
+  "Seinstraat 3, 1223DE Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.1921017,
+      52.23236291
+    ]
+  },
+  "Larenseweg 155, 1221CL Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.18846018,
+      52.23286052
+    ]
+  },
+  "Vreelandseweg 5, 1216CG Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.14882052,
+      52.21993961
+    ]
+  },
+  "Schoutenstraat 4, 1211BM Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17295972,
+      52.2254445
+    ]
+  },
+  "Jan van der Heijdenstr 41 A, 1223BG Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.19149107,
+      52.23200533
+    ]
+  },
+  "Hilvertshof 51, 1211ER Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17641557,
+      52.22487514
+    ]
+  },
+  "Neuweg 196, 1214HB Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.16770199,
+      52.21337188
+    ]
+  },
+  "Jan van der Heijdenstr 25 -27, 1222HP Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.18977451,
+      52.23338252
+    ]
+  },
+  "Oosterengweg 68, 1212CP Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.19483331,
+      52.21868405
+    ]
+  },
+  "Berlagelaan 79, 1222JP Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.18642946,
+      52.23833675
+    ]
+  },
+  "Brinklaan 72, 1404GL Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.16249875,
+      52.27444559
+    ]
+  },
+  "s-Gravelandseweg 46, 1211BT Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17109175,
+      52.22627987
+    ]
+  },
+  "Larenseweg 9, 1221CH Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.18268942,
+      52.22767996
+    ]
+  },
+  "Hessenweg 104, 3731JM De Bilt": {
+    "type": "Point",
+    "coordinates": [
+      5.18104123,
+      52.10903565
+    ]
+  },
+  "Van Weedestraat 18, 3761CE Soest": {
+    "type": "Point",
+    "coordinates": [
+      5.29819109,
+      52.18522706
+    ]
+  },
+  "Zeedijk 33A, 1211CV Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17541721,
+      52.22420728
+    ]
+  },
+  "Laarderweg 24D, 3755AN Eemnes": {
+    "type": "Point",
+    "coordinates": [
+      5.26383229,
+      52.25324667
+    ]
+  },
+  "Gijsbrecht Van Amstelstraat 161, 1214AX Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.16860561,
+      52.21557237
+    ]
+  },
+  "Laanstraat 65 D, 3743BB Baarn": {
+    "type": "Point",
+    "coordinates": [
+      5.28739024,
+      52.211691
+    ]
+  },
+  "Paganinipassage 92, 6371LJ Landgraaf": {
+    "type": "Point",
+    "coordinates": [
+      6.02540918,
+      50.90562745
+    ]
+  },
+  "Korte Hovenstraat 5, 6374GG Landgraaf": {
+    "type": "Point",
+    "coordinates": [
+      6.05064006,
+      50.91647523
+    ]
+  },
+  "Vivaldipassage 5, 6371LL Landgraaf": {
+    "type": "Point",
+    "coordinates": [
+      6.02417307,
+      50.90607946
+    ]
+  },
+  "Havikweg 6, 6374AZ Landgraaf": {
+    "type": "Point",
+    "coordinates": [
+      6.02750018,
+      50.9172545
+    ]
+  },
+  "Vogelzankweg 179 A, 6374AC Landgraaf": {
+    "type": "Point",
+    "coordinates": [
+      6.02712168,
+      50.91936585
+    ]
+  },
+  "Hovenstraat 128, 6374HG Landgraaf": {
+    "type": "Point",
+    "coordinates": [
+      6.05107926,
+      50.91549646
+    ]
+  },
+  "Admiraal de Ruyterlaan 16 A, 1215NA Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.15652162,
+      52.21064701
+    ]
+  },
+  "2e Loswal 4, 1216BC Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.14604367,
+      52.22307101
+    ]
+  },
+  "Stephensonlaan 45 -49, 1222NV Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.17606646,
+      52.23796453
+    ]
+  },
+  "De Meent 19, 1218CB Hilversum": {
+    "type": "Point",
+    "coordinates": [
+      5.13773681,
+      52.27079249
+    ]
+  },
+  "Koekoeklaan 88, 1403EH Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.18369704,
+      52.26824711
+    ]
+  },
+  "H. Kamerlingh Onnesweg 49, 1402ED Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.1827294,
+      52.27316651
+    ]
+  },
+  "Franse Kampweg 12, 1406NW Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.14273144,
+      52.26066501
+    ]
+  },
+  "Plein 1945 3, 1251MA Laren (NH)": {
+    "type": "Point",
+    "coordinates": [
+      5.22974268,
+      52.25475026
+    ]
+  },
+  "Huizerweg 26 A, 1402AB Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.16885922,
+      52.2738527
+    ]
+  },
+  "Rading 146, 1231KE Loosdrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.14333109,
+      52.19580665
+    ]
+  },
+  "Nootweg 45, 1231CR Loosdrecht": {
+    "type": "Point",
+    "coordinates": [
+      5.13878838,
+      52.2000549
+    ]
+  },
+  "Curtevenneweg 2, 1241XZ Kortenhoef": {
+    "type": "Point",
+    "coordinates": [
+      5.11380851,
+      52.23995335
+    ]
+  },
+  "Voorstraat 10, 1394CS Nederhorst den Berg": {
+    "type": "Point",
+    "coordinates": [
+      5.04470949,
+      52.2641663
+    ]
+  },
+  "Mackaylaan 48 -54, 1412CR Naarden": {
+    "type": "Point",
+    "coordinates": [
+      5.14927897,
+      52.28455968
+    ]
+  },
+  "Huizerweg 8, 1261AW Blaricum": {
+    "type": "Point",
+    "coordinates": [
+      5.2435108,
+      52.27344928
+    ]
+  },
+  "Hooibrug 1, 1261MV Blaricum": {
+    "type": "Point",
+    "coordinates": [
+      5.26520973,
+      52.28680715
+    ]
+  },
+  "Holleblok 22, 1273EG Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.25416057,
+      52.3025112
+    ]
+  },
+  "Binnendelta 1 T, 1261WZ Blaricum": {
+    "type": "Point",
+    "coordinates": [
+      5.28079047,
+      52.28980622
+    ]
+  },
+  "De Regentesse 96, 1273JZ Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.26175439,
+      52.29427995
+    ]
+  },
+  "Kerkstraat 36, 1271RM Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.23455071,
+      52.29748594
+    ]
+  },
+  "Warandebergstraat 45, 1271ZC Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.23701441,
+      52.30454763
+    ]
+  },
+  "Phohistraat 10, 1276EH Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.24540824,
+      52.2902806
+    ]
+  },
+  "Vijf Meiplein 176 -178, 2321BT Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.47813678,
+      52.1472447
+    ]
+  },
+  "Lammenschansweg 130, 2321JX Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.4915442,
+      52.14585483
+    ]
+  },
+  "Levendaal 20, 2311JL Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.49383063,
+      52.15518058
+    ]
+  },
+  "Kennedylaan 118, 2324EZ Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.47168166,
+      52.14103495
+    ]
+  },
+  "Leidseweg 518, 2253JP Voorschoten": {
+    "type": "Point",
+    "coordinates": [
+      4.46445848,
+      52.14690449
+    ]
+  },
+  "Nieuwenhuizenweg 21, 2314XP Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.5059669,
+      52.14538054
+    ]
+  },
+  "Hoge Rijndijk 5 PBA, 2313KE Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.50493415,
+      52.15517283
+    ]
+  },
+  "Vijf Meiplein 33, 2321BN Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.47895128,
+      52.14740798
+    ]
+  },
+  "Bètaplein 22, 2321KS Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.493498,
+      52.14591646
+    ]
+  },
+  "Rooseveltstraat 41, 2321BL Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.48089998,
+      52.14577629
+    ]
+  },
+  "IJsselkade 45, 2314VM Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.51493971,
+      52.15160324
+    ]
+  },
+  "Herenstraat 47, 2313AE Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.48866983,
+      52.15154361
+    ]
+  },
+  "Diamantplein 55 -56, 2332HT Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.46529778,
+      52.1567469
+    ]
+  },
+  "Diamantplein 54, 2332HT Leiden": {
+    "type": "Point",
+    "coordinates": [
+      4.4645302,
+      52.15672277
+    ]
+  },
+  "Westwaarts 3, 2711AD Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.48564844,
+      52.06078715
+    ]
+  },
+  "Dorpsstraat 179, 2712AJ Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.5011729,
+      52.05416174
+    ]
+  },
+  "Quirinegang 47, 2719CG Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.47733646,
+      52.04350613
+    ]
+  },
+  "Oostwaarts 109, 2711BA Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.49455165,
+      52.06204122
+    ]
+  },
+  "Dorpsstraat 88, 2712AM Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.49801464,
+      52.05600487
+    ]
+  },
+  "Van Stolberglaan 23, 2713ES Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.48466285,
+      52.05316554
+    ]
+  },
+  "Voorweg 192, 2716NK Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.45372962,
+      52.06502762
+    ]
+  },
+  "Middelwaard 52, 2716CW Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.46867989,
+      52.05554337
+    ]
+  },
+  "Noordwaarts 220, 2711HP Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.49137028,
+      52.06195899
+    ]
+  },
+  "Middelwaard 70 A, 2716CW Zoetermeer": {
+    "type": "Point",
+    "coordinates": [
+      4.46849351,
+      52.05558114
+    ]
+  },
+  "Euphoniumweg 5, 1312XK Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.17573734,
+      52.37510962
+    ]
+  },
+  "Forum 7, 1315TD Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21995273,
+      52.36877366
+    ]
+  },
+  "Rimsky-Korssakovweg 33, 1323LP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.19089916,
+      52.36678269
+    ]
+  },
+  "Enschedepad 67, 1324GC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21028266,
+      52.36559907
+    ]
+  },
+  "Lavendelplantsoen 68 PBA, 1313GA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.19789318,
+      52.38223061
+    ]
+  },
+  "Markerkant 12 3 -12, 1314AJ Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21715074,
+      52.38611226
+    ]
+  },
+  "Markerkant 10 142, 1316AL Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.22033943,
+      52.3881178
+    ]
+  },
+  "Geinplein 34 -37, 1316HC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.22411057,
+      52.38490663
+    ]
+  },
+  "Boelijn 195 PBA, 1319DP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.1754779,
+      52.39449344
+    ]
+  },
+  "Botplein 2 PBA, 1317SL Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.23121377,
+      52.3891872
+    ]
+  },
+  "Vlaardingenstraat 10, 1324LC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.20044808,
+      52.3625671
+    ]
+  },
+  "'s-Hertogenboschplein 8 PBA, 1324WB Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.2048694,
+      52.35947054
+    ]
+  },
+  "Walt Disneyplantsoen 76 PBA, 1325SX Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.24226874,
+      52.35956077
+    ]
+  },
+  "Haagbeukweg 50, 1326CP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.243313,
+      52.37570026
+    ]
+  },
+  "Dorpsstraat 9, 1261ES Blaricum": {
+    "type": "Point",
+    "coordinates": [
+      5.24489682,
+      52.27274656
+    ]
+  },
+  "Naardenstraat 16, 1324SP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.20821339,
+      52.3658369
+    ]
+  },
+  "Rimsky Korssakovweg 35, 1323LP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.19082125,
+      52.36667419
+    ]
+  },
+  "Philadelphiapad 20, 1334KC Almere Buiten": {
+    "type": "Point",
+    "coordinates": [
+      5.27595184,
+      52.39522373
+    ]
+  },
+  "Brouwerstraat 16, 1315BP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21752941,
+      52.36836781
+    ]
+  },
+  "Markerkant 10-132d, 1316AL Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21980457,
+      52.38787773
+    ]
+  },
+  "Europalaan 907, 1363BM Almere Poort": {
+    "type": "Point",
+    "coordinates": [
+      5.15337048,
+      52.34664989
+    ]
+  },
+  "Middenweg 21, 1271AS Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.23688842,
+      52.29792526
+    ]
+  },
+  "Rembrandtweg 110, 1318KT Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.25123525,
+      52.38104647
+    ]
+  },
+  "J.J. Slauerhoffstraat 140, 1321RK Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.17832468,
+      52.35583762
+    ]
+  },
+  "Zuidwoldepad 30, 1324AS Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21346532,
+      52.37191551
+    ]
+  },
+  "Ebenezer Howardpark 18, 1326EA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.24407268,
+      52.37073277
+    ]
+  },
+  "Hofmark 16, 1355HA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.22849772,
+      52.34394171
+    ]
+  },
+  "Wijtingstraat 1, 1317RH Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.23149606,
+      52.39155684
+    ]
+  },
+  "Habanerastraat 39, 1326MA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.2537567,
+      52.36410281
+    ]
+  },
+  "Zeistpad 47, 1324NB Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.2055502,
+      52.36328118
+    ]
+  },
+  "Esdoornplantsoen 52, 1326BZ Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.2509031,
+      52.376285
+    ]
+  },
+  "Clemenceaustraat 17, 1314RM Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.22074421,
+      52.38075607
+    ]
+  },
+  "De Steiger 93, 1351AH Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.22626111,
+      52.35089477
+    ]
+  },
+  "Schippergarage 13, 1315SC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21872611,
+      52.36820987
+    ]
+  },
+  "Markt 28, 1354AV Almere-haven": {
+    "type": "Point",
+    "coordinates": [
+      5.21935679,
+      52.33638825
+    ]
+  },
+  "Warandebergstraat 47, 1271ZC Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.2363498,
+      52.30509805
+    ]
+  },
+  "Allendestraat 115, 1314SG Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21759094,
+      52.37771838
+    ]
+  },
+  "Wezelstraat 2 PBA, 1338BG Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.26956666,
+      52.3861325
+    ]
+  },
+  "Dorpsstraat 8A, 1399GV Muiderberg": {
+    "type": "Point",
+    "coordinates": [
+      5.115983,
+      52.32691584
+    ]
+  },
+  "Lindenlaan 62, 1271BB Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.2369352,
+      52.29485255
+    ]
+  },
+  "Poseidonsingel 42, 1363TR Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.14856344,
+      52.35502901
+    ]
+  },
+  "Oude Raadhuisplein 6, 1271RH Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.2355971,
+      52.29783736
+    ]
+  },
+  "Camerastraat 8, 1322BC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.17982517,
+      52.34939936
+    ]
+  },
+  "Editiestraat 20, 1321NG Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.17609213,
+      52.35241872
+    ]
+  },
+  "Alseïdenstraat 22 PBA, 1363SR Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.15435118,
+      52.35757394
+    ]
+  },
+  "Prozastraat 121 PBA, 1321GZ Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.18214653,
+      52.35811033
+    ]
+  },
+  "Alseïdenstraat 20 -15, 1363SR Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.15416123,
+      52.35698342
+    ]
+  },
+  "De Steiger 4 PBA, 1351AA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21868548,
+      52.35086007
+    ]
+  },
+  "De Strubbenweg 4, 1327GE ALMERE": {
+    "type": "Point",
+    "coordinates": [
+      5.25593111,
+      52.35861537
+    ]
+  },
+  "De Strubbenweg 27, 1327GB Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.26279934,
+      52.35958999
+    ]
+  },
+  "Salsastraat 81 PBA, 1326PC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.25639155,
+      52.36578799
+    ]
+  },
+  "Juan Grisstraat 44 PBA, 1328KA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.26582089,
+      52.37194583
+    ]
+  },
+  "Koningsbeltweg 1 PBA, 1329AA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.27479464,
+      52.37511577
+    ]
+  },
+  "Marie Curielaan 1, 1341BA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.28372926,
+      52.35751667
+    ]
+  },
+  "Brugplein 11 PBA, 1332BS Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.25190111,
+      52.40703901
+    ]
+  },
+  "Rode Katerplaats 1 PBA, 1336LC Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.3211048,
+      52.40065787
+    ]
+  },
+  "Meistraat 102, 1335BM Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.28705092,
+      52.40373118
+    ]
+  },
+  "Ringdijk 50, 8244BB Lelystad": {
+    "type": "Point",
+    "coordinates": [
+      5.41905996,
+      52.49968682
+    ]
+  },
+  "Morseweg 67, 1131PH Volendam": {
+    "type": "Point",
+    "coordinates": [
+      5.07879238,
+      52.50555006
+    ]
+  },
+  "Noordeinde 26, 1334AV Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.27618962,
+      52.39557541
+    ]
+  },
+  "New Yorkweg 211, 1334NG Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.27328384,
+      52.39532368
+    ]
+  },
+  "Globeplein 64, 1334BW Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.27979661,
+      52.39371196
+    ]
+  },
+  "Zuideinde 9, 1334BX Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.27991967,
+      52.39348893
+    ]
+  },
+  "Noordeinde 161, 1334AP Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.27758683,
+      52.39497964
+    ]
+  },
+  "Regenboogweg 43 PBA, 1339ET Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.29374436,
+      52.39546673
+    ]
+  },
+  "Middelgronden 164, 1274BV Huizen": {
+    "type": "Point",
+    "coordinates": [
+      5.26469308,
+      52.30388885
+    ]
+  },
+  "Ketelmeerstraat 138, 8226JX Lelystad": {
+    "type": "Point",
+    "coordinates": [
+      5.48780898,
+      52.49099216
+    ]
+  },
+  "Jol 11-01, 8243ED Lelystad": {
+    "type": "Point",
+    "coordinates": [
+      5.44733362,
+      52.50690649
+    ]
+  },
+  "Meerkoetlaan 1 PBA, 1343AW Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.30550512,
+      52.3369005
+    ]
+  },
+  "Ambachtstraat 38, 6971BR Brummen": {
+    "type": "Point",
+    "coordinates": [
+      6.15437585,
+      52.08816672
+    ]
+  },
+  "Marktplein 13 -14, 6971AB Brummen": {
+    "type": "Point",
+    "coordinates": [
+      6.15741082,
+      52.08796703
+    ]
+  },
+  "De Paal 108, 1351JJ Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21870597,
+      52.34649909
+    ]
+  },
+  "Slotlaan 197, 3701GD Zeist": {
+    "type": "Point",
+    "coordinates": [
+      5.24480334,
+      52.08654413
+    ]
+  },
+  "Laan van Vollenhove 3001, 3706AL Zeist": {
+    "type": "Point",
+    "coordinates": [
+      5.22107307,
+      52.10012997
+    ]
+  },
+  "Vrijheidsplein 58 -64, 3705PS Zeist": {
+    "type": "Point",
+    "coordinates": [
+      5.24506264,
+      52.10137469
+    ]
+  },
+  "Voorheuvel 35, 3701JB Zeist": {
+    "type": "Point",
+    "coordinates": [
+      5.24000012,
+      52.08747299
+    ]
+  },
+  "De Clomp 3310, 3704KB Zeist": {
+    "type": "Point",
+    "coordinates": [
+      5.2190557,
+      52.08337869
+    ]
+  },
+  "Jaagmeent 250, 1356AZ Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.23188369,
+      52.33669386
+    ]
+  },
+  "Marktgracht 7, 1353AH Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21863814,
+      52.33594507
+    ]
+  },
+  "Kruisstraat 19, 1357NA Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.2184699,
+      52.33466026
+    ]
+  },
+  "Marktstraat 3, 1354LE Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.21904072,
+      52.3357489
+    ]
+  },
+  "Europalaan 907, 1363BM Almere": {
+    "type": "Point",
+    "coordinates": [
+      5.15337048,
+      52.34664989
+    ]
+  },
+  "Rivièradreef 14, 2037AG Haarlem": {
+    "type": "Point",
+    "coordinates": [
+      4.65393442,
+      52.35945592
+    ]
+  },
+  "Binnenweg 68, 2101JL Heemstede": {
+    "type": "Point",
+    "coordinates": [
+      4.62185402,
+      52.35178043
+    ]
+  },
+  "Binnenweg 16, 2101JK Heemstede": {
+    "type": "Point",
+    "coordinates": [
+      4.62169233,
+      52.35027634
+    ]
+  },
+  "Rivièradreef 53 -55, 2037AE Haarlem": {
+    "type": "Point",
+    "coordinates": [
+      4.65404581,
+      52.35836348
+    ]
+  },
+  "Engelenburg 70, 2036RS Haarlem": {
+    "type": "Point",
+    "coordinates": [
+      4.65385346,
+      52.35187122
+    ]
+  },
+  "Raadhuisstraat 30, 2101HH Heemstede": {
+    "type": "Point",
+    "coordinates": [
+      4.62087078,
+      52.34822017
+    ]
+  },
+  "Italiëlaan 151 A, 2034BZ Haarlem": {
+    "type": "Point",
+    "coordinates": [
+      4.64932058,
+      52.36170358
+    ]
+  }
+}
