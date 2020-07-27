@@ -1,0 +1,615 @@
+{"query":1000,"company":"postnl","name":"Office Centre","address":"Calandstraat 7, 3316EA Dordrecht","geometry":{"type":"Point","coordinates":[4.64646369,51.77975382]}}
+{"query":1000,"company":"postnl","name":"Bruna","address":"Kerkstraat 41, 3295BD 's-Gravendeel","geometry":{"type":"Point","coordinates":[4.61545823,51.77948062]}}
+{"query":1000,"company":"postnl","name":"Jumbo van der Hoek","address":"Kerkstraat 37, 3295BD 's-Gravendeel","geometry":{"type":"Point","coordinates":[4.61555102,51.77846101]}}
+{"query":1001,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1001,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1001,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1002,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1002,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1002,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1002,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen","geometry":{"type":"Point","coordinates":[5.71205806,51.81187762]}}
+{"query":1003,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1003,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1003,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1004,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1004,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1004,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1004,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen","geometry":{"type":"Point","coordinates":[5.71205806,51.81187762]}}
+{"query":1005,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1005,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1005,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1006,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1006,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1006,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1006,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen","geometry":{"type":"Point","coordinates":[5.71205806,51.81187762]}}
+{"query":1007,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1007,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1007,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1008,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1008,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1008,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1008,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen","geometry":{"type":"Point","coordinates":[5.71205806,51.81187762]}}
+{"query":1009,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1009,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1009,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1010,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1010,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1010,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1010,"company":"postnl","name":"Jan Linders","address":"Homberg 2527, 6601XW Wijchen","geometry":{"type":"Point","coordinates":[5.71205806,51.81187762]}}
+{"query":1011,"company":"dhl","name":"Used Products Amsterdam Centrum","address":"Prins Hendrikkade 176, 1011TC Amsterdam","geometry":{"type":"Point","coordinates":[4.91022823,52.37158319]}}
+{"query":1011,"company":"dhl","name":"Drop and Go","address":"Prins Hendrikkade 86, 1012AE Amsterdam","geometry":{"type":"Point","coordinates":[4.90169757,52.37674091]}}
+{"query":1011,"company":"dhl","name":"DHL Homerrpoint Giftshop Effenes","address":"Nieuwezijds Voorburgwal 29, 1012RD Amsterdam","geometry":{"type":"Point","coordinates":[4.89488368,52.37671277]}}
+{"query":1011,"company":"dhl","name":"Emco","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1011,"company":"dhl","name":"Copy Stop Centrum","address":"Wijdesteeg 3-B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1011,"company":"dhl","name":"Tabacco en More","address":"Nieuwezijds Voorburgwal 344, 1012RX Amsterdam","geometry":{"type":"Point","coordinates":[4.88913868,52.3691211]}}
+{"query":1011,"company":"dhl","name":"Parcls Vijzelstraat","address":"Vijzelstraat 105, 1017HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8922894,52.36309456]}}
+{"query":1011,"company":"dhl","name":"Techador Coco","address":"Haarlemmerdijk 141, 1013KG Amsterdam","geometry":{"type":"Point","coordinates":[4.8851856,52.38368246]}}
+{"query":1011,"company":"dhl","name":"Tabaksspeciaalzaak Eland","address":"Elandsgracht 126H, 1016VB Amsterdam","geometry":{"type":"Point","coordinates":[4.87899118,52.36923975]}}
+{"query":1011,"company":"dhl","name":"Tabakshop De Schans","address":"Marnixstraat 94-hs, 1015VZ Amsterdam","geometry":{"type":"Point","coordinates":[4.8793044,52.37907366]}}
+{"query":1011,"company":"dhl","name":"Total Copy Service Amsterdam","address":"Eerste Oosterparkstraat 126B, 1091HG Amsterdam","geometry":{"type":"Point","coordinates":[4.91321814,52.35685285]}}
+{"query":1011,"company":"dhl","name":"DHL Buurtpunt ViaTim en Ingrid 18","address":"Hagedoornweg 18- C, 1031BR Amsterdam","geometry":{"type":"Point","coordinates":[4.91281132,52.38941364]}}
+{"query":1011,"company":"dhl","name":"DHL Buurtpunt ViaTim en Sjef 17","address":"Kuipersstraat 17-H, 1074EE Amsterdam","geometry":{"type":"Point","coordinates":[4.90556809,52.35435034]}}
+{"query":1011,"company":"dhl","name":"Tabakspeciaal Sarphati","address":"Sarphatipark 20, 1072PA Amsterdam","geometry":{"type":"Point","coordinates":[4.89388844,52.35396071]}}
+{"query":1011,"company":"dhl","name":"DHL Homerrpoint Ely Telecom","address":"Mosplein 30, 1032JX Amsterdam","geometry":{"type":"Point","coordinates":[4.91362907,52.3924954]}}
+{"query":1011,"company":"dhl","name":"Used Products Amsterdam Centrum","address":"Prins Hendrikkade 176, 1011TC Amsterdam","geometry":{"type":"Point","coordinates":[4.91022823,52.37158319]}}
+{"query":1011,"company":"dhl","name":"Drop and Go","address":"Prins Hendrikkade 86, 1012AE Amsterdam","geometry":{"type":"Point","coordinates":[4.90169757,52.37674091]}}
+{"query":1011,"company":"dhl","name":"DHL Homerrpoint Giftshop Effenes","address":"Nieuwezijds Voorburgwal 29, 1012RD Amsterdam","geometry":{"type":"Point","coordinates":[4.89488368,52.37671277]}}
+{"query":1011,"company":"dhl","name":"Emco","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1011,"company":"dhl","name":"Copy Stop Centrum","address":"Wijdesteeg 3-B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1011,"company":"dhl","name":"Tabacco en More","address":"Nieuwezijds Voorburgwal 344, 1012RX Amsterdam","geometry":{"type":"Point","coordinates":[4.88913868,52.3691211]}}
+{"query":1011,"company":"dhl","name":"Parcls Vijzelstraat","address":"Vijzelstraat 105, 1017HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8922894,52.36309456]}}
+{"query":1011,"company":"dhl","name":"Techador Coco","address":"Haarlemmerdijk 141, 1013KG Amsterdam","geometry":{"type":"Point","coordinates":[4.8851856,52.38368246]}}
+{"query":1011,"company":"dhl","name":"Tabaksspeciaalzaak Eland","address":"Elandsgracht 126H, 1016VB Amsterdam","geometry":{"type":"Point","coordinates":[4.87899118,52.36923975]}}
+{"query":1011,"company":"dhl","name":"Tabakshop De Schans","address":"Marnixstraat 94-hs, 1015VZ Amsterdam","geometry":{"type":"Point","coordinates":[4.8793044,52.37907366]}}
+{"query":1011,"company":"dhl","name":"Total Copy Service Amsterdam","address":"Eerste Oosterparkstraat 126B, 1091HG Amsterdam","geometry":{"type":"Point","coordinates":[4.91321814,52.35685285]}}
+{"query":1011,"company":"dhl","name":"DHL Buurtpunt ViaTim en Ingrid 18","address":"Hagedoornweg 18- C, 1031BR Amsterdam","geometry":{"type":"Point","coordinates":[4.91281132,52.38941364]}}
+{"query":1011,"company":"dhl","name":"DHL Buurtpunt ViaTim en Sjef 17","address":"Kuipersstraat 17-H, 1074EE Amsterdam","geometry":{"type":"Point","coordinates":[4.90556809,52.35435034]}}
+{"query":1011,"company":"dhl","name":"Tabakspeciaal Sarphati","address":"Sarphatipark 20, 1072PA Amsterdam","geometry":{"type":"Point","coordinates":[4.89388844,52.35396071]}}
+{"query":1011,"company":"dhl","name":"DHL Homerrpoint Ely Telecom","address":"Mosplein 30, 1032JX Amsterdam","geometry":{"type":"Point","coordinates":[4.91362907,52.3924954]}}
+{"query":1011,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1011,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1011,"company":"dpd","name":"Copystop Centrum","address":"Wijdesteeg 3B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1011,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1011,"company":"dpd","name":"De Elektronica Boutique","address":"Utrechtsestraat 30H, 1017VN Amsterdam","geometry":{"type":"Point","coordinates":[4.89791168,52.36448406]}}
+{"query":1011,"company":"dpd","name":"Parcls.Com B.V.","address":"Vijzelstraat 105, 1017HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8922894,52.36309456]}}
+{"query":1011,"company":"dpd","name":"Njag","address":"Czaar Peterstraat 94A, 1018PS Amsterdam","geometry":{"type":"Point","coordinates":[4.92902741,52.36966864]}}
+{"query":1011,"company":"dpd","name":"Schoenmakerij De Leeuw","address":"1E Van Swindenstraat 62, 1093GG Amsterdam","geometry":{"type":"Point","coordinates":[4.92709099,52.36241705]}}
+{"query":1011,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1011,"company":"dpd","name":"Copystop","address":"Johan Van Hasseltweg 102, 1022WZ Amsterdam","geometry":{"type":"Point","coordinates":[4.92555663,52.38712721]}}
+{"query":1011,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1011,"company":"postnl","name":"Primera","address":"Waterlooplein 169, 1011PG Amsterdam","geometry":{"type":"Point","coordinates":[4.90243438,52.36844828]}}
+{"query":1011,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1011,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1011,"company":"postnl","name":"Tabakshuis Weesperplein","address":"Sarphatistraat 65, 1018EX Amsterdam","geometry":{"type":"Point","coordinates":[4.90699179,52.36114186]}}
+{"query":1011,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89420837,52.3753708]}}
+{"query":1011,"company":"postnl","name":"Sigarenmagazijn Het Bommetje","address":"Reguliersbreestraat 49, 1017CM Amsterdam","geometry":{"type":"Point","coordinates":[4.89562909,52.36643393]}}
+{"query":1011,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1011,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1011,"company":"postnl","name":"Gebroeders Winter Singel","address":"Singel 250 SOUS, 1016AB Amsterdam","geometry":{"type":"Point","coordinates":[4.88827164,52.37292852]}}
+{"query":1011,"company":"postnl","name":"L'art Pour Vous","address":"Raadhuisstraat 12 H, 1016DE Amsterdam","geometry":{"type":"Point","coordinates":[4.8882091,52.37344027]}}
+{"query":1011,"company":"postnl","name":"Secret Village Bikeshop","address":"Reguliersdwarsstraat 50 H, 1017BM Amsterdam","geometry":{"type":"Point","coordinates":[4.8917851,52.36618423]}}
+{"query":1011,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1011,"company":"postnl","name":"Sigarenwinkel Dam","address":"Raadhuisstraat 23, 1016DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88663923,52.37331681]}}
+{"query":1011,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam","geometry":{"type":"Point","coordinates":[4.88443032,52.37386469]}}
+{"query":1011,"company":"postnl","name":"Attent Czaar Peter Supermarkt","address":"Czaar Peterstraat 33, 1018NX Amsterdam","geometry":{"type":"Point","coordinates":[4.9268201,52.36871637]}}
+{"query":1011,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88657342,52.37784633]}}
+{"query":1011,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam","geometry":{"type":"Point","coordinates":[4.88224136,52.37394525]}}
+{"query":1011,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam","geometry":{"type":"Point","coordinates":[4.91976766,52.38326358]}}
+{"query":1011,"company":"postnl","name":"Gebroeders Winter Vijzelgracht","address":"Vijzelgracht 57, 1017HP Amsterdam","geometry":{"type":"Point","coordinates":[4.89146353,52.36079923]}}
+{"query":1011,"company":"postnl","name":"Gebroeders Winter Rozengracht","address":"Rozengracht 62, 1016NE Amsterdam","geometry":{"type":"Point","coordinates":[4.88060135,52.3735338]}}
+{"query":1011,"company":"postnl","name":"Tailors of Amsterdam","address":"Elandsgracht 41 H, 1016TN Amsterdam","geometry":{"type":"Point","coordinates":[4.88104305,52.3695721]}}
+{"query":1011,"company":"postnl","name":"Tabakshop Rex","address":"Dapperstraat 9, 1093BK Amsterdam","geometry":{"type":"Point","coordinates":[4.92632925,52.36508343]}}
+{"query":1011,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam","geometry":{"type":"Point","coordinates":[4.88781443,52.38240834]}}
+{"query":1011,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam","geometry":{"type":"Point","coordinates":[4.88343694,52.37857901]}}
+{"query":1011,"company":"postnl","name":"Gebroeders Winter Lijnbaansgracht","address":"Lijnbaansgracht 204, 1016XA Amsterdam","geometry":{"type":"Point","coordinates":[4.87915108,52.368099]}}
+{"query":1011,"company":"postnl","name":"Nandan Shipping","address":"Eerste Van Swindenstraat 385, 1093GB Amsterdam","geometry":{"type":"Point","coordinates":[4.92808377,52.36295118]}}
+{"query":1011,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam","geometry":{"type":"Point","coordinates":[4.93488317,52.37427488]}}
+{"query":1011,"company":"postnl","name":"Dapperpost","address":"Eerste Van Swindenstraat 86 A, 1093GJ Amsterdam","geometry":{"type":"Point","coordinates":[4.9284533,52.36270994]}}
+{"query":1011,"company":"postnl","name":"Moiz Telecom","address":"Eerste Van Swindenstraat 467, 1093GB Amsterdam","geometry":{"type":"Point","coordinates":[4.92910928,52.36316187]}}
+{"query":1011,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88496152,52.38401406]}}
+{"query":1011,"company":"postnl","name":"Spar Byzantium","address":"Stadhouderskade 24 B, 1054ES AMSTERDAM","geometry":{"type":"Point","coordinates":[4.88104273,52.3618786]}}
+{"query":1011,"company":"postnl","name":"GSMKING","address":"Javastraat 31 A, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93281779,52.3637334]}}
+{"query":1011,"company":"postnl","name":"Plantage","address":"Overtoom 8 A, 1054HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8780409,52.36376214]}}
+{"query":1011,"company":"postnl","name":"Fred's Tabakshop","address":"Javastraat 77, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93460868,52.3638751]}}
+{"query":1011,"company":"postnl","name":"Meester Schoenmaker Hillie's Sleute","address":"Javastraat 85 -87, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93504211,52.36385875]}}
+{"query":1012,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1012,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89420837,52.3753708]}}
+{"query":1012,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1012,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1012,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1012,"company":"postnl","name":"Sigarenmagazijn Het Bommetje","address":"Reguliersbreestraat 49, 1017CM Amsterdam","geometry":{"type":"Point","coordinates":[4.89562909,52.36643393]}}
+{"query":1012,"company":"postnl","name":"L'art Pour Vous","address":"Raadhuisstraat 12 H, 1016DE Amsterdam","geometry":{"type":"Point","coordinates":[4.8882091,52.37344027]}}
+{"query":1012,"company":"postnl","name":"Gebroeders Winter Singel","address":"Singel 250 SOUS, 1016AB Amsterdam","geometry":{"type":"Point","coordinates":[4.88827164,52.37292852]}}
+{"query":1012,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1012,"company":"postnl","name":"Sigarenwinkel Dam","address":"Raadhuisstraat 23, 1016DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88663923,52.37331681]}}
+{"query":1012,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam","geometry":{"type":"Point","coordinates":[4.88443032,52.37386469]}}
+{"query":1012,"company":"postnl","name":"Secret Village Bikeshop","address":"Reguliersdwarsstraat 50 H, 1017BM Amsterdam","geometry":{"type":"Point","coordinates":[4.8917851,52.36618423]}}
+{"query":1012,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88657342,52.37784633]}}
+{"query":1012,"company":"postnl","name":"Primera","address":"Waterlooplein 169, 1011PG Amsterdam","geometry":{"type":"Point","coordinates":[4.90243438,52.36844828]}}
+{"query":1012,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam","geometry":{"type":"Point","coordinates":[4.88224136,52.37394525]}}
+{"query":1012,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam","geometry":{"type":"Point","coordinates":[4.88781443,52.38240834]}}
+{"query":1012,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam","geometry":{"type":"Point","coordinates":[4.88343694,52.37857901]}}
+{"query":1012,"company":"postnl","name":"Gebroeders Winter Rozengracht","address":"Rozengracht 62, 1016NE Amsterdam","geometry":{"type":"Point","coordinates":[4.88060135,52.3735338]}}
+{"query":1012,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1012,"company":"postnl","name":"Tailors of Amsterdam","address":"Elandsgracht 41 H, 1016TN Amsterdam","geometry":{"type":"Point","coordinates":[4.88104305,52.3695721]}}
+{"query":1012,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88496152,52.38401406]}}
+{"query":1012,"company":"postnl","name":"Gebroeders Winter Lijnbaansgracht","address":"Lijnbaansgracht 204, 1016XA Amsterdam","geometry":{"type":"Point","coordinates":[4.87915108,52.368099]}}
+{"query":1012,"company":"postnl","name":"Zainabia Telecom","address":"Frederik Hendrikstraat 128 PART, 1052JC Amsterdam","geometry":{"type":"Point","coordinates":[4.87275591,52.37512675]}}
+{"query":1012,"company":"postnl","name":"Plantage","address":"Overtoom 8 A, 1054HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8780409,52.36376214]}}
+{"query":1012,"company":"postnl","name":"Bilderdijk Minimarkt","address":"Bilderdijkstraat 40, 1052NB Amsterdam","geometry":{"type":"Point","coordinates":[4.87036143,52.37141338]}}
+{"query":1012,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam","geometry":{"type":"Point","coordinates":[4.91450376,52.38498949]}}
+{"query":1012,"company":"postnl","name":"Cigo Melcey","address":"Van Hallstraat 236, 1051HL Amsterdam","geometry":{"type":"Point","coordinates":[4.87113363,52.37950569]}}
+{"query":1012,"company":"postnl","name":"Primera","address":"Van Limburg Stirumplein 1, 1051BD Amsterdam","geometry":{"type":"Point","coordinates":[4.8754254,52.38431476]}}
+{"query":1012,"company":"postnl","name":"Bilderdijk & Co","address":"Bilderdijkstraat 149, 1053KN Amsterdam","geometry":{"type":"Point","coordinates":[4.87173385,52.36830062]}}
+{"query":1012,"company":"postnl","name":"Primera","address":"E Constantijn Huygensstr 65, 1054BT Amsterdam","geometry":{"type":"Point","coordinates":[4.87527235,52.36321993]}}
+{"query":1012,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam","geometry":{"type":"Point","coordinates":[4.91976766,52.38326358]}}
+{"query":1012,"company":"postnl","name":"Vaperoutlet","address":"Kinkerstraat 152, 1053EH Amsterdam","geometry":{"type":"Point","coordinates":[4.86859943,52.36638153]}}
+{"query":1012,"company":"postnl","name":"Primera Kinkerstraat","address":"Kinkerstraat 180, 1053EK Amsterdam","geometry":{"type":"Point","coordinates":[4.86777989,52.36615325]}}
+{"query":1012,"company":"postnl","name":"Cigo Quinty","address":"Ten Katestraat 24 A, 1053CG Amsterdam","geometry":{"type":"Point","coordinates":[4.86681832,52.36676918]}}
+{"query":1013,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam","geometry":{"type":"Point","coordinates":[4.87877455,52.39070146]}}
+{"query":1013,"company":"postnl","name":"GAMMA Amsterdam-Nieuwe Hemweg","address":"Nieuwe Hemweg 1, 1013BG Amsterdam","geometry":{"type":"Point","coordinates":[4.86576201,52.39417705]}}
+{"query":1013,"company":"postnl","name":"Office Centre","address":"Zekeringstraat 49, 1014BP Amsterdam","geometry":{"type":"Point","coordinates":[4.84779742,52.39632555]}}
+{"query":1013,"company":"postnl","name":"Plus De Bongerd","address":"Boomgaardlaan 100, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1013,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boomgaardlaan 100 PBA, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1014,"company":"dpd","name":"Tabakspeciaalzaak Admiraal","address":"Admiraal De Ruijterweg 389H, 1055MC Amsterdam","geometry":{"type":"Point","coordinates":[4.85140427,52.38235705]}}
+{"query":1014,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1014,"company":"dpd","name":"Parcls.Com B.V.","address":"Spaarndammerstraat 490, 1013SZ Amsterdam","geometry":{"type":"Point","coordinates":[4.87999967,52.38890918]}}
+{"query":1014,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1014,"company":"dpd","name":"Partsnl Amsterdam","address":"Burgemeester De Vlugtlaan 29-31, 1063BG Amsterdam","geometry":{"type":"Point","coordinates":[4.83415606,52.37921294]}}
+{"query":1014,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1014,"company":"dpd","name":"Sikan Lederwaren","address":"Jan Evertsenstraat 83, 1057BR Amsterdam","geometry":{"type":"Point","coordinates":[4.85421933,52.37055089]}}
+{"query":1014,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1014,"company":"dpd","name":"Lavici","address":"Kinkerstraat 150, 1053EH Amsterdam","geometry":{"type":"Point","coordinates":[4.86871431,52.36641129]}}
+{"query":1014,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1014,"company":"postnl","name":"GAMMA Amsterdam-Nieuwe Hemweg","address":"Nieuwe Hemweg 1, 1013BG Amsterdam","geometry":{"type":"Point","coordinates":[4.86576201,52.39417705]}}
+{"query":1014,"company":"postnl","name":"Gamma Compact","address":"Willem de Zwijgerlaan 336 A, 1055RD Amsterdam","geometry":{"type":"Point","coordinates":[4.86080743,52.38085841]}}
+{"query":1014,"company":"postnl","name":"Office Centre","address":"Zekeringstraat 49, 1014BP Amsterdam","geometry":{"type":"Point","coordinates":[4.84779742,52.39632555]}}
+{"query":1014,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam","geometry":{"type":"Point","coordinates":[4.87877455,52.39070146]}}
+{"query":1014,"company":"postnl","name":"H-Shop Amsterdam","address":"Admiraal De Ruijterweg 462, 1055NG Amsterdam","geometry":{"type":"Point","coordinates":[4.84804839,52.38414835]}}
+{"query":1014,"company":"postnl","name":"Primera","address":"Van Limburg Stirumplein 1, 1051BD Amsterdam","geometry":{"type":"Point","coordinates":[4.8754254,52.38431476]}}
+{"query":1014,"company":"postnl","name":"Cigo Melcey","address":"Van Hallstraat 236, 1051HL Amsterdam","geometry":{"type":"Point","coordinates":[4.87113363,52.37950569]}}
+{"query":1014,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Teleportboulevard 100 PBA, 1043EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.83929663,52.38751453]}}
+{"query":1014,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88496152,52.38401406]}}
+{"query":1014,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam","geometry":{"type":"Point","coordinates":[4.88781443,52.38240834]}}
+{"query":1015,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam","geometry":{"type":"Point","coordinates":[4.88343694,52.37857901]}}
+{"query":1015,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88657342,52.37784633]}}
+{"query":1015,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam","geometry":{"type":"Point","coordinates":[4.88443032,52.37386469]}}
+{"query":1015,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam","geometry":{"type":"Point","coordinates":[4.88224136,52.37394525]}}
+{"query":1015,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88496152,52.38401406]}}
+{"query":1015,"company":"postnl","name":"Sigarenwinkel Dam","address":"Raadhuisstraat 23, 1016DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88663923,52.37331681]}}
+{"query":1015,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam","geometry":{"type":"Point","coordinates":[4.88781443,52.38240834]}}
+{"query":1015,"company":"postnl","name":"Gebroeders Winter Rozengracht","address":"Rozengracht 62, 1016NE Amsterdam","geometry":{"type":"Point","coordinates":[4.88060135,52.3735338]}}
+{"query":1015,"company":"postnl","name":"L'art Pour Vous","address":"Raadhuisstraat 12 H, 1016DE Amsterdam","geometry":{"type":"Point","coordinates":[4.8882091,52.37344027]}}
+{"query":1015,"company":"postnl","name":"Gebroeders Winter Singel","address":"Singel 250 SOUS, 1016AB Amsterdam","geometry":{"type":"Point","coordinates":[4.88827164,52.37292852]}}
+{"query":1015,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1015,"company":"postnl","name":"Tailors of Amsterdam","address":"Elandsgracht 41 H, 1016TN Amsterdam","geometry":{"type":"Point","coordinates":[4.88104305,52.3695721]}}
+{"query":1015,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1015,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1015,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89420837,52.3753708]}}
+{"query":1015,"company":"postnl","name":"Cigo Melcey","address":"Van Hallstraat 236, 1051HL Amsterdam","geometry":{"type":"Point","coordinates":[4.87113363,52.37950569]}}
+{"query":1015,"company":"postnl","name":"Zainabia Telecom","address":"Frederik Hendrikstraat 128 PART, 1052JC Amsterdam","geometry":{"type":"Point","coordinates":[4.87275591,52.37512675]}}
+{"query":1015,"company":"postnl","name":"Primera","address":"Van Limburg Stirumplein 1, 1051BD Amsterdam","geometry":{"type":"Point","coordinates":[4.8754254,52.38431476]}}
+{"query":1015,"company":"postnl","name":"Gebroeders Winter Lijnbaansgracht","address":"Lijnbaansgracht 204, 1016XA Amsterdam","geometry":{"type":"Point","coordinates":[4.87915108,52.368099]}}
+{"query":1015,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1015,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1015,"company":"postnl","name":"Secret Village Bikeshop","address":"Reguliersdwarsstraat 50 H, 1017BM Amsterdam","geometry":{"type":"Point","coordinates":[4.8917851,52.36618423]}}
+{"query":1015,"company":"postnl","name":"Bilderdijk Minimarkt","address":"Bilderdijkstraat 40, 1052NB Amsterdam","geometry":{"type":"Point","coordinates":[4.87036143,52.37141338]}}
+{"query":1015,"company":"postnl","name":"Bilderdijk & Co","address":"Bilderdijkstraat 149, 1053KN Amsterdam","geometry":{"type":"Point","coordinates":[4.87173385,52.36830062]}}
+{"query":1015,"company":"postnl","name":"Sigarenmagazijn Het Bommetje","address":"Reguliersbreestraat 49, 1017CM Amsterdam","geometry":{"type":"Point","coordinates":[4.89562909,52.36643393]}}
+{"query":1015,"company":"postnl","name":"Gamma Compact","address":"Willem de Zwijgerlaan 336 A, 1055RD Amsterdam","geometry":{"type":"Point","coordinates":[4.86080743,52.38085841]}}
+{"query":1015,"company":"postnl","name":"Tabak & Minimarkt Admiraal","address":"Admiraal De Ruijterweg 218, 1056HC Amsterdam","geometry":{"type":"Point","coordinates":[4.85806261,52.37703031]}}
+{"query":1015,"company":"postnl","name":"Vaperoutlet","address":"Kinkerstraat 152, 1053EH Amsterdam","geometry":{"type":"Point","coordinates":[4.86859943,52.36638153]}}
+{"query":1015,"company":"postnl","name":"Primera","address":"Waterlooplein 169, 1011PG Amsterdam","geometry":{"type":"Point","coordinates":[4.90243438,52.36844828]}}
+{"query":1015,"company":"postnl","name":"Cigo Quinty","address":"Ten Katestraat 24 A, 1053CG Amsterdam","geometry":{"type":"Point","coordinates":[4.86681832,52.36676918]}}
+{"query":1015,"company":"postnl","name":"Satellite World Communication","address":"Jan van Galenstraat 127 HUIS, 1056BL Amsterdam","geometry":{"type":"Point","coordinates":[4.85793164,52.37446822]}}
+{"query":1015,"company":"postnl","name":"Primera Admiraal de Ruijterweg","address":"Admiraal De Ruijterweg 87, 1056ET Amsterdam","geometry":{"type":"Point","coordinates":[4.85928692,52.37164314]}}
+{"query":1015,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam","geometry":{"type":"Point","coordinates":[4.90475795,52.38971365]}}
+{"query":1015,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1015,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam","geometry":{"type":"Point","coordinates":[4.9123783,52.39006801]}}
+{"query":1016,"company":"dpd","name":"Copystop Centrum","address":"Wijdesteeg 3B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1016,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1016,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1016,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1016,"company":"dpd","name":"Parcls.Com B.V.","address":"Vijzelstraat 105, 1017HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8922894,52.36309456]}}
+{"query":1016,"company":"dpd","name":"Lavici","address":"Kinkerstraat 150, 1053EH Amsterdam","geometry":{"type":"Point","coordinates":[4.86871431,52.36641129]}}
+{"query":1016,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1016,"company":"dpd","name":"De Elektronica Boutique","address":"Utrechtsestraat 30H, 1017VN Amsterdam","geometry":{"type":"Point","coordinates":[4.89791168,52.36448406]}}
+{"query":1016,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1016,"company":"dpd","name":"Drogisterij Body&Beauty Jan Pieter","address":"Jan Pieter Heijestraat 150, 1054MK Amsterdam","geometry":{"type":"Point","coordinates":[4.86445556,52.36168968]}}
+{"query":1016,"company":"postnl","name":"Tailors of Amsterdam","address":"Elandsgracht 41 H, 1016TN Amsterdam","geometry":{"type":"Point","coordinates":[4.88104305,52.3695721]}}
+{"query":1016,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam","geometry":{"type":"Point","coordinates":[4.88224136,52.37394525]}}
+{"query":1016,"company":"postnl","name":"Gebroeders Winter Rozengracht","address":"Rozengracht 62, 1016NE Amsterdam","geometry":{"type":"Point","coordinates":[4.88060135,52.3735338]}}
+{"query":1016,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam","geometry":{"type":"Point","coordinates":[4.88443032,52.37386469]}}
+{"query":1016,"company":"postnl","name":"Gebroeders Winter Lijnbaansgracht","address":"Lijnbaansgracht 204, 1016XA Amsterdam","geometry":{"type":"Point","coordinates":[4.87915108,52.368099]}}
+{"query":1016,"company":"postnl","name":"Sigarenwinkel Dam","address":"Raadhuisstraat 23, 1016DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88663923,52.37331681]}}
+{"query":1016,"company":"postnl","name":"Gebroeders Winter Singel","address":"Singel 250 SOUS, 1016AB Amsterdam","geometry":{"type":"Point","coordinates":[4.88827164,52.37292852]}}
+{"query":1016,"company":"postnl","name":"L'art Pour Vous","address":"Raadhuisstraat 12 H, 1016DE Amsterdam","geometry":{"type":"Point","coordinates":[4.8882091,52.37344027]}}
+{"query":1016,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam","geometry":{"type":"Point","coordinates":[4.88343694,52.37857901]}}
+{"query":1016,"company":"postnl","name":"Spar Byzantium","address":"Stadhouderskade 24 B, 1054ES AMSTERDAM","geometry":{"type":"Point","coordinates":[4.88104273,52.3618786]}}
+{"query":1016,"company":"postnl","name":"Plantage","address":"Overtoom 8 A, 1054HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8780409,52.36376214]}}
+{"query":1016,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88657342,52.37784633]}}
+{"query":1016,"company":"postnl","name":"Bilderdijk Minimarkt","address":"Bilderdijkstraat 40, 1052NB Amsterdam","geometry":{"type":"Point","coordinates":[4.87036143,52.37141338]}}
+{"query":1016,"company":"postnl","name":"Bilderdijk & Co","address":"Bilderdijkstraat 149, 1053KN Amsterdam","geometry":{"type":"Point","coordinates":[4.87173385,52.36830062]}}
+{"query":1016,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1016,"company":"postnl","name":"Zainabia Telecom","address":"Frederik Hendrikstraat 128 PART, 1052JC Amsterdam","geometry":{"type":"Point","coordinates":[4.87275591,52.37512675]}}
+{"query":1016,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1016,"company":"postnl","name":"Secret Village Bikeshop","address":"Reguliersdwarsstraat 50 H, 1017BM Amsterdam","geometry":{"type":"Point","coordinates":[4.8917851,52.36618423]}}
+{"query":1016,"company":"postnl","name":"Primera","address":"E Constantijn Huygensstr 65, 1054BT Amsterdam","geometry":{"type":"Point","coordinates":[4.87527235,52.36321993]}}
+{"query":1016,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89420837,52.3753708]}}
+{"query":1016,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam","geometry":{"type":"Point","coordinates":[4.88781443,52.38240834]}}
+{"query":1016,"company":"postnl","name":"Sigarenmagazijn Het Bommetje","address":"Reguliersbreestraat 49, 1017CM Amsterdam","geometry":{"type":"Point","coordinates":[4.89562909,52.36643393]}}
+{"query":1016,"company":"postnl","name":"Vaperoutlet","address":"Kinkerstraat 152, 1053EH Amsterdam","geometry":{"type":"Point","coordinates":[4.86859943,52.36638153]}}
+{"query":1016,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1016,"company":"postnl","name":"Primera Kinkerstraat","address":"Kinkerstraat 180, 1053EK Amsterdam","geometry":{"type":"Point","coordinates":[4.86777989,52.36615325]}}
+{"query":1016,"company":"postnl","name":"Cigo Quinty","address":"Ten Katestraat 24 A, 1053CG Amsterdam","geometry":{"type":"Point","coordinates":[4.86681832,52.36676918]}}
+{"query":1016,"company":"postnl","name":"Gebroeders Winter Vijzelgracht","address":"Vijzelgracht 57, 1017HP Amsterdam","geometry":{"type":"Point","coordinates":[4.89146353,52.36079923]}}
+{"query":1016,"company":"postnl","name":"Cigo Melcey","address":"Van Hallstraat 236, 1051HL Amsterdam","geometry":{"type":"Point","coordinates":[4.87113363,52.37950569]}}
+{"query":1016,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1016,"company":"postnl","name":"Spar City Kinkerstraat","address":"Kinkerstraat 252 H, 1053GA Amsterdam","geometry":{"type":"Point","coordinates":[4.86502717,52.365512]}}
+{"query":1016,"company":"postnl","name":"Primera","address":"Waterlooplein 169, 1011PG Amsterdam","geometry":{"type":"Point","coordinates":[4.90243438,52.36844828]}}
+{"query":1016,"company":"postnl","name":"Primera Admiraal de Ruijterweg","address":"Admiraal De Ruijterweg 87, 1056ET Amsterdam","geometry":{"type":"Point","coordinates":[4.85928692,52.37164314]}}
+{"query":1016,"company":"postnl","name":"Accent Schoenen en Sport B.V.","address":"Jan Pieter Heijestraat 182 -184, 1054MN Amsterdam","geometry":{"type":"Point","coordinates":[4.86512222,52.36068453]}}
+{"query":1016,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1016,"company":"postnl","name":"Satellite World Communication","address":"Jan van Galenstraat 127 HUIS, 1056BL Amsterdam","geometry":{"type":"Point","coordinates":[4.85793164,52.37446822]}}
+{"query":1016,"company":"postnl","name":"Tabakszaak Vespucci","address":"Vespuccistraat 32 H, 1057CM Amsterdam","geometry":{"type":"Point","coordinates":[4.85401582,52.37037921]}}
+{"query":1016,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1016,"company":"postnl","name":"Iso Tabak","address":"Jan Evertsenstraat 95 H, 1057BS Amsterdam","geometry":{"type":"Point","coordinates":[4.85336945,52.37040326]}}
+{"query":1016,"company":"postnl","name":"Happy GSM","address":"Jan Evertsenstraat 104 H, 1056EH AMSTERDAM","geometry":{"type":"Point","coordinates":[4.85298455,52.37066217]}}
+{"query":1016,"company":"postnl","name":"Tabak & Minimarkt Admiraal","address":"Admiraal De Ruijterweg 218, 1056HC Amsterdam","geometry":{"type":"Point","coordinates":[4.85806261,52.37703031]}}
+{"query":1016,"company":"postnl","name":"Gamma Compact","address":"Willem de Zwijgerlaan 336 A, 1055RD Amsterdam","geometry":{"type":"Point","coordinates":[4.86080743,52.38085841]}}
+{"query":1016,"company":"postnl","name":"Vin Village","address":"Columbusplein 235, 1057TX Amsterdam","geometry":{"type":"Point","coordinates":[4.85486586,52.36561953]}}
+{"query":1016,"company":"postnl","name":"Dilara's Photo & Videography","address":"Hoofdweg 240 H, 1057DG Amsterdam","geometry":{"type":"Point","coordinates":[4.85265582,52.36747903]}}
+{"query":1016,"company":"postnl","name":"Cigo Balk","address":"Postjesweg 78, 1057EE Amsterdam","geometry":{"type":"Point","coordinates":[4.85498297,52.36442469]}}
+{"query":1016,"company":"postnl","name":"Tabakshuis Weesperplein","address":"Sarphatistraat 65, 1018EX Amsterdam","geometry":{"type":"Point","coordinates":[4.90699179,52.36114186]}}
+{"query":1017,"company":"postnl","name":"Gebroeders Winter Vijzelgracht","address":"Vijzelgracht 57, 1017HP Amsterdam","geometry":{"type":"Point","coordinates":[4.89146353,52.36079923]}}
+{"query":1017,"company":"postnl","name":"Secret Village Bikeshop","address":"Reguliersdwarsstraat 50 H, 1017BM Amsterdam","geometry":{"type":"Point","coordinates":[4.8917851,52.36618423]}}
+{"query":1017,"company":"postnl","name":"Sigarenmagazijn Het Bommetje","address":"Reguliersbreestraat 49, 1017CM Amsterdam","geometry":{"type":"Point","coordinates":[4.89562909,52.36643393]}}
+{"query":1017,"company":"postnl","name":"Primera","address":"Ferdinand Bolstraat 25, 1072LB Amsterdam","geometry":{"type":"Point","coordinates":[4.89068068,52.35597853]}}
+{"query":1017,"company":"postnl","name":"Gebroeders Winter Ceintuurbaan","address":"Ceintuurbaan 131, 1072GA Amsterdam","geometry":{"type":"Point","coordinates":[4.89298684,52.35320198]}}
+{"query":1017,"company":"postnl","name":"Coop Amsterdam","address":"Eerste Jan Steenstraat 53, 1072NB Amsterdam","geometry":{"type":"Point","coordinates":[4.88969015,52.35398808]}}
+{"query":1017,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1017,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1017,"company":"postnl","name":"Spar Byzantium","address":"Stadhouderskade 24 B, 1054ES AMSTERDAM","geometry":{"type":"Point","coordinates":[4.88104273,52.3618786]}}
+{"query":1017,"company":"postnl","name":"Meso Trada","address":"Van Woustraat 44 H, 1073LM Amsterdam","geometry":{"type":"Point","coordinates":[4.89985133,52.35631323]}}
+{"query":1017,"company":"postnl","name":"Gebroeders Winter Singel","address":"Singel 250 SOUS, 1016AB Amsterdam","geometry":{"type":"Point","coordinates":[4.88827164,52.37292852]}}
+{"query":1017,"company":"postnl","name":"Primera","address":"Waterlooplein 169, 1011PG Amsterdam","geometry":{"type":"Point","coordinates":[4.90243438,52.36844828]}}
+{"query":1017,"company":"postnl","name":"L'art Pour Vous","address":"Raadhuisstraat 12 H, 1016DE Amsterdam","geometry":{"type":"Point","coordinates":[4.8882091,52.37344027]}}
+{"query":1017,"company":"postnl","name":"Tabak Shop Sarah (786)","address":"Ceintuurbaan 224, 1072GE Amsterdam","geometry":{"type":"Point","coordinates":[4.88846185,52.35226625]}}
+{"query":1017,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1017,"company":"postnl","name":"Plantage","address":"Overtoom 8 A, 1054HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8780409,52.36376214]}}
+{"query":1017,"company":"postnl","name":"Bruna","address":"Van Woustraat 90, 1073LP Amsterdam","geometry":{"type":"Point","coordinates":[4.90092304,52.35496049]}}
+{"query":1017,"company":"postnl","name":"Tabakshuis Weesperplein","address":"Sarphatistraat 65, 1018EX Amsterdam","geometry":{"type":"Point","coordinates":[4.90699179,52.36114186]}}
+{"query":1017,"company":"postnl","name":"Sigarenwinkel Dam","address":"Raadhuisstraat 23, 1016DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88663923,52.37331681]}}
+{"query":1017,"company":"postnl","name":"Primera","address":"E Constantijn Huygensstr 65, 1054BT Amsterdam","geometry":{"type":"Point","coordinates":[4.87527235,52.36321993]}}
+{"query":1017,"company":"postnl","name":"Tailors of Amsterdam","address":"Elandsgracht 41 H, 1016TN Amsterdam","geometry":{"type":"Point","coordinates":[4.88104305,52.3695721]}}
+{"query":1017,"company":"postnl","name":"Gebroeders Winter Lijnbaansgracht","address":"Lijnbaansgracht 204, 1016XA Amsterdam","geometry":{"type":"Point","coordinates":[4.87915108,52.368099]}}
+{"query":1017,"company":"postnl","name":"Jack's E-Cigarettes & More","address":"Westermarkt 7 H, 1016DH Amsterdam","geometry":{"type":"Point","coordinates":[4.88443032,52.37386469]}}
+{"query":1017,"company":"postnl","name":"Kantoorboekhandel Brugman","address":"Alexander Boersstraat 25 C, 1071KV Amsterdam","geometry":{"type":"Point","coordinates":[4.87748853,52.35816939]}}
+{"query":1017,"company":"postnl","name":"Eazy Store BV","address":"Rozengracht 14, 1016NB Amsterdam","geometry":{"type":"Point","coordinates":[4.88224136,52.37394525]}}
+{"query":1017,"company":"postnl","name":"Gebroeders Winter Rozengracht","address":"Rozengracht 62, 1016NE Amsterdam","geometry":{"type":"Point","coordinates":[4.88060135,52.3735338]}}
+{"query":1017,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1017,"company":"postnl","name":"Bilderdijk & Co","address":"Bilderdijkstraat 149, 1053KN Amsterdam","geometry":{"type":"Point","coordinates":[4.87173385,52.36830062]}}
+{"query":1017,"company":"postnl","name":"Ilyas Tabak en Gemakswinkel","address":"Eerste Oosterparkstraat 152, 1091HH Amsterdam","geometry":{"type":"Point","coordinates":[4.9139207,52.3570444]}}
+{"query":1017,"company":"postnl","name":"Vaperoutlet","address":"Kinkerstraat 152, 1053EH Amsterdam","geometry":{"type":"Point","coordinates":[4.86859943,52.36638153]}}
+{"query":1017,"company":"postnl","name":"Himchuli Tabakshop","address":"Eerste Oosterparkstraat 172, 1091HJ Amsterdam","geometry":{"type":"Point","coordinates":[4.91485784,52.35726385]}}
+{"query":1017,"company":"postnl","name":"Primera Kinkerstraat","address":"Kinkerstraat 180, 1053EK Amsterdam","geometry":{"type":"Point","coordinates":[4.86777989,52.36615325]}}
+{"query":1017,"company":"postnl","name":"Cigo Quinty","address":"Ten Katestraat 24 A, 1053CG Amsterdam","geometry":{"type":"Point","coordinates":[4.86681832,52.36676918]}}
+{"query":1017,"company":"postnl","name":"Accent Schoenen en Sport B.V.","address":"Jan Pieter Heijestraat 182 -184, 1054MN Amsterdam","geometry":{"type":"Point","coordinates":[4.86512222,52.36068453]}}
+{"query":1017,"company":"postnl","name":"Primera","address":"Beukenplein 6, 1091KG Amsterdam","geometry":{"type":"Point","coordinates":[4.91752812,52.35739131]}}
+{"query":1017,"company":"postnl","name":"Spar City Kinkerstraat","address":"Kinkerstraat 252 H, 1053GA Amsterdam","geometry":{"type":"Point","coordinates":[4.86502717,52.365512]}}
+{"query":1017,"company":"postnl","name":"Bilderdijk Minimarkt","address":"Bilderdijkstraat 40, 1052NB Amsterdam","geometry":{"type":"Point","coordinates":[4.87036143,52.37141338]}}
+{"query":1017,"company":"postnl","name":"Zainabia Telecom","address":"Frederik Hendrikstraat 128 PART, 1052JC Amsterdam","geometry":{"type":"Point","coordinates":[4.87275591,52.37512675]}}
+{"query":1018,"company":"dpd","name":"Njag","address":"Czaar Peterstraat 94A, 1018PS Amsterdam","geometry":{"type":"Point","coordinates":[4.92902741,52.36966864]}}
+{"query":1018,"company":"dpd","name":"Schoenmakerij De Leeuw","address":"1E Van Swindenstraat 62, 1093GG Amsterdam","geometry":{"type":"Point","coordinates":[4.92709099,52.36241705]}}
+{"query":1018,"company":"dpd","name":"Haq`S International","address":"Javastraat 6, 1094HG Amsterdam","geometry":{"type":"Point","coordinates":[4.93198485,52.36335271]}}
+{"query":1018,"company":"dpd","name":"Homerr B.V. / Easytell","address":"Javastraat 37, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93305222,52.36377923]}}
+{"query":1018,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1018,"company":"dpd","name":"De Elektronica Boutique","address":"Utrechtsestraat 30H, 1017VN Amsterdam","geometry":{"type":"Point","coordinates":[4.89791168,52.36448406]}}
+{"query":1018,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1018,"company":"dpd","name":"Parcls.Com B.V.","address":"Vijzelstraat 105, 1017HH Amsterdam","geometry":{"type":"Point","coordinates":[4.8922894,52.36309456]}}
+{"query":1018,"company":"dpd","name":"Copystop Centrum","address":"Wijdesteeg 3B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1018,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1018,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1018,"company":"postnl","name":"Attent Czaar Peter Supermarkt","address":"Czaar Peterstraat 33, 1018NX Amsterdam","geometry":{"type":"Point","coordinates":[4.9268201,52.36871637]}}
+{"query":1018,"company":"postnl","name":"Primera","address":"Beukenplein 6, 1091KG Amsterdam","geometry":{"type":"Point","coordinates":[4.91752812,52.35739131]}}
+{"query":1018,"company":"postnl","name":"Tabakshop Rex","address":"Dapperstraat 9, 1093BK Amsterdam","geometry":{"type":"Point","coordinates":[4.92632925,52.36508343]}}
+{"query":1018,"company":"postnl","name":"Himchuli Tabakshop","address":"Eerste Oosterparkstraat 172, 1091HJ Amsterdam","geometry":{"type":"Point","coordinates":[4.91485784,52.35726385]}}
+{"query":1018,"company":"postnl","name":"Ilyas Tabak en Gemakswinkel","address":"Eerste Oosterparkstraat 152, 1091HH Amsterdam","geometry":{"type":"Point","coordinates":[4.9139207,52.3570444]}}
+{"query":1018,"company":"postnl","name":"Primera","address":"Waterlooplein 169, 1011PG Amsterdam","geometry":{"type":"Point","coordinates":[4.90243438,52.36844828]}}
+{"query":1018,"company":"postnl","name":"Nandan Shipping","address":"Eerste Van Swindenstraat 385, 1093GB Amsterdam","geometry":{"type":"Point","coordinates":[4.92808377,52.36295118]}}
+{"query":1018,"company":"postnl","name":"Dapperpost","address":"Eerste Van Swindenstraat 86 A, 1093GJ Amsterdam","geometry":{"type":"Point","coordinates":[4.9284533,52.36270994]}}
+{"query":1018,"company":"postnl","name":"Moiz Telecom","address":"Eerste Van Swindenstraat 467, 1093GB Amsterdam","geometry":{"type":"Point","coordinates":[4.92910928,52.36316187]}}
+{"query":1018,"company":"postnl","name":"Tabakshop Linnaeus","address":"Linnaeusstraat 77, 1093EK Amsterdam","geometry":{"type":"Point","coordinates":[4.92575142,52.35994021]}}
+{"query":1018,"company":"postnl","name":"Tabakshuis Weesperplein","address":"Sarphatistraat 65, 1018EX Amsterdam","geometry":{"type":"Point","coordinates":[4.90699179,52.36114186]}}
+{"query":1018,"company":"postnl","name":"GSMKING","address":"Javastraat 31 A, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93281779,52.3637334]}}
+{"query":1018,"company":"postnl","name":"Gebroeders Winter Linnaeusstraat","address":"Linnaeusstraat 58, 1092CM Amsterdam","geometry":{"type":"Point","coordinates":[4.92683707,52.35717622]}}
+{"query":1018,"company":"postnl","name":"Fred's Tabakshop","address":"Javastraat 77, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93460868,52.3638751]}}
+{"query":1018,"company":"postnl","name":"Meester Schoenmaker Hillie's Sleute","address":"Javastraat 85 -87, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93504211,52.36385875]}}
+{"query":1018,"company":"postnl","name":"Sigarenmagazijn Het Bommetje","address":"Reguliersbreestraat 49, 1017CM Amsterdam","geometry":{"type":"Point","coordinates":[4.89562909,52.36643393]}}
+{"query":1018,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam","geometry":{"type":"Point","coordinates":[4.93488317,52.37427488]}}
+{"query":1018,"company":"postnl","name":"Bruna (333)","address":"Oostelijke Handelskade 1061 -1063, 1019BW Amsterdam","geometry":{"type":"Point","coordinates":[4.93802854,52.37399925]}}
+{"query":1018,"company":"postnl","name":"Secret Village Bikeshop","address":"Reguliersdwarsstraat 50 H, 1017BM Amsterdam","geometry":{"type":"Point","coordinates":[4.8917851,52.36618423]}}
+{"query":1018,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1018,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1018,"company":"postnl","name":"The Read Shop","address":"Insulindeweg 478, 1094MH Amsterdam","geometry":{"type":"Point","coordinates":[4.93941867,52.36139478]}}
+{"query":1018,"company":"postnl","name":"Meso Trada","address":"Van Woustraat 44 H, 1073LM Amsterdam","geometry":{"type":"Point","coordinates":[4.89985133,52.35631323]}}
+{"query":1018,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89420837,52.3753708]}}
+{"query":1018,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1018,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1018,"company":"postnl","name":"Gebroeders Winter Vijzelgracht","address":"Vijzelgracht 57, 1017HP Amsterdam","geometry":{"type":"Point","coordinates":[4.89146353,52.36079923]}}
+{"query":1018,"company":"postnl","name":"Gebroeders Winter Singel","address":"Singel 250 SOUS, 1016AB Amsterdam","geometry":{"type":"Point","coordinates":[4.88827164,52.37292852]}}
+{"query":1018,"company":"postnl","name":"L'art Pour Vous","address":"Raadhuisstraat 12 H, 1016DE Amsterdam","geometry":{"type":"Point","coordinates":[4.8882091,52.37344027]}}
+{"query":1018,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1018,"company":"postnl","name":"Primera","address":"Ferdinand Bolstraat 25, 1072LB Amsterdam","geometry":{"type":"Point","coordinates":[4.89068068,52.35597853]}}
+{"query":1019,"company":"dpd","name":"Njag","address":"Czaar Peterstraat 94A, 1018PS Amsterdam","geometry":{"type":"Point","coordinates":[4.92902741,52.36966864]}}
+{"query":1019,"company":"dpd","name":"Homerr B.V. / Easytell","address":"Javastraat 37, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93305222,52.36377923]}}
+{"query":1019,"company":"dpd","name":"Haq`S International","address":"Javastraat 6, 1094HG Amsterdam","geometry":{"type":"Point","coordinates":[4.93198485,52.36335271]}}
+{"query":1019,"company":"dpd","name":"Schoenmakerij De Leeuw","address":"1E Van Swindenstraat 62, 1093GG Amsterdam","geometry":{"type":"Point","coordinates":[4.92709099,52.36241705]}}
+{"query":1019,"company":"dpd","name":"Copystop","address":"Johan Van Hasseltweg 102, 1022WZ Amsterdam","geometry":{"type":"Point","coordinates":[4.92555663,52.38712721]}}
+{"query":1019,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1019,"company":"dpd","name":"De Elektronica Boutique","address":"Utrechtsestraat 30H, 1017VN Amsterdam","geometry":{"type":"Point","coordinates":[4.89791168,52.36448406]}}
+{"query":1019,"company":"dpd","name":"Bicycle Madmen Amsterdam","address":"Ijburglaan 444, 1086ZJ Amsterdam","geometry":{"type":"Point","coordinates":[4.98061707,52.36250512]}}
+{"query":1019,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1019,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1019,"company":"postnl","name":"Bruna (333)","address":"Oostelijke Handelskade 1061 -1063, 1019BW Amsterdam","geometry":{"type":"Point","coordinates":[4.93802854,52.37399925]}}
+{"query":1019,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam","geometry":{"type":"Point","coordinates":[4.93488317,52.37427488]}}
+{"query":1019,"company":"postnl","name":"Meester Schoenmaker Hillie's Sleute","address":"Javastraat 85 -87, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93504211,52.36385875]}}
+{"query":1019,"company":"postnl","name":"Fred's Tabakshop","address":"Javastraat 77, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93460868,52.3638751]}}
+{"query":1019,"company":"postnl","name":"GSMKING","address":"Javastraat 31 A, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93281779,52.3637334]}}
+{"query":1019,"company":"postnl","name":"Attent Czaar Peter Supermarkt","address":"Czaar Peterstraat 33, 1018NX Amsterdam","geometry":{"type":"Point","coordinates":[4.9268201,52.36871637]}}
+{"query":1019,"company":"postnl","name":"Drive Yourself","address":"Cruquiusweg 86, 1019AJ Amsterdam","geometry":{"type":"Point","coordinates":[4.94827964,52.36795303]}}
+{"query":1019,"company":"postnl","name":"Moiz Telecom","address":"Eerste Van Swindenstraat 467, 1093GB Amsterdam","geometry":{"type":"Point","coordinates":[4.92910928,52.36316187]}}
+{"query":1019,"company":"postnl","name":"Tabakshop Rex","address":"Dapperstraat 9, 1093BK Amsterdam","geometry":{"type":"Point","coordinates":[4.92632925,52.36508343]}}
+{"query":1019,"company":"postnl","name":"Dapperpost","address":"Eerste Van Swindenstraat 86 A, 1093GJ Amsterdam","geometry":{"type":"Point","coordinates":[4.9284533,52.36270994]}}
+{"query":1019,"company":"postnl","name":"Nandan Shipping","address":"Eerste Van Swindenstraat 385, 1093GB Amsterdam","geometry":{"type":"Point","coordinates":[4.92808377,52.36295118]}}
+{"query":1019,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam","geometry":{"type":"Point","coordinates":[4.91976766,52.38326358]}}
+{"query":1019,"company":"postnl","name":"Spar","address":"Rapenburg 91, 1011TW Amsterdam","geometry":{"type":"Point","coordinates":[4.91017943,52.37051994]}}
+{"query":1019,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam","geometry":{"type":"Point","coordinates":[4.91450376,52.38498949]}}
+{"query":1020,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1020,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1020,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1021,"company":"dpd","name":"Copystop","address":"Johan Van Hasseltweg 102, 1022WZ Amsterdam","geometry":{"type":"Point","coordinates":[4.92555663,52.38712721]}}
+{"query":1021,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1021,"company":"dpd","name":"Njag","address":"Czaar Peterstraat 94A, 1018PS Amsterdam","geometry":{"type":"Point","coordinates":[4.92902741,52.36966864]}}
+{"query":1021,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1021,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1021,"company":"dpd","name":"Copystop Centrum","address":"Wijdesteeg 3B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1021,"company":"dpd","name":"Schoenmakerij De Leeuw","address":"1E Van Swindenstraat 62, 1093GG Amsterdam","geometry":{"type":"Point","coordinates":[4.92709099,52.36241705]}}
+{"query":1021,"company":"dpd","name":"Homerr B.V. / Easytell","address":"Javastraat 37, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93305222,52.36377923]}}
+{"query":1021,"company":"dpd","name":"Haq`S International","address":"Javastraat 6, 1094HG Amsterdam","geometry":{"type":"Point","coordinates":[4.93198485,52.36335271]}}
+{"query":1021,"company":"dpd","name":"De Elektronica Boutique","address":"Utrechtsestraat 30H, 1017VN Amsterdam","geometry":{"type":"Point","coordinates":[4.89791168,52.36448406]}}
+{"query":1021,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam","geometry":{"type":"Point","coordinates":[4.91976766,52.38326358]}}
+{"query":1021,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam","geometry":{"type":"Point","coordinates":[4.91450376,52.38498949]}}
+{"query":1021,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam","geometry":{"type":"Point","coordinates":[4.91396214,52.39091945]}}
+{"query":1021,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam","geometry":{"type":"Point","coordinates":[4.9123783,52.39006801]}}
+{"query":1021,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam","geometry":{"type":"Point","coordinates":[4.9139213,52.39277048]}}
+{"query":1021,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam","geometry":{"type":"Point","coordinates":[4.91076816,52.39089739]}}
+{"query":1021,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam","geometry":{"type":"Point","coordinates":[4.90475795,52.38971365]}}
+{"query":1021,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1021,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam","geometry":{"type":"Point","coordinates":[4.93488317,52.37427488]}}
+{"query":1021,"company":"postnl","name":"Bruna (333)","address":"Oostelijke Handelskade 1061 -1063, 1019BW Amsterdam","geometry":{"type":"Point","coordinates":[4.93802854,52.37399925]}}
+{"query":1021,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1021,"company":"postnl","name":"SPAR city Warmoesstraat","address":"Warmoesstraat 98 H, 1012JH Amsterdam","geometry":{"type":"Point","coordinates":[4.89677484,52.37447926]}}
+{"query":1021,"company":"postnl","name":"Tabak en Telefoon","address":"Nieuwe Nieuwstraat 12, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89420837,52.3753708]}}
+{"query":1021,"company":"postnl","name":"Techador Koster","address":"Purmerplein 19, 1023BC Amsterdam","geometry":{"type":"Point","coordinates":[4.94446207,52.39149549]}}
+{"query":1021,"company":"postnl","name":"Donia Travel","address":"Nieuwezijds Voorburgwal 91, 1012RE Amsterdam","geometry":{"type":"Point","coordinates":[4.89211368,52.3748947]}}
+{"query":1021,"company":"postnl","name":"Green Budget Bikes 2 B.V.","address":"Nieuwezijds Voorburgwal 101, 1012RG Amsterdam","geometry":{"type":"Point","coordinates":[4.8918234,52.3745879]}}
+{"query":1022,"company":"postnl","name":"Primera","address":"Buikslotermeerplein 100, 1025EX Amsterdam","geometry":{"type":"Point","coordinates":[4.93659313,52.39820655]}}
+{"query":1022,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1022,"company":"postnl","name":"The Health House B.V.","address":"Buikslotermeerplein 200 B, 1025GA Amsterdam","geometry":{"type":"Point","coordinates":[4.93847092,52.39849229]}}
+{"query":1022,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1022,"company":"postnl","name":"Techador Koster","address":"Purmerplein 19, 1023BC Amsterdam","geometry":{"type":"Point","coordinates":[4.94446207,52.39149549]}}
+{"query":1022,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam","geometry":{"type":"Point","coordinates":[4.9139213,52.39277048]}}
+{"query":1022,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam","geometry":{"type":"Point","coordinates":[4.91396214,52.39091945]}}
+{"query":1022,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam","geometry":{"type":"Point","coordinates":[4.91976766,52.38326358]}}
+{"query":1022,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam","geometry":{"type":"Point","coordinates":[4.9123783,52.39006801]}}
+{"query":1022,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam","geometry":{"type":"Point","coordinates":[4.91076816,52.39089739]}}
+{"query":1022,"company":"postnl","name":"Primera Van Vuure","address":"Waterlandplein 260, 1024NB Amsterdam","geometry":{"type":"Point","coordinates":[4.95479854,52.39235547]}}
+{"query":1022,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam","geometry":{"type":"Point","coordinates":[4.91450376,52.38498949]}}
+{"query":1022,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1022,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam","geometry":{"type":"Point","coordinates":[4.90475795,52.38971365]}}
+{"query":1022,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1023,"company":"postnl","name":"Primera Van Vuure","address":"Waterlandplein 260, 1024NB Amsterdam","geometry":{"type":"Point","coordinates":[4.95479854,52.39235547]}}
+{"query":1023,"company":"postnl","name":"Techador Koster","address":"Purmerplein 19, 1023BC Amsterdam","geometry":{"type":"Point","coordinates":[4.94446207,52.39149549]}}
+{"query":1023,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1023,"company":"postnl","name":"Primera","address":"Buikslotermeerplein 100, 1025EX Amsterdam","geometry":{"type":"Point","coordinates":[4.93659313,52.39820655]}}
+{"query":1023,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam","geometry":{"type":"Point","coordinates":[4.93488317,52.37427488]}}
+{"query":1024,"company":"postnl","name":"Primera Van Vuure","address":"Waterlandplein 260, 1024NB Amsterdam","geometry":{"type":"Point","coordinates":[4.95479854,52.39235547]}}
+{"query":1024,"company":"postnl","name":"Techador Koster","address":"Purmerplein 19, 1023BC Amsterdam","geometry":{"type":"Point","coordinates":[4.94446207,52.39149549]}}
+{"query":1024,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1024,"company":"postnl","name":"The Health House B.V.","address":"Buikslotermeerplein 200 B, 1025GA Amsterdam","geometry":{"type":"Point","coordinates":[4.93847092,52.39849229]}}
+{"query":1024,"company":"postnl","name":"Primera","address":"Buikslotermeerplein 100, 1025EX Amsterdam","geometry":{"type":"Point","coordinates":[4.93659313,52.39820655]}}
+{"query":1024,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1025,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1025,"company":"postnl","name":"Primera","address":"Buikslotermeerplein 100, 1025EX Amsterdam","geometry":{"type":"Point","coordinates":[4.93659313,52.39820655]}}
+{"query":1025,"company":"postnl","name":"The Health House B.V.","address":"Buikslotermeerplein 200 B, 1025GA Amsterdam","geometry":{"type":"Point","coordinates":[4.93847092,52.39849229]}}
+{"query":1025,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1025,"company":"postnl","name":"Techador Koster","address":"Purmerplein 19, 1023BC Amsterdam","geometry":{"type":"Point","coordinates":[4.94446207,52.39149549]}}
+{"query":1025,"company":"postnl","name":"Primera in de Banne","address":"Bezaanjachtplein 271, 1034CR Amsterdam","geometry":{"type":"Point","coordinates":[4.91698878,52.40780183]}}
+{"query":1025,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1025,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam","geometry":{"type":"Point","coordinates":[4.9139213,52.39277048]}}
+{"query":1025,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1025,"company":"postnl","name":"Primera Van Vuure","address":"Waterlandplein 260, 1024NB Amsterdam","geometry":{"type":"Point","coordinates":[4.95479854,52.39235547]}}
+{"query":1025,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam","geometry":{"type":"Point","coordinates":[4.91396214,52.39091945]}}
+{"query":1025,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam","geometry":{"type":"Point","coordinates":[4.9123783,52.39006801]}}
+{"query":1025,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam","geometry":{"type":"Point","coordinates":[4.91076816,52.39089739]}}
+{"query":1025,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam","geometry":{"type":"Point","coordinates":[4.90475795,52.38971365]}}
+{"query":1026,"company":"dpd","name":"Bicycle Madmen Amsterdam","address":"Ijburglaan 444, 1086ZJ Amsterdam","geometry":{"type":"Point","coordinates":[4.98061707,52.36250512]}}
+{"query":1026,"company":"dpd","name":"Dierenparadijs Ijburg","address":"Ijburglaan 1307, 1087JJ Amsterdam","geometry":{"type":"Point","coordinates":[4.99810308,52.35402558]}}
+{"query":1026,"company":"dpd","name":"Homerr B.V. / Easytell","address":"Javastraat 37, 1094GZ Amsterdam","geometry":{"type":"Point","coordinates":[4.93305222,52.36377923]}}
+{"query":1026,"company":"dpd","name":"Njag","address":"Czaar Peterstraat 94A, 1018PS Amsterdam","geometry":{"type":"Point","coordinates":[4.92902741,52.36966864]}}
+{"query":1026,"company":"dpd","name":"Haq`S International","address":"Javastraat 6, 1094HG Amsterdam","geometry":{"type":"Point","coordinates":[4.93198485,52.36335271]}}
+{"query":1026,"company":"dpd","name":"Copystop","address":"Johan Van Hasseltweg 102, 1022WZ Amsterdam","geometry":{"type":"Point","coordinates":[4.92555663,52.38712721]}}
+{"query":1026,"company":"dpd","name":"Schoenmakerij De Leeuw","address":"1E Van Swindenstraat 62, 1093GG Amsterdam","geometry":{"type":"Point","coordinates":[4.92709099,52.36241705]}}
+{"query":1026,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1026,"company":"dpd","name":"D. Narain Service Center","address":"Grubbehoeve 53, 1103GJ Amsterdam","geometry":{"type":"Point","coordinates":[4.97795273,52.32188044]}}
+{"query":1026,"company":"dpd","name":"Business Bloemist Jan","address":"Rijksstraatweg 134A, 1115AV Duivendrecht","geometry":{"type":"Point","coordinates":[4.93737007,52.32643281]}}
+{"query":1026,"company":"postnl","name":"Bruna IJburg (745)","address":"IJburglaan 561, 1087BS Amsterdam","geometry":{"type":"Point","coordinates":[4.98931268,52.35873287]}}
+{"query":1026,"company":"postnl","name":"Primera Van Vuure","address":"Waterlandplein 260, 1024NB Amsterdam","geometry":{"type":"Point","coordinates":[4.95479854,52.39235547]}}
+{"query":1026,"company":"postnl","name":"Techador Koster","address":"Purmerplein 19, 1023BC Amsterdam","geometry":{"type":"Point","coordinates":[4.94446207,52.39149549]}}
+{"query":1026,"company":"postnl","name":"Drive Yourself","address":"Cruquiusweg 86, 1019AJ Amsterdam","geometry":{"type":"Point","coordinates":[4.94827964,52.36795303]}}
+{"query":1026,"company":"postnl","name":"Bruna (333)","address":"Oostelijke Handelskade 1061 -1063, 1019BW Amsterdam","geometry":{"type":"Point","coordinates":[4.93802854,52.37399925]}}
+{"query":1026,"company":"postnl","name":"Lloyd Hotel B.V.","address":"Oostelijke Handelskade 34, 1019BN Amsterdam","geometry":{"type":"Point","coordinates":[4.93488317,52.37427488]}}
+{"query":1026,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1026,"company":"postnl","name":"The Health House B.V.","address":"Buikslotermeerplein 200 B, 1025GA Amsterdam","geometry":{"type":"Point","coordinates":[4.93847092,52.39849229]}}
+{"query":1026,"company":"postnl","name":"Primera","address":"Buikslotermeerplein 100, 1025EX Amsterdam","geometry":{"type":"Point","coordinates":[4.93659313,52.39820655]}}
+{"query":1026,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1026,"company":"postnl","name":"The Read Shop","address":"Insulindeweg 478, 1094MH Amsterdam","geometry":{"type":"Point","coordinates":[4.93941867,52.36139478]}}
+{"query":1026,"company":"postnl","name":"Meester Schoenmaker Hillie's Sleute","address":"Javastraat 85 -87, 1094HB Amsterdam","geometry":{"type":"Point","coordinates":[4.93504211,52.36385875]}}
+{"query":1027,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1027,"company":"postnl","name":"The Health House B.V.","address":"Buikslotermeerplein 200 B, 1025GA Amsterdam","geometry":{"type":"Point","coordinates":[4.93847092,52.39849229]}}
+{"query":1028,"company":"postnl","name":"Primera Van Vuure","address":"Waterlandplein 260, 1024NB Amsterdam","geometry":{"type":"Point","coordinates":[4.95479854,52.39235547]}}
+{"query":1029,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1029,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1029,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1030,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1030,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1030,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1031,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam","geometry":{"type":"Point","coordinates":[4.90475795,52.38971365]}}
+{"query":1031,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam","geometry":{"type":"Point","coordinates":[4.91076816,52.39089739]}}
+{"query":1031,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam","geometry":{"type":"Point","coordinates":[4.9123783,52.39006801]}}
+{"query":1031,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam","geometry":{"type":"Point","coordinates":[4.91396214,52.39091945]}}
+{"query":1031,"company":"postnl","name":"Service Point Amsterdam CS","address":"De Ruijterkade 26 B, 1012AA Amsterdam","geometry":{"type":"Point","coordinates":[4.9011988,52.37933526]}}
+{"query":1031,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1031,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam","geometry":{"type":"Point","coordinates":[4.9139213,52.39277048]}}
+{"query":1031,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1031,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam","geometry":{"type":"Point","coordinates":[4.91450376,52.38498949]}}
+{"query":1031,"company":"postnl","name":"Castrikum Lectuurschop Haarlemmerst","address":"Haarlemmerstraat 41, 1013EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.89333879,52.37960937]}}
+{"query":1031,"company":"postnl","name":"Jumbo Foodmarkt Amsterdam","address":"Gedempt Hamerkanaal 223, 1021KP Amsterdam","geometry":{"type":"Point","coordinates":[4.91976766,52.38326358]}}
+{"query":1031,"company":"postnl","name":"L'art Pour Vous","address":"Haarlemmerdijk 56, 1013JE Amsterdam","geometry":{"type":"Point","coordinates":[4.88781443,52.38240834]}}
+{"query":1031,"company":"postnl","name":"Primera","address":"Haarlemmerdijk 168, 1013JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88496152,52.38401406]}}
+{"query":1031,"company":"postnl","name":"Primera L & A","address":"Nova Zemblastraat 565, 1013RJ Amsterdam","geometry":{"type":"Point","coordinates":[4.87877455,52.39070146]}}
+{"query":1031,"company":"postnl","name":"Tabakszaak Scario","address":"Prinsenstraat 23 C, 1015DB Amsterdam","geometry":{"type":"Point","coordinates":[4.88657342,52.37784633]}}
+{"query":1031,"company":"postnl","name":"Vivant de Jordaan","address":"Westerstraat 114, 1015MN Amsterdam","geometry":{"type":"Point","coordinates":[4.88343694,52.37857901]}}
+{"query":1031,"company":"postnl","name":"Primera","address":"Van Limburg Stirumplein 1, 1051BD Amsterdam","geometry":{"type":"Point","coordinates":[4.8754254,52.38431476]}}
+{"query":1032,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1032,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1032,"company":"postnl","name":"Cigo van der Pek","address":"Van der Pekstraat 137, 1031CX Amsterdam","geometry":{"type":"Point","coordinates":[4.91076816,52.39089739]}}
+{"query":1032,"company":"postnl","name":"H-Shop Amsterdam Noord","address":"Berberisstraat 36, 1032EM Amsterdam","geometry":{"type":"Point","coordinates":[4.9139213,52.39277048]}}
+{"query":1032,"company":"postnl","name":"SPACE@COM","address":"Hagedoornweg 44, 1031BS Amsterdam","geometry":{"type":"Point","coordinates":[4.9123783,52.39006801]}}
+{"query":1032,"company":"postnl","name":"Primera Mosveld","address":"Mosveld 103, 1031AD Amsterdam","geometry":{"type":"Point","coordinates":[4.91396214,52.39091945]}}
+{"query":1032,"company":"postnl","name":"Nicecopymail","address":"Asterweg 14, 1031HN Amsterdam","geometry":{"type":"Point","coordinates":[4.90475795,52.38971365]}}
+{"query":1032,"company":"postnl","name":"Techador","address":"Sperwerlaan 12 B, 1021EN Amsterdam","geometry":{"type":"Point","coordinates":[4.91450376,52.38498949]}}
+{"query":1032,"company":"postnl","name":"Primera in de Banne","address":"Bezaanjachtplein 271, 1034CR Amsterdam","geometry":{"type":"Point","coordinates":[4.91698878,52.40780183]}}
+{"query":1032,"company":"postnl","name":"Plus De Bongerd","address":"Boomgaardlaan 100, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1032,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boomgaardlaan 100 PBA, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1032,"company":"postnl","name":"Primera","address":"Buikslotermeerplein 100, 1025EX Amsterdam","geometry":{"type":"Point","coordinates":[4.93659313,52.39820655]}}
+{"query":1032,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1032,"company":"postnl","name":"The Health House B.V.","address":"Buikslotermeerplein 200 B, 1025GA Amsterdam","geometry":{"type":"Point","coordinates":[4.93847092,52.39849229]}}
+{"query":1032,"company":"postnl","name":"Quick Mobile Repair","address":"Buikslotermeerplein 290, 1025GB Amsterdam","geometry":{"type":"Point","coordinates":[4.93966536,52.3980654]}}
+{"query":1033,"company":"postnl","name":"Techador Menora","address":"Nieuwe Maanstraat 7 -9, 1033JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88630463,52.41204329]}}
+{"query":1033,"company":"postnl","name":"Primera","address":"Molenwijk 38, 1035EG Amsterdam","geometry":{"type":"Point","coordinates":[4.89301838,52.41727881]}}
+{"query":1033,"company":"postnl","name":"Plus De Bongerd","address":"Boomgaardlaan 100, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1033,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boomgaardlaan 100 PBA, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1033,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1033,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1034,"company":"dpd","name":"Scooterslandsmeer","address":"Zuideinde 45b, 1121CK Landsmeer","geometry":{"type":"Point","coordinates":[4.91052373,52.42449953]}}
+{"query":1034,"company":"dpd","name":"Copystop","address":"Johan Van Hasseltweg 102, 1022WZ Amsterdam","geometry":{"type":"Point","coordinates":[4.92555663,52.38712721]}}
+{"query":1034,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1034,"company":"dpd","name":"Parcls.Com B.V.","address":"Spaarndammerstraat 490, 1013SZ Amsterdam","geometry":{"type":"Point","coordinates":[4.87999967,52.38890918]}}
+{"query":1034,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1034,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1034,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1034,"company":"dpd","name":"Njag","address":"Czaar Peterstraat 94A, 1018PS Amsterdam","geometry":{"type":"Point","coordinates":[4.92902741,52.36966864]}}
+{"query":1034,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1034,"company":"dpd","name":"Copystop Centrum","address":"Wijdesteeg 3B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1034,"company":"postnl","name":"Primera in de Banne","address":"Bezaanjachtplein 271, 1034CR Amsterdam","geometry":{"type":"Point","coordinates":[4.91698878,52.40780183]}}
+{"query":1034,"company":"postnl","name":"Plus De Bongerd","address":"Boomgaardlaan 100, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1034,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boomgaardlaan 100 PBA, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1034,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1034,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1034,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1034,"company":"postnl","name":"Boven 't Y GSM","address":"Buikslotermeerplein 123 C, 1025ET Amsterdam","geometry":{"type":"Point","coordinates":[4.93658326,52.39917718]}}
+{"query":1035,"company":"dpd","name":"Scooterslandsmeer","address":"Zuideinde 45b, 1121CK Landsmeer","geometry":{"type":"Point","coordinates":[4.91052373,52.42449953]}}
+{"query":1035,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1035,"company":"dpd","name":"Copystop","address":"Johan Van Hasseltweg 102, 1022WZ Amsterdam","geometry":{"type":"Point","coordinates":[4.92555663,52.38712721]}}
+{"query":1035,"company":"dpd","name":"Parcls.Com B.V.","address":"Spaarndammerstraat 490, 1013SZ Amsterdam","geometry":{"type":"Point","coordinates":[4.87999967,52.38890918]}}
+{"query":1035,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1035,"company":"dpd","name":"Lock Luggage Storage","address":"Nieuwe Nieuwstraat 28, 1012NH Amsterdam","geometry":{"type":"Point","coordinates":[4.89370899,52.37537771]}}
+{"query":1035,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1035,"company":"dpd","name":"Candy Freaks","address":"Nieuwe Hoogstraat 4, 1011HE Amsterdam","geometry":{"type":"Point","coordinates":[4.89926626,52.37080802]}}
+{"query":1035,"company":"dpd","name":"Copystop Centrum","address":"Wijdesteeg 3B, 1012RN Amsterdam","geometry":{"type":"Point","coordinates":[4.8898737,52.37155748]}}
+{"query":1035,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1035,"company":"postnl","name":"Primera","address":"Molenwijk 38, 1035EG Amsterdam","geometry":{"type":"Point","coordinates":[4.89301838,52.41727881]}}
+{"query":1035,"company":"postnl","name":"Techador Menora","address":"Nieuwe Maanstraat 7 -9, 1033JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88630463,52.41204329]}}
+{"query":1035,"company":"postnl","name":"Plus De Bongerd","address":"Boomgaardlaan 100, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1035,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boomgaardlaan 100 PBA, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1035,"company":"postnl","name":"Cigo Landsmeer","address":"Nieuwe Gouw 38, 1121GX Landsmeer","geometry":{"type":"Point","coordinates":[4.91459124,52.42842031]}}
+{"query":1035,"company":"postnl","name":"Primera in de Banne","address":"Bezaanjachtplein 271, 1034CR Amsterdam","geometry":{"type":"Point","coordinates":[4.91698878,52.40780183]}}
+{"query":1036,"company":"postnl","name":"Plus De Bongerd","address":"Boomgaardlaan 100, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1036,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Boomgaardlaan 100 PBA, 1036KJ Amsterdam","geometry":{"type":"Point","coordinates":[4.90316408,52.40711769]}}
+{"query":1036,"company":"postnl","name":"Gamma","address":"Klimopweg 65, 1032HZ Amsterdam","geometry":{"type":"Point","coordinates":[4.90854818,52.39922]}}
+{"query":1036,"company":"postnl","name":"Primera in de Banne","address":"Bezaanjachtplein 271, 1034CR Amsterdam","geometry":{"type":"Point","coordinates":[4.91698878,52.40780183]}}
+{"query":1036,"company":"postnl","name":"KARWEI Amsterdam-Noord","address":"Klaprozenweg 31, 1032KK Amsterdam","geometry":{"type":"Point","coordinates":[4.90859523,52.39758444]}}
+{"query":1036,"company":"postnl","name":"Primera","address":"Molenwijk 38, 1035EG Amsterdam","geometry":{"type":"Point","coordinates":[4.89301838,52.41727881]}}
+{"query":1036,"company":"postnl","name":"Techador Menora","address":"Nieuwe Maanstraat 7 -9, 1033JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88630463,52.41204329]}}
+{"query":1037,"company":"dpd","name":"Scooterslandsmeer","address":"Zuideinde 45b, 1121CK Landsmeer","geometry":{"type":"Point","coordinates":[4.91052373,52.42449953]}}
+{"query":1037,"company":"dpd","name":"Zaandam Bicycle","address":"Peperstraat 130, 1502AL Zaandam","geometry":{"type":"Point","coordinates":[4.82846715,52.44138996]}}
+{"query":1037,"company":"dpd","name":"Hackmann 2 Wielers","address":"Hogendijk 123, 1506AG Zaandam","geometry":{"type":"Point","coordinates":[4.81860753,52.43611048]}}
+{"query":1037,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1037,"company":"dpd","name":"Parcls.Com B.V.","address":"Spaarndammerstraat 490, 1013SZ Amsterdam","geometry":{"type":"Point","coordinates":[4.87999967,52.38890918]}}
+{"query":1037,"company":"dpd","name":"Tabakspeciaalzaak Admiraal","address":"Admiraal De Ruijterweg 389H, 1055MC Amsterdam","geometry":{"type":"Point","coordinates":[4.85140427,52.38235705]}}
+{"query":1037,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1037,"company":"dpd","name":"Tabakshuis","address":"Haarlemmerstraat 18, 1013ER Amsterdam","geometry":{"type":"Point","coordinates":[4.8936469,52.37963762]}}
+{"query":1037,"company":"dpd","name":"Partsnl Amsterdam","address":"Burgemeester De Vlugtlaan 29-31, 1063BG Amsterdam","geometry":{"type":"Point","coordinates":[4.83415606,52.37921294]}}
+{"query":1037,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1037,"company":"postnl","name":"Techador Menora","address":"Nieuwe Maanstraat 7 -9, 1033JK Amsterdam","geometry":{"type":"Point","coordinates":[4.88630463,52.41204329]}}
+{"query":1037,"company":"postnl","name":"Primera","address":"Molenwijk 38, 1035EG Amsterdam","geometry":{"type":"Point","coordinates":[4.89301838,52.41727881]}}
+{"query":1038,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1038,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1038,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1039,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1039,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1039,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1040,"company":"postnl","name":"Vivant Robben","address":"Zuiderpoort 7, 6605HM Wijchen","geometry":{"type":"Point","coordinates":[5.72461657,51.79983719]}}
+{"query":1040,"company":"postnl","name":"Bruna","address":"Markt 26, 6602AN Wijchen","geometry":{"type":"Point","coordinates":[5.72662878,51.80719917]}}
+{"query":1040,"company":"postnl","name":"Jumbo (5791) Wijchen","address":"Herenstraat 17, 6602BA Wijchen","geometry":{"type":"Point","coordinates":[5.72490297,51.80951332]}}
+{"query":1041,"company":"dpd","name":"Hackmann 2 Wielers","address":"Hogendijk 123, 1506AG Zaandam","geometry":{"type":"Point","coordinates":[4.81860753,52.43611048]}}
+{"query":1041,"company":"dpd","name":"Zaandam Bicycle","address":"Peperstraat 130, 1502AL Zaandam","geometry":{"type":"Point","coordinates":[4.82846715,52.44138996]}}
+{"query":1041,"company":"dpd","name":"Tabakspeciaalzaak Admiraal","address":"Admiraal De Ruijterweg 389H, 1055MC Amsterdam","geometry":{"type":"Point","coordinates":[4.85140427,52.38235705]}}
+{"query":1041,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1041,"company":"dpd","name":"Partsnl Amsterdam","address":"Burgemeester De Vlugtlaan 29-31, 1063BG Amsterdam","geometry":{"type":"Point","coordinates":[4.83415606,52.37921294]}}
+{"query":1041,"company":"dpd","name":"Parcls.Com B.V.","address":"Spaarndammerstraat 490, 1013SZ Amsterdam","geometry":{"type":"Point","coordinates":[4.87999967,52.38890918]}}
+{"query":1041,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1041,"company":"dpd","name":"Scooterslandsmeer","address":"Zuideinde 45b, 1121CK Landsmeer","geometry":{"type":"Point","coordinates":[4.91052373,52.42449953]}}
+{"query":1041,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1041,"company":"dpd","name":"Sikan Lederwaren","address":"Jan Evertsenstraat 83, 1057BR Amsterdam","geometry":{"type":"Point","coordinates":[4.85421933,52.37055089]}}
+{"query":1041,"company":"postnl","name":"Vos Olie & Gas B.V.","address":"Butaanweg 3, 1041AH Amsterdam","geometry":{"type":"Point","coordinates":[4.85241471,52.40939659]}}
+{"query":1042,"company":"postnl","name":"Office Centre","address":"Zekeringstraat 49, 1014BP Amsterdam","geometry":{"type":"Point","coordinates":[4.84779742,52.39632555]}}
+{"query":1042,"company":"postnl","name":"Vos Olie & Gas B.V.","address":"Butaanweg 3, 1041AH Amsterdam","geometry":{"type":"Point","coordinates":[4.85241471,52.40939659]}}
+{"query":1043,"company":"dpd","name":"Partsnl Amsterdam","address":"Burgemeester De Vlugtlaan 29-31, 1063BG Amsterdam","geometry":{"type":"Point","coordinates":[4.83415606,52.37921294]}}
+{"query":1043,"company":"dpd","name":"Tabakspeciaalzaak Admiraal","address":"Admiraal De Ruijterweg 389H, 1055MC Amsterdam","geometry":{"type":"Point","coordinates":[4.85140427,52.38235705]}}
+{"query":1043,"company":"dpd","name":"Sikan Lederwaren","address":"Jan Evertsenstraat 83, 1057BR Amsterdam","geometry":{"type":"Point","coordinates":[4.85421933,52.37055089]}}
+{"query":1043,"company":"dpd","name":"Televersum","address":"Tussen Meer 12, 1068GA Amsterdam","geometry":{"type":"Point","coordinates":[4.80199758,52.35877297]}}
+{"query":1043,"company":"dpd","name":"Rd Telecom","address":"Sierplein 39, 1065LM Amsterdam","geometry":{"type":"Point","coordinates":[4.82594005,52.35532975]}}
+{"query":1043,"company":"dpd","name":"Communication Center Osdorp","address":"Tussen Meer 100, 1069DS Amsterdam","geometry":{"type":"Point","coordinates":[4.79349147,52.35705888]}}
+{"query":1043,"company":"dpd","name":"Homerr B.V. / Alba Supermarkt","address":"Van Hallstraat 254, 1051HM Amsterdam","geometry":{"type":"Point","coordinates":[4.87138424,52.37942589]}}
+{"query":1043,"company":"dpd","name":"Verwey","address":"Tweede Hugo De Grootstraat 35, 1052LB Amsterdam","geometry":{"type":"Point","coordinates":[4.87173207,52.37477177]}}
+{"query":1043,"company":"dpd","name":"Homerrpoint Ask Tabaksshop","address":"Rhijnvis Feithstraat 45, 1054TW Amsterdam","geometry":{"type":"Point","coordinates":[4.85994484,52.35953059]}}
+{"query":1043,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1043,"company":"postnl","name":"Cigo Brouwer","address":"Burg De Vlugtlaan 178, 1063BS Amsterdam","geometry":{"type":"Point","coordinates":[4.82264226,52.38147744]}}
+{"query":1043,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Teleportboulevard 100 PBA, 1043EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.83929663,52.38751453]}}
+{"query":1043,"company":"postnl","name":"Tabaksspeciaalzaak De Geuzen","address":"Ruys de Beerenbrouckstr 139, 1067BS Amsterdam","geometry":{"type":"Point","coordinates":[4.80071835,52.38225168]}}
+{"query":1043,"company":"postnl","name":"Office Centre","address":"Zekeringstraat 49, 1014BP Amsterdam","geometry":{"type":"Point","coordinates":[4.84779742,52.39632555]}}
+{"query":1043,"company":"postnl","name":"H-Shop Amsterdam","address":"Admiraal De Ruijterweg 462, 1055NG Amsterdam","geometry":{"type":"Point","coordinates":[4.84804839,52.38414835]}}
+{"query":1044,"company":"postnl","name":"Despatch","address":"Kleine Tocht 28, 1507CB Zaandam","geometry":{"type":"Point","coordinates":[4.80956948,52.43115233]}}
+{"query":1044,"company":"postnl","name":"Karwei","address":"Stormhoek 21, 1506SW Zaandam","geometry":{"type":"Point","coordinates":[4.82067994,52.42815016]}}
+{"query":1044,"company":"postnl","name":"Vos Olie & Gas B.V.","address":"Butaanweg 3, 1041AH Amsterdam","geometry":{"type":"Point","coordinates":[4.85241471,52.40939659]}}
+{"query":1044,"company":"postnl","name":"Office Centre","address":"Zekeringstraat 49, 1014BP Amsterdam","geometry":{"type":"Point","coordinates":[4.84779742,52.39632555]}}
+{"query":1044,"company":"postnl","name":"Pakket- en Briefautomaat","address":"Teleportboulevard 100 PBA, 1043EJ Amsterdam","geometry":{"type":"Point","coordinates":[4.83929663,52.38751453]}}
+{"query":1044,"company":"postnl","name":"H-Shop Amsterdam","address":"Admiraal De Ruijterweg 462, 1055NG Amsterdam","geometry":{"type":"Point","coordinates":[4.84804839,52.38414835]}}
+{"query":1044,"company":"postnl","name":"GAMMA Amsterdam-Nieuwe Hemweg","address":"Nieuwe Hemweg 1, 1013BG Amsterdam","geometry":{"type":"Point","coordinates":[4.86576201,52.39417705]}}
+{"query":1045,"company":"dpd","name":"Hackmann 2 Wielers","address":"Hogendijk 123, 1506AG Zaandam","geometry":{"type":"Point","coordinates":[4.81860753,52.43611048]}}
+{"query":1045,"company":"dpd","name":"Zaandam Bicycle","address":"Peperstraat 130, 1502AL Zaandam","geometry":{"type":"Point","coordinates":[4.82846715,52.44138996]}}
+{"query":1045,"company":"dpd","name":"Goed Gevonden","address":"Raadhuisstraat 19, 1541JA Koog Aan De Zaan","geometry":{"type":"Point","coordinates":[4.81067111,52.46161961]}}
+{"query":1045,"company":"dpd","name":"Partsnl Amsterdam","address":"Burgemeester De Vlugtlaan 29-31, 1063BG Amsterdam","geometry":{"type":"Point","coordinates":[4.83415606,52.37921294]}}
+{"query":1045,"company":"dpd","name":"Studio Present","address":"Dennenlaan 64, 1161CS Zwanenburg","geometry":{"type":"Point","coordinates":[4.75019803,52.37847208]}}
+{"query":1045,"company":"dpd","name":"Tabakspeciaalzaak Admiraal","address":"Admiraal De Ruijterweg 389H, 1055MC Amsterdam","geometry":{"type":"Point","coordinates":[4.85140427,52.38235705]}}
+{"query":1045,"company":"dpd","name":"GBS Tabak & Gemak","address":"Goeman Borgesiusstraat 1, 1544RM Zaandijk","geometry":{"type":"Point","coordinates":[4.81069616,52.47335465]}}
+{"query":1045,"company":"dpd","name":"Jami's","address":"Dorpsstraat 348, 1566BR Assendelft","geometry":{"type":"Point","coordinates":[4.73950565,52.4652848]}}
+{"query":1045,"company":"dpd","name":"Televersum","address":"Tussen Meer 12, 1068GA Amsterdam","geometry":{"type":"Point","coordinates":[4.80199758,52.35877297]}}
+{"query":1045,"company":"dpd","name":"Westerpark Computers & Telecom","address":"Spaarndammerstraat 636, 1013TH Amsterdam","geometry":{"type":"Point","coordinates":[4.8792243,52.38991247]}}
+{"query":1045,"company":"postnl","name":"Despatch","address":"Kleine Tocht 28, 1507CB Zaandam","geometry":{"type":"Point","coordinates":[4.80956948,52.43115233]}}
+{"query":1045,"company":"postnl","name":"Karwei","address":"Stormhoek 21, 1506SW Zaandam","geometry":{"type":"Point","coordinates":[4.82067994,52.42815016]}}
+{"query":1045,"company":"postnl","name":"Deen Zaandam Ebbehout","address":"Ebbehout 29, 1507EA Zaandam","geometry":{"type":"Point","coordinates":[4.8122151,52.4387232]}}
+{"query":1045,"company":"postnl","name":"Duponshop's","address":"Kepplerstraat 54, 1501XM Zaandam","geometry":{"type":"Point","coordinates":[4.83560385,52.43873609]}}
