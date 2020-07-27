@@ -3722,5 +3722,432 @@
       4.64932058,
       52.36170358
     ]
+  },
+  "Zijdstraat 30, 1431ED Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.74616749,
+      52.26873806
+    ]
+  },
+  "Einsteinstraat 125, 1433KH Kudelstaart": {
+    "type": "Point",
+    "coordinates": [
+      4.75023221,
+      52.23426604
+    ]
+  },
+  "Paxlaan 10, 2131PZ Hoofddorp": {
+    "type": "Point",
+    "coordinates": [
+      4.68188203,
+      52.30899125
+    ]
+  },
+  "Ophelialaan 106, 1431HM Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.7612747,
+      52.26398883
+    ]
+  },
+  "Zaanweg 105, 1521DP Wormerveer": {
+    "type": "Point",
+    "coordinates": [
+      4.79106473,
+      52.49098792
+    ]
+  },
+  "Zijdstraat 45, 1431EA Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.74748646,
+      52.26849249
+    ]
+  },
+  "Kaaikhof 9, 1567JP Assendelft": {
+    "type": "Point",
+    "coordinates": [
+      4.75223705,
+      52.4886765
+    ]
+  },
+  "Veerplein 106, 1404DC Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.16193068,
+      52.27601769
+    ]
+  },
+  "Marktplein 17, 1521HS Wormerveer": {
+    "type": "Point",
+    "coordinates": [
+      4.78565984,
+      52.49481087
+    ]
+  },
+  "Amstelplein 81, 1421SB Uithoorn": {
+    "type": "Point",
+    "coordinates": [
+      4.82888779,
+      52.23223712
+    ]
+  },
+  "Hoogstraat 4, 1441BC Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.94556421,
+      52.50949636
+    ]
+  },
+  "Energiestraat 14, 1411AT Naarden": {
+    "type": "Point",
+    "coordinates": [
+      5.15175373,
+      52.30150474
+    ]
+  },
+  "Dorpsstraat 9, 2441CE Nieuwveen": {
+    "type": "Point",
+    "coordinates": [
+      4.75681924,
+      52.19806088
+    ]
+  },
+  "Werf 15, 1435KP Rijsenhout": {
+    "type": "Point",
+    "coordinates": [
+      4.71502572,
+      52.25858115
+    ]
+  },
+  "Kerklaan 10, 1424BK De Kwakel": {
+    "type": "Point",
+    "coordinates": [
+      4.79387461,
+      52.23883888
+    ]
+  },
+  "Einsteinstraat 85 A, 1433KJ Kudelstaart": {
+    "type": "Point",
+    "coordinates": [
+      4.74986959,
+      52.23443148
+    ]
+  },
+  "Brugstraat 4, 1396JV Baambrugge": {
+    "type": "Point",
+    "coordinates": [
+      4.99015237,
+      52.24643879
+    ]
+  },
+  "Amsterdamsestraat 2, 1398BL Muiden": {
+    "type": "Point",
+    "coordinates": [
+      5.06771494,
+      52.33043451
+    ]
+  },
+  "Prinses Margrietlaan 32, 3641HD Mijdrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.86056609,
+      52.20680471
+    ]
+  },
+  "Molenpad 19, 1431BZ Aalsmeer": {
+    "type": "Point",
+    "coordinates": [
+      4.74596146,
+      52.26911026
+    ]
+  },
+  "Raadhuisweg 3, 1921AA Akersloot": {
+    "type": "Point",
+    "coordinates": [
+      4.73043863,
+      52.56094208
+    ]
+  },
+  "Rijperweg 50, 1462ME Middenbeemster": {
+    "type": "Point",
+    "coordinates": [
+      4.91018415,
+      52.54894958
+    ]
+  },
+  "Wagenweg 18, 1442BX Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.95280909,
+      52.51054713
+    ]
+  },
+  "Plein 13 103, 1521AP Wormerveer": {
+    "type": "Point",
+    "coordinates": [
+      4.8073887,
+      52.48539085
+    ]
+  },
+  "John F. Kennedyplein 63 -67, 1443EB Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.9691588,
+      52.5088678
+    ]
+  },
+  "Wormerplein 118, 1442CE Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.95919332,
+      52.51298981
+    ]
+  },
+  "Gildeplein 52, 1445BM Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.98496341,
+      52.50608231
+    ]
+  },
+  "Van Burgplein 20 -21, 1447KR Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.96869446,
+      52.49430328
+    ]
+  },
+  "Visserspad 2 B-3, 1561PK Krommenie": {
+    "type": "Point",
+    "coordinates": [
+      4.77493435,
+      52.50374907
+    ]
+  },
+  "Einsteinstraat 10, 1446VG Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.99883262,
+      52.51235592
+    ]
+  },
+  "Samsonweg 9, 1521RA Wormerveer": {
+    "type": "Point",
+    "coordinates": [
+      4.77987708,
+      52.50547516
+    ]
+  },
+  "Netwerk 19, 1446XB Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      5.00386896,
+      52.51092686
+    ]
+  },
+  "Kerkvaart 7, 3641EN Mijdrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.86515628,
+      52.20882325
+    ]
+  },
+  "Purmerenderweg 75, 1461DE Zuidoostbeemster": {
+    "type": "Point",
+    "coordinates": [
+      4.94736877,
+      52.52378812
+    ]
+  },
+  "Raadhuisstraat 35, 1474HH Oosthuizen": {
+    "type": "Point",
+    "coordinates": [
+      4.99479044,
+      52.57287326
+    ]
+  },
+  "De Marne 102, 8701MC Bolsward": {
+    "type": "Point",
+    "coordinates": [
+      5.50420133,
+      53.06369198
+    ]
+  },
+  "De Nieuwe Vaart 4 -18, 1401GP Bussum": {
+    "type": "Point",
+    "coordinates": [
+      5.16476825,
+      52.28449957
+    ]
+  },
+  "Neckerstraat 14, 1456BD Wijdewormer": {
+    "type": "Point",
+    "coordinates": [
+      4.93257881,
+      52.51055469
+    ]
+  },
+  "Nijverheidslaan 1 B, 1382LE Weesp": {
+    "type": "Point",
+    "coordinates": [
+      5.05011448,
+      52.3121938
+    ]
+  },
+  "Fabriekweg 16, 1525RB Westknollendam": {
+    "type": "Point",
+    "coordinates": [
+      4.77898172,
+      52.5170181
+    ]
+  },
+  "Akerhof 5, 1921DZ Akersloot": {
+    "type": "Point",
+    "coordinates": [
+      4.73428791,
+      52.56296398
+    ]
+  },
+  "Vooruitstraat 29, 1441GE Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.9454393,
+      52.50666071
+    ]
+  },
+  "Marktstraat 33, 1521DW Wormerveer": {
+    "type": "Point",
+    "coordinates": [
+      4.78935497,
+      52.49295872
+    ]
+  },
+  "E. de Bruynstraat 78, 1411TC Naarden": {
+    "type": "Point",
+    "coordinates": [
+      5.14599284,
+      52.29857879
+    ]
+  },
+  "Peter van Thaborplein 4, 8701EW Bolsward": {
+    "type": "Point",
+    "coordinates": [
+      5.5194857,
+      53.06456637
+    ]
+  },
+  "Kaaikhof 28, 1567JP Assendelft": {
+    "type": "Point",
+    "coordinates": [
+      4.7525675,
+      52.48831413
+    ]
+  },
+  "Nieuwmarkt 13, 8701KK Bolsward": {
+    "type": "Point",
+    "coordinates": [
+      5.52149691,
+      53.06246574
+    ]
+  },
+  "Leeuwerikplein 4, 1444HW Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.96132302,
+      52.52076253
+    ]
+  },
+  "Heiligeweg 33, 1561DD Krommenie": {
+    "type": "Point",
+    "coordinates": [
+      4.76621825,
+      52.5006141
+    ]
+  },
+  "De Lindeboom 16, 3641EX Mijdrecht": {
+    "type": "Point",
+    "coordinates": [
+      4.86712193,
+      52.20835869
+    ]
+  },
+  "Van Damplein 18, 1448NB Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.93891061,
+      52.49640715
+    ]
+  },
+  "Willem Eggertstraat 27, 1441CH Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.94699929,
+      52.50840663
+    ]
+  },
+  "Wormerplein 34, 1442CB Purmerend": {
+    "type": "Point",
+    "coordinates": [
+      4.95950207,
+      52.5132169
+    ]
+  },
+  "Dorpsstraat 25, 1399GT Muiderberg": {
+    "type": "Point",
+    "coordinates": [
+      5.11664213,
+      52.3272737
+    ]
+  },
+  "Mr.C.Kooimancentrum 19, 1383ED Weesp": {
+    "type": "Point",
+    "coordinates": [
+      5.04288388,
+      52.29842908
+    ]
+  },
+  "Grafterbaan 42 A, 1484ED Graft": {
+    "type": "Point",
+    "coordinates": [
+      4.83700997,
+      52.56069942
+    ]
+  },
+  "Uranuslaan 182, 1562XE Krommenie": {
+    "type": "Point",
+    "coordinates": [
+      4.75327793,
+      52.50335877
+    ]
+  },
+  "Heiligeweg 71 -73, 1561DG Krommenie": {
+    "type": "Point",
+    "coordinates": [
+      4.76389752,
+      52.50122207
+    ]
+  },
+  "Klein Muiden 54, 1393RL Nigtevecht": {
+    "type": "Point",
+    "coordinates": [
+      5.02718585,
+      52.27578465
+    ]
+  },
+  "Hoogstraat 32, 1391BV Abcoude": {
+    "type": "Point",
+    "coordinates": [
+      4.97399151,
+      52.2706667
+    ]
+  },
+  "Faunastraat 72, 1531WH Wormer": {
+    "type": "Point",
+    "coordinates": [
+      4.8125313,
+      52.49925778
+    ]
   }
 }
