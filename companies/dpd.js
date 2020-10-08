@@ -1,5 +1,5 @@
-module.exports = async function scrape (postcode, page) {
-  const url = `https://www.dpd.com/nl/parcelshops/show?searchtext=${postcode}`
+module.exports = async function scrape (query, page) {
+  const url = `https://www.dpd.com/nl/parcelshops/show?searchtext=${encodeURIComponent(query)}`
   await page.goto(url)
 
   const results = await page.$$eval('.parcelshopitem', (elements) => elements

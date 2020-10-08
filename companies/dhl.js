@@ -1,6 +1,6 @@
-module.exports = async function scrape (postcode, page) {
-  // const results = []
-  const url = `https://www.dhlparcel.nl/nl/consument/vind-dhl-punt?op=Vind%20DHL%20punt&q=${postcode}`
+module.exports = async function scrape (query, page) {
+  const url = `https://www.dhlparcel.nl/nl/consument/vind-dhl-punt?op=Vind%20DHL%20punt&q=${encodeURIComponent(query)}`
+
   await page.goto(url)
 
   try {

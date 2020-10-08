@@ -1,6 +1,6 @@
-module.exports = async function scrape (postcode, page) {
+module.exports = async function scrape (query, page) {
   const results = []
-  const url = `https://www.postnl.nl/locatiewijzer?q=${postcode}&f=23&c=0`
+  const url = `https://www.postnl.nl/locatiewijzer?q=${encodeURIComponent(query)}&f=23&c=0`
   await page.goto(url)
 
   try {
